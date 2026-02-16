@@ -4,62 +4,186 @@ Author: Team EG(Peter, Marcel)
 Draft date: 16.02.2026
 
 # AKT 1 
-= Introduction
+= Einführung
 
 ## INTRO
 
-WHITE SCREEN
+!WHITE SCREEN
 
-TH-LOGO ERSCHEINT.
+!TH-Logo erscheint.
 
-SUPER: "EPISODE 1.1 – EINFÜHRUNG INS LABOR"
+SUPER: "EPISODE 1.1 – Einführung ins Labor"
 
 CUT TO:
 
-##SZENE 1
-
-INT. LABOR - DAY
+## Begrüßung
+INT. LABOR - TOTALE - TAG
 
 Labor ist aufgeräumt, sauber und ordentlich. Ein Beispiel Aufbau eines Versuchs ist zu sehen. Der Versuch besteht aus Spannungs Quelle, einem Funktions-Generator, einer Widerstands-Dekade und einem Oszilloskop, einem Kondensator, einem Multimeter. Auf dem Oszilloskop ist eine Sinuskurve zu sehen. Es ist ein einfacher RC-Schaltkreis aufgebaut. Es ist zu sehen, dass die Spannung am Kondensator gemessen wird, Strom am Widerstand. 
 
+SLOW ZOOM TO:
+
 Zwei Personen arbeiten am Versuch und zeigen etwas auf dem Oszilloskop. 
 
-KAMERA SCHWENKT DURCH DAS LABOR
+ERZÄHLER (V.O.)
+Willkommen im Labor EG-Labor. Hier werden Sie im Praktikum Grundlegende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen.
 
-                    ERZÄHLER (V.O.)
-            Willkommen im Labor EG-Labor. Hier werden Sie im Praktikum Grundlagende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und 
-            Dioden untersuchen.
+===
+
+CUT TO:
+## Wo ist Was
+= Übersicht, wo man die Geräte und Kabel findet
+INT. LABOR - ARBEITSTISCH - TAG
+
+Alle Geräte und Bauteile für Versuch 1 liegen auf dem Tisch
+
+ERZÄHLER (V.O.)
+In den Praktikumsversuchen werden Sie alle benötigten Geräte bereits auf Ihrem Platz finden. Zum Verbinden dieser Geräte müssen Sie sich aber teilweise noch Kabel holen.
+
+PAN TO:
+
+Kabelhalterungen an der Wand, die Kabel sind nach Farben und Längen sortiert.
+
+ERZÄHLER (V.O.)
+Die Kable finden Sie an dieser Wand. Es gibt verschiedene Farben und Längen, damit Sie Ihre Schaltungen ordentlich aufbauen können.
 
 CUT TO:
 
-INT. KABELPLATZ - DAY
+## Bananenstecker
+INT. LABOR - ARBEITSTISCH - TAG
 
-Kabel sind nach Farben und längen sortiert.
+Auf dem Tische liegen Bananenstecker, rot und blau schwarz und gelb in den Unterschiedlichen Längen. 2 Widerstands-Dekaden sind zu sehen. 
 
-                    ERZÄHLER (V.O.)
-            Hier können Sie die Kabel für Ihre Schaltungen auswählen. Es gibt verschiedene Farben und Längen, damit Sie Ihre Schaltungen ordentlich aufbauen können.
-                    
-            Nach dem Praktikum, müssen die Kabel wieder ordentlich sortiert werden, damit die nächsten Praktikanten auch eine gute Auswahl haben.
+INSERT - Steckverbinder wird in der Hand gedreht
 
-Währenddessen sortiert eine person zwei Kabel richtig ein.
+ERZÄHLER (V.O.)
+Hier sehen Sie Kabel mit Bananenstecker.
+
+INSERT - Kabel wird in eine Widerstands-Dekade gesteckt
+
+ERZÄHLER (V.O.)
+Die Bananenstecker werden verwendet, um die meisten Bauteile miteinander verbinden.
+
 
 ===
 
 CUT TO:
 
-##SZENE 2
+## BNC-Stecker
+INT. LABOR - ARBEITSTISCH - TAG
 
-LABORTISCH, BANENSTECKER 
+Auf dem Tisch liegen BNC-Kabel ein Oszilloskop und ein Funktionsgenerator.
+Beide Geräte sind angeschaltet.
 
-Auf dem Tische liegen Bananenstecker, rot und blau schwarz und gelb in den Unterschiedlichen Längen. 2 Widerstands-Dekaden sind zu sehen. 
+INSERT - BNC Stecker wird in der Hand gedreht
 
-                    ERZÄHLER (V.O.)
-            Hier sehen Sie die Bananenstecker.
-            Die Bananenstecker werden verwendet, um die Bauteile miteinander verbinden.
- 
+ERZÄHLER (V.O.)
+Hier sehen Sie Kable mit BNC-Stecker. Diese werden verwendet, um das Oszilloskop mit dem Funktionsgenerator zu verbinden. Diese werden sie erst in späteren Praktikas benutzen.
+
+Funktionsgenerator und Oszilloskop stehen nebeneinander.
+Ein BNC-Kabel ist bereits am Funktionsgenerator angeschlossen.
+
+ZOOM IN - BNC-Stecker wird an Oszilloskop angeschlossen.
+
+ERZÄHLER (V.O.)
+Um eine Zuverlässige Verbindung zu gerwärleisten, drehen Sie den Metallring bis er einrastet.
+
+Eine Kurve erscheint auf dem Oszilloskop
+
+
 CUT TO:
 
-##SZENE 3
+# AKT 2 
+= Beispiel Aufbau eines Versuchs und Aufräumen des Arbeitsplatzes
+
+## SZENE 1
+
+LABORTISCH, VERSUCHSAUFBAU
+
+Auf dem Tisch steht ein Beispiel Aufbau(Versuch 1 Abbildung 9). Das Handmultimeter ist für Spannungsmessung vorbereitet, aber noch nicht in die Schaltung eingebaut. Das Labormultimeter ist auf Strommessung eingestellt und mit der Spannungsquelle verbunden. Die Widerstands-Dekade nur mit dem Minuspol verbunden. 
+
+Zwei Peronen arbeiten am Versuch, die linke Person steckt die fehlenden Verbindungen, die rechte Person verstellt eine Spannungsquelle. 
+
+ERZÄHLER (V.O.)
+Hier sehen Sie einen Beispiel Aufbau eines Versuchs. Sie werden immer in 2-er Gruppen arbeiten, um die Experimente durchzuführen. Es ist wichtig, dass Sie sorgfältig arbeiten und die Anweisungen genau befolgen, um genaue Ergebnisse zu erhalten.
+
+===
+
+ZOOM IN - VERSUCHSAUFBAU
+
+Pesonen arbeiten nicht mehr am Versuch.
+
+ERZÄHLER (V.O.)
+In diesem Versuch, können Sie breits die Spannungsquelle, den Widerstand und Messgeräte sehen.
+  
+Bitte Achten Sie darauf, dass der Arbeitsplatz genauso Hinteralssen wird, wie Sie ihn vorgefunden haben. Alle Kabel müssen ordentlich aufgeräumt und Zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
+
+CUT TO:
+
+LABORTISCH, GERÄTE ANGEORDNET
+
+Die Spannungsqulle steht ordentlich in der Mitte auf dem Tisch, daneben 2 Widerstands-Dekade, das Multimeter Peaktech und Multimeter Metramax. Keine Kabel sind zusehen.
+
+                    ERZÄHLER (V.O.)
+            Hier sehen Sie, wie der Arbeitsplatz nach dem Praktikum aussehen sollte. Alle Geräte sollten ordentlich angeordnet und alle Kabel ordentlich aufgeräumt und zurückgelegt werden.
+
+CUT TO:
+
+# AKT 3 
+= Praktikumsablauf
+
+## Ablauf
+.Präsentationsfolien
+
+
+Titel: Wie läuft das Praktikum ab?
+
+Unterpunkt: Drei Versuche
+
+ERZÄHLER (V.O.)
+Im Praktikum werden Sie drei verschiedene Versuche durchführen, die Ihnen helfen werden, die Grundlagen der Elektronik zu verstehen. Jeder Versuch wird Ihnen neue Konzepte und Fähigkeiten vermitteln.
+
+Titel: Vor Praktikum 1 & 2
+
+Unterpunkt: Videos anschauen
+
+ERZÄHLER (V.O.)
+Bevor Sie mit den ersten beiden Versuch beginnen, sollten Sie sich die entsprechenden Einführungsvideos ansehen. Diese Videos erklären wichtige Konzepte und die Bedienung der Geräte, die Sie verwenden werden.
+
+Unterpunkt: Onlinetest durchführen
+
+ERZÄHLER (V.O.)
+Sie müssen den zu den Videos gehörenden Online-Test bestehen, bevor Sie mit dem Praktikum beginnen können. Dieser Test ist nicht schwer, aber er stellt sicher dass Sie die grundlegenden Konzepte verstehen. Sie Können den Test so oft wie nötig wiederholen.
+
+
+Titel: Vor jedem Praktikum:
+
+Unterpunkt: Vorbereitung bearbeiten
+
+ERZÄHLER (V.O.)
+Vor jedem Praktikum müssen Sie eine kleine schriftliche Vorbereitung lösen.
+
+Unterpunkt: Aufgabendukument ausdrucken
+
+ERZÄHLER (V.O.)
+Um am Praktikum teilnehmen zu können, benötigen Sie pro Person eine volständig ausgedruckte Versuchsbeschreibung.
+
+
+
+# ENDE Episode 1.1, Einführung ins Labor
+
+
+/*
+## T
+Nach dem Praktikum, müssen die Kabel wieder ordentlich sortiert werden, damit die nächsten Praktikanten auch eine gute Auswahl haben.
+
+Währenddessen sortiert eine person zwei Kabel richtig ein.
+
+
+
+
+
+## Sicherheitsunterweisung
 
 LABORTISCH, STECKDOSE, BANENSTECKER
 
@@ -82,108 +206,4 @@ währenddessen:
             Hier sehen Sie, wie die Bananenstecker in die Widerstands-Dekade gesteckt werden. Die Banenstecker dürfen nur für die Bananenbuchsen verwendet.
 
 EIN GRÜNES HAKEN WIRD EINGEBLENDET.
-
-===
-
-CUT TO:
-
-##SZENE 4
-
-LABORTISCH, BNC-STECKERN, FUNKTIONS-GENERATOR, OSZILLOSKOP
-
-Auf dem Tisch liegen BNC-Stecker
-
-                    ERZÄHLER (V.O.)
-            Hier sehen Sie die BNC-Stecker. Diese werden verwendet, um das Oszilloskop mit dem Funktionsgenerator zu verbinden. Diese werden sie erst im letzten Praktikas benutzen.
-
-Funktionsgenerator und Oszilloskop stehen nebeneinander.
-Ein BNC-Stecker wird in den Funktionsgenerator gesteckt,
-
-ZOOM IN - BNC-STECKER
-
-                    ERZÄHLER (V.O.)
-            Zum Sicherstellen der Verbindungen, achten Sie darauf, dass die 
-            BNC-Stecker verdreht werden, bis sie einrasten.
-
-BNC-Stecker wird in das Oszilloskop gesteckt, bis er einrastet.
-
-CUT TO:
-
-# AKT 2 
-= Beispiel Aufbau eines Versuchs und Aufräumen des Arbeitsplatzes
-
-## SZENE 1
-
-LABORTISCH, VERSUCHSAUFBAU
-
-Auf dem Tisch steht ein Beispiel Aufbau(Versuch 1 Abbildung 9), die Spannung wird mit dem Multimeter Peaktech 4150 gemessen, ist aber noch nicht angeschlossen, aber Kabel stecken schon. Strom wird gemmessen und ist mit den Spannungsquelle verbunden. Widerstand nur mit den Miuns Polen verbunden. 
-
-Zwei Peronen arbeiten am Versuch, die linke Person steckt gerade die Kabel in den Spannungmeser, die rechte Person verstellt eine Spannungsquelle. 
-
-                    ERZÄHLER (V.O.)
-            Hier sehen Sie einen Beispiel Aufbau eines Versuchs. Sie werden immer in 2-er Gruppen arbeiten, um die Experimente durchzuführen. Es ist wichtig, dass Sie sorgfältig arbeiten und die Anweisungen genau befolgen, um genaue Ergebnisse zu erhalten.
-            
-===
-
-ZOOM IN - VERSUCHSAUFBAU
-
-Pesonen arbeiten nicht mehr am Versuch.
-
-
-
-
-                    ERZÄHLER (V.O.)
-            In diesem Versuch, können Sie breits die Spannungsquelle, den Widerstand und Messgeräte sehen.
-            
-            
-            Bitte Achten Sie darauf, dass der Arbeitsplatz genauso Hinteralssen wird, wie Sie ihn vorgefunden haben. Alle Kabel müssen ordentlich aufgeräumt und Zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
-
-CUT TO:
-
-LABORTISCH, GERÄTE ANGEORDNET
-
-Die Spannungsqulle steht ordentlich in der Mitte auf dem Tisch, daneben 2 Widerstands-Dekade, das Multimeter Peaktech und Multimeter Metramax. Keine Kabel sind zusehen.
-
-                    ERZÄHLER (V.O.)
-            Hier sehen Sie, wie der Arbeitsplatz nach dem Praktikum aussehen sollte. Alle Geräte sollten ordentlich angeordnet und alle Kabel ordentlich aufgeräumt und zurückgelegt werden.
-
-CUT TO:
-
-# AKT 3 
-= Praktikumsablauf
-
-## SZENE 1
-
-WHITE SCREEN
-
-SUPER: "WIE LÄUFT DAS PRAKTIKUM AB?"
-
-SUPER "ES GIBT 3 VERSUCHE, DIE SIE DURCHFÜHREN WERDEN."
-
-                ERZÄHLER (V.O.)
-            Im Praktikum werden Sie drei verschiedene Versuche durchführen, die Ihnen helfen werden, die Grundlagen der Elektronik zu verstehen. Jeder Versuch wird Ihnen neue Konzepte und Fähigkeiten vermitteln.
-
-SUPER "VOR DEM ERSTEN VERUCH, DIE ERSTEN VIDEOS ANSCHAUEN"
-
-                ERZÄHLER (V.O.)
-         Bevor Sie mit dem ersten Versuch beginnen, sollten Sie sich die ersten 4 Einführungsvideos ansehen, um ein besseres Verständnis der Konzepte und Geräte zu erhalten, die Sie verwenden werden.
-
-SUPER "VOR DEM PRAKTIKUM ILU ONILE TEST BESTEHEN"
-
-                ERZÄHLER (V.O.)
-        Sie müssen den Online-Test bestehen, bevor Sie mit dem Praktikum beginnen können. Keine Sorge, der Test ist nicht schwer, aber er stellt sicher, dass Sie die grundlegenden Konzepte verstehen. Sie Können den Test so oft wie nötig wiederholen, um zu bestehen.
-
-SUPER "VOR DEM ZWEITEN VERSUCH, DAS LETZTE VIDEO ANSCHAUEN"
-
-                ERZÄHLER (V.O.)
-        Bevor Sie mit dem zweiten Versuch beginnen, sollten Sie sich das letzte Einführungsvideo ansehen, um ein Verständnis für Ossziloskop und Funktionsgenerator zu erhalten.
-
-SUPER "VOR JEDEM PARAKTIKUM, KLEINE VORBEREITUNG SCHRIFTLICH LÖSEN"
-
-                ERZÄHLER (V.O.)
-        Vor jedem Praktikum müssen Sie eine kleine schriftliche Vorbereitung lösen.
-
-
-
-
-# ENDE Episode 1.1, Einführung ins Labor
+*/
