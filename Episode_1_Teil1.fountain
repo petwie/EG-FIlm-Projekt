@@ -3,7 +3,7 @@ Credit: Serie
 Author: Team EG (Peter, Marcel)
 Draft date: 30.02.2026
 
-# AKT 1 WO BIN iCH?
+# AKT 1 WO BIN ICH?
 = Einführung Teil 1.1
 
 ## INTRO
@@ -30,10 +30,9 @@ INT. LABOR - TOTALE - TAG
 
 Labor ist aufgeräumt, sauber und ordentlich. Ein Beispiel-Aufbau eines Versuchs ist zu sehen. Der Versuch besteht aus Spannungsquelle, einem Funktionsgenerator, einer Widerstands-Dekade und einem Oszilloskop, einem Kondensator, einem Multimeter. Auf dem Oszilloskop ist eine Sinuskurve zu sehen. Es ist ein einfacher RC-Schaltkreis aufgebaut. Es ist zu sehen, dass die Spannung am Kondensator gemessen wird, Strom am Widerstand.
 
-Leises labor brummen ist zu hören.
+Leises Labor brummen ist zu hören.
 
 Thomas Müller betritt das Labor.
-
 
 !KAMERA FÄHRT IN DEN RAUM DURCH DIE TÜR ZUM LABOR
 
@@ -47,7 +46,6 @@ Zwei Personen arbeiten am Versuch und zeigen etwas auf dem Oszilloskop.
 
 ERZÄHLER (V.O.)
 Willkommen im Labor für Elektrotechnische Grundlagen. Hier werden Sie im Praktikum Grundlegende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. In diesem Video möchten wir Ihnen einen Überblick über das Labor geben, damit Sie sich schnell zurechtfinden und gut vorbereitet in die Praktikumstermine starten können.
-
 
 CUT TO:
 ## Kabel / Wo ist was?
@@ -80,19 +78,17 @@ INSERT - Steckverbinder wird in der Hand gedreht
 ERZÄHLER (V.O.)
 Das sind die Kabel mit Bananenstecker. Es gibt mehrere Farben und Längen, damit Sie Ihre Schaltungen ordentlich aufbauen können. 
 
-
 POV Student, Student verbindet zwei Widerstands-Dekade mit einem Bananenstecker.
 
 ERZÄHLER (V.O.)
-Die Bananenstecker werden verwendet, um die Bauteile, die über Banenbüchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
-
+Die Bananenstecker werden verwendet, um die Bauteile, die über Banen Buchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
 
 CUT TO:
 
 ## BNC-Stecker
 INT. LABOR - ARBEITSTISCH - TAG
 
-Top Shopt, auf dem Tisch liegen BNC-Kabel ein Oszilloskop und ein Funktionsgenerator.
+Top Shot, auf dem Tisch liegen BNC-Kabel ein Oszilloskop und ein Funktionsgenerator.
 Beide Geräte sind angeschaltet.
 
 INSERT - BNC Stecker wird in der Hand gedreht
@@ -105,7 +101,6 @@ INSERT - BNC-Buchse am Oszilloskop
 ERZÄHLER (V.O.)
 So sieht die BNC-Buchse am Oszilloskop aus. Sie werden diese Buchse verwenden, um die Signale von Ihrem Funktionsgenerator zu messen.
 
-
 ZOOM OUT - POV Student,
 
 Funktionsgenerator und Oszilloskop stehen nebeneinander.
@@ -116,10 +111,9 @@ ZOOM IN - BNC-Stecker wird an Oszilloskop angeschlossen.
 ===
 
 ERZÄHLER (V.O.)
-Um eine zuverlässige Verbindung zu gewährleisten, drehen Sie den Metallring bis er einrastet.
+Um eine zuverlässige Verbindung zu gewährleisten, drehen Sie den Metallring, bis er einrastet.
 
 Es erscheinen auf dem Oszilloskop 2 Perioden einer Sinuskurve.
-
 
 CUT TO:
 
@@ -137,18 +131,17 @@ Zwei Personen arbeiten am Versuch, die linke Person steckt die fehlenden Verbind
 währenddessen:
 
 ERZÄHLER (V.O.)
-So werden die Versuchs aufbauten bei Ihnen aussehen. Sie werden immer in 2-er Gruppen arbeiten, um die Experimente durchzuführen. Es ist wichtig, dass Sie sorgfältig arbeiten und die Anweisungen genau befolgen, um genaue Ergebnisse zu erhalten.
-
+So werden die Versuchsaufbauten bei Ihnen aussehen. Sie werden immer in 2-er Gruppen arbeiten, um die Experimente durchzuführen. Es ist wichtig, dass Sie sorgfältig arbeiten und die Anweisungen genau befolgen, um genaue Ergebnisse zu erhalten.
 
 ZOOM IN - VERSUCHSAUFBAU
 
-Pesonen verstellen die Spannungsquelle, änderunggen am Labormultimeter erkennbar.
+Personen verstellen die Spannungsquelle, Änderungen am Labormultimeter erkennbar.
 währenddessen:
 
 ERZÄHLER (V.O.)
-In diesem Versuch, können Sie bereits die Spannungsquelle, den Widerstand und Messgeräte sehen.
+In diesem Versuch können Sie bereits die Spannungsquelle, den Widerstand und Messgeräte sehen.
   
-Bitte achten Sie darauf, dass der Arbeitsplatz genauso hinteralssen wird, wie Sie ihn vorgefunden haben. Alle Kabel müssen ordentlich aufgeräumt und zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
+Bitte achten Sie darauf, dass der Arbeitsplatz genauso hinterlassen wird, wie Sie ihn vorgefunden haben. Alle Kabel müssen ordentlich aufgeräumt und zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
 
 CUT TO:
 
@@ -162,7 +155,6 @@ ERZÄHLER (V.O.)
 So sollen die Arbeitsplätze nach den Versuchen aussehen. Bitte denken Sie daran, dass alle Geräte ausgeschaltet und ordentlich angeordnet sein sollen. Alle Kabel bitte ordentlich aufräumen und an den dafür vorgesehenen Plätzen einsortieren.
 
 
-
 CUT TO:
 
 # AKT 3 Wie läuft das Praktikum ab?
@@ -170,7 +162,6 @@ CUT TO:
 
 ## Ablauf
 .Präsentationsfolien
-
 
 Titel: Wie läuft das Praktikum ab?
 
@@ -196,13 +187,12 @@ Unterpunkt: Praktikum 3, Messungen zeitveränderlicher Größen
 ERZÄHLER (V.O.)
 Im dritten Praktikum werden Sie lernen, wie man zeitveränderliche Größen misst. Sie werden lernen, wie Kondensatoren, an Hoch- und Tiefpässen eingesetzt werden und wie man diese Bauteile mit dem Oszilloskop untersucht.
 
-
 CUT TO:
 
 ## Zeitlicher Ablauf
 .Präsentationsfolien Anlauf
 
-= Veraltungs Gefahr.(OPTIONAL)
+= Veraltungs Gefahr. (OPTIONAL)
 !STUNDENPLAN WIRD EINGEBLENDET
 
 Titel: Zeitlicher Ablauf
@@ -213,7 +203,6 @@ Für jedes Praktikum müssen Sie sich vorher anmelden, bitte denken Sie an die F
 CUT TO:
 
 # AKT 4 Wie bereite ich mich auf das Praktikum vor?
-
 
 = Versuchs-Vorbereitung Teil 1.2
 
@@ -239,15 +228,15 @@ Titel: Vor jedem Praktikum:
 Unterpunkt: Vorbereitung bearbeiten!
 
 ERZÄHLER (V.O.)
-Vor jedem Praktikum sollten Sie die Unterlagen sorgfältig durchlesen und die Praktikumsunterlagen Ausgedruck zu den Terminen mit bringen.
+Vor jedem Praktikum sollten Sie die Unterlagen sorgfältig durchlesen und die Praktikumsunterlagen ausgedruckt zu den Terminen mitbringen.
 
 ERZÄHLER (V.O.)
 Außerdem müssen Sie eine kleine schriftliche Vorbereitung lösen. Diese wird an den Terminen kontrolliert. Sie müssen die Vorbereitung vollständig und korrekt bearbeiten, um am Praktikum teilnehmen zu können.
 
-Unterpunkt: Aufgabendokument ausdrucken, Zeichenutensilien, Testatblatt,Taschenrechner
+Unterpunkt: Aufgabendokument ausdrucken, Zeichenutensilien, Testat-Blatt, Taschenrechner
 
 ERZÄHLER (V.O.)
-Bitte denken Sie daran, dass Sie zum Praktikum Ihre Aufgabendokumente ausgedruckt mitbringen, sowie Zeichenutensilien, Testatblatt und Taschenrechner.
+Bitte denken Sie daran, dass Sie zum Praktikum Ihre Aufgabendokumente ausgedruckt mitbringen, sowie Zeichenutensilien, Testat-Blatt und Taschenrechner.
 
 CUT TO:
 
@@ -266,10 +255,8 @@ CUT TO:
 
 SUPER: "Gefahren Im Labor!"
 
-
 ERZÄHLER (V.O.)
 Bevor die Versuche beginnen, möchten wir Sie auf einige wichtige Sicherheitsaspekte im Labor hinweisen. Ein ausführliches Sicherheitsvideo wird Ihnen vor Ort gezeigt, aber hier sind einige wichtige Punkte, die Sie beachten sollten.
-
 
 CUT TO:
 
@@ -287,12 +274,12 @@ Auch wenn die Bananenstecker perfekt in die Steckdosen passen, sollten Sie das n
 
 !ZOOM OUT - LABORTISCH
 
-POV student am Labortisch, zwei Wiederstands Dekaden sind zu sehen, die Bananenstecker werden in die Widerstands-Dekade gesteckt.
+POV Student am Labortisch, zwei Widerstands Dekaden sind zu sehen, die Bananenstecker werden in die Widerstands-Dekade gesteckt.
 
 währenddessen:
 
 ERZÄHLER (V.O.)
-Hier sehen Sie, wie die Bananenstecker in die Widerstands-Dekade gesteckt werden. Die Banenstecker dürfen nur für die Bananenbuchsen verwendet.
+Hier sehen Sie, wie die Bananenstecker in die Widerstands-Dekade gesteckt werden. Die Bananenstecker dürfen nur für die Bananenbuchsen verwendet.
 
 !EIN GRÜNES HAKEN WIRD EINGEBLENDET.
 
@@ -301,7 +288,7 @@ CUT TO:
 ## Notaus zeigen
 INT. LABOR - TOTALE - TAG 
 
-Labor ist zu sehen, im Hintergrund ist der Notaus Schalter zu sehen, von der Perspektive der vom Büro aus gesehen wird.
+Labor ist aus der Perspektive vom Labor aus zu sehen, im Hintergrund ist der Notaus Schalter.
 Labor ist aufgeräumt und sauber, es sind keine Kabel zu sehen und keine Aufbauten.
 
 Kamera fährt langsam zu den vorderen Arbeitsplätzen zum Büro, die Geräte sind ausgeschaltet und ordentlich angeordnet.
@@ -317,12 +304,12 @@ Hand drückt den Notaus Schalter.
 
 PAN TO:
 
-Notaus an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze aus gesehen.
+Notaus an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze ausgesehen.
 
-= bin mir grad nicht mehr Sicher ob da einer war
+= bin mir grad nicht mehr sicher ob da einer war
 
 ERZÄHLER (V.O.)
-Weiter Notaus Schalter befinden sich an der Tür zu den Arbeitsplätzen. Bitte achten Sie darauf, dass diese Schalter jederzeit zugänglich sind und nicht blockiert werden. Bitte achten Sie auch darauf, dass Sie den Notaus Schalter nur im Notfall betätigen!, da dies die Stromversorgung im gesamten Labor unterbricht.
+Weiter Notaus Schalter befinden sich an der Tür zu den Arbeitsplätzen. Bitte achten Sie darauf, dass diese Schalter jederzeit zugänglich sind und nicht blockiert werden. Bitte achten Sie auch darauf, dass Sie den Notaus Schalter nur im Notfall betätigen, da dies die Stromversorgung im gesamten Labor unterbricht.
 
 = noch was zum Thema Sicherheit im Notschalter?
 
@@ -338,7 +325,7 @@ Unterpunkt: Ruhe bewahren!
 ERZÄHLER (V.O.)
 Im Brandfall ist es wichtig, Ruhe zu bewahren und nicht in Panik zu geraten. 
 
-Unterpunkt: Alarm allamieren!
+Unterpunkt: Alarm alarmieren!
 
 ERZÄHLER (V.O.)
 Sobald Sie einen Brand bemerken, sollten Sie sofort den Alarm auslösen, um alle Personen im Gebäude zu warnen und die Feuerwehr zu alarmieren.
@@ -398,5 +385,6 @@ FADE TO WHITE
 TH-Logo erscheint.
 
 
-
 # ENDE Episode 1.1, Einführung ins Labor
+
+
