@@ -1,7 +1,7 @@
 Title: Episode 1, Einführung ins Labor
 Credit: Serie
 Author: Team EG (Peter, Marcel)
-Draft date: 30.02.2026
+Draft date: 10.03.2026
 
 # AKT 1 WO BIN ICH?
 = Einführung Teil 1.1
@@ -45,7 +45,7 @@ Zwei Personen arbeiten am Versuch und zeigen etwas auf dem Oszilloskop.
 ===
 
 ERZÄHLER (V.O.)
-Willkommen im Labor für Elektrotechnische Grundlagen. Hier werden Sie im Praktikum Grundlegende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. In diesem Video möchten wir Ihnen einen Überblick über das Labor geben, damit Sie sich schnell zurechtfinden und gut vorbereitet in die Praktikumstermine starten können.
+Willkommen im Labor für Elektrotechnische Grundlagen. Hier werden Sie im Praktikum grundlegende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. In diesem Video möchten wir Ihnen einen Überblick über das Labor geben, damit Sie sich schnell zurechtfinden und gut vorbereitet in die Praktikumstermine starten können.
 
 CUT TO:
 ## Kabel / Wo ist was?
@@ -78,7 +78,7 @@ INSERT - Steckverbinder wird in der Hand gedreht
 ERZÄHLER (V.O.)
 Das sind die Kabel mit Bananenstecker. Es gibt mehrere Farben und Längen, damit Sie Ihre Schaltungen ordentlich aufbauen können. 
 
-POV Student, Student verbindet zwei Widerstands-Dekade mit einem Bananenstecker.
+POV Student, Student verbindet zwei Widerstands-dekade mit einem Bananenstecker.
 
 ERZÄHLER (V.O.)
 Die Bananenstecker werden verwendet, um die Bauteile, die über Banen Buchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
@@ -149,7 +149,7 @@ CUT TO:
 
 INT. LABOR - ARBEITSTISCH - TAG
 
-Die Spannungsquelle steht ordentlich in der Mitte auf dem Tisch, daneben 2 Widerstands-Dekade, das Multimeter Peaktech und Multimeter Metramax. Keine Kabel sind zusehen.
+Die Spannungsquelle steht ordentlich in der Mitte auf dem Tisch, daneben 2 Widerstands-Dekaden, das Multimeter Peaktech und Multimeter Metramax. Keine Kabel sind zusehen.
 
 ERZÄHLER (V.O.)
 So sollen die Arbeitsplätze nach den Versuchen aussehen. Bitte denken Sie daran, dass alle Geräte ausgeschaltet und ordentlich angeordnet sein sollen. Alle Kabel bitte ordentlich aufräumen und an den dafür vorgesehenen Plätzen einsortieren.
@@ -265,7 +265,7 @@ INT. LABOR - ARBEITSTISCH - TAG
 
 !INSERT – STECKDOSE  
 
-Eine Hand steckt einen Bananenstecker fast in die Steckdose. währenddessen ist eine Stimme zu hören, die den Zuschauer warnt.
+Eine Hand steckt einen Bananenstecker fast in die Steckdose. Währenddessen ist eine Stimme zu hören, die den Zuschauer warnt.
 
 ERZÄHLER (V.O.)
 Auch wenn die Bananenstecker perfekt in die Steckdosen passen, sollten Sie das niemals tun. Das ist sehr gefährlich und kann zu schweren Verletzungen oder sogar zum Tod führen.
@@ -274,21 +274,21 @@ Auch wenn die Bananenstecker perfekt in die Steckdosen passen, sollten Sie das n
 
 !ZOOM OUT - LABORTISCH
 
-POV Student am Labortisch, zwei Widerstands Dekaden sind zu sehen, die Bananenstecker werden in die Widerstands-Dekade gesteckt.
+POV Student am Labortisch, zwei Widerstands-dekaden sind zu sehen. Die Bananenstecker werden in die Widerstands-Dekade gesteckt.
 
 währenddessen:
 
 ERZÄHLER (V.O.)
 Hier sehen Sie, wie die Bananenstecker in die Widerstands-Dekade gesteckt werden. Die Bananenstecker dürfen nur für die Bananenbuchsen verwendet.
 
-!EIN GRÜNES HAKEN WIRD EINGEBLENDET.
+!EIN GRÜNER HAKEN WIRD EINGEBLENDET.
 
 CUT TO:
 
 ## Notaus zeigen
 INT. LABOR - TOTALE - TAG 
 
-Labor ist aus der Perspektive vom Labor aus zu sehen, im Hintergrund ist der Notaus Schalter.
+Labor ist aus der Perspektive vom Labor aus zu sehen, im Hintergrund ist der Notaus-Schalter.
 Labor ist aufgeräumt und sauber, es sind keine Kabel zu sehen und keine Aufbauten.
 
 Kamera fährt langsam zu den vorderen Arbeitsplätzen zum Büro, die Geräte sind ausgeschaltet und ordentlich angeordnet.
@@ -296,20 +296,20 @@ Kamera fährt langsam zu den vorderen Arbeitsplätzen zum Büro, die Geräte sin
 Währenddessen:
 
 ERZÄHLER (V.O.)
-An jedem Arbeitsplatz befindet sich ein Notaus Schalter. Im Notfall können Sie diesen Schalter betätigen, um die Stromversorgung im Labor sofort zu unterbrechen. Bitte machen Sie sich mit der Lage des Notaus Schalters vertraut, damit Sie im Notfall schnell handeln können.
+An jedem Arbeitsplatz befindet sich ein Notaus-Schalter. Im Notfall können Sie diesen Schalter betätigen, um die Stromversorgung im Labor sofort zu unterbrechen. Bitte machen Sie sich mit der Lage des Notaus-Schalters vertraut, damit Sie im Notfall schnell handeln können.
 
-!INSERT - Notaus Schalter
+!INSERT - Notaus-Schalter
 
-Hand drückt den Notaus Schalter.
+Hand drückt den Notaus-Schalter.
 
 PAN TO:
 
-Notaus an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze ausgesehen.
+Notaus-Schalters an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze ausgesehen.
 
 = bin mir grad nicht mehr sicher ob da einer war
 
 ERZÄHLER (V.O.)
-Weiter Notaus Schalter befinden sich an der Tür zu den Arbeitsplätzen. Bitte achten Sie darauf, dass diese Schalter jederzeit zugänglich sind und nicht blockiert werden. Bitte achten Sie auch darauf, dass Sie den Notaus Schalter nur im Notfall betätigen, da dies die Stromversorgung im gesamten Labor unterbricht.
+Weiter Notaus-Schalter befinden sich an der Tür zu den Arbeitsplätzen. Bitte achten Sie darauf, dass diese Notaus-Schalter jederzeit zugänglich sind und nicht blockiert werden. Bitte achten Sie auch darauf, dass Sie den Notaus-Schalter nur im Notfall betätigen, da dies die Stromversorgung im gesamten Labor unterbricht.
 
 = noch was zum Thema Sicherheit im Notschalter?
 
@@ -325,7 +325,7 @@ Unterpunkt: Ruhe bewahren!
 ERZÄHLER (V.O.)
 Im Brandfall ist es wichtig, Ruhe zu bewahren und nicht in Panik zu geraten. 
 
-Unterpunkt: Alarm alarmieren!
+Unterpunkt: Alarm auslösen!
 
 ERZÄHLER (V.O.)
 Sobald Sie einen Brand bemerken, sollten Sie sofort den Alarm auslösen, um alle Personen im Gebäude zu warnen und die Feuerwehr zu alarmieren.
@@ -339,7 +339,7 @@ Unterpunkt: Gebäude verlassen!
 ERZÄHLER (V.O.)
 Nachdem Sie den Alarm ausgelöst haben, sollten Sie das Gebäude so schnell wie möglich verlassen. Folgen Sie den Fluchtwegen und verlassen Sie das Gebäude über die nächstgelegenen Ausgänge. Versuchen Sie nicht, persönliche Gegenstände mitzunehmen, da dies Ihre Flucht verzögern könnte.
 
-Unterpunkt: Löschversuch nur im Notfall!
+Unterpunkt: Löschversuch im Brandfall!
 
 !BILD VON FEUERLÖSCHER WIRD EINGEBLENDET
 
