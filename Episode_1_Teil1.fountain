@@ -1,7 +1,7 @@
 Title: Episode 1, Einführung ins Labor
 Credit: Serie
-Author: Team EG(Peter, Marcel)
-Draft date: 16.02.2026
+Author: Team EG (Peter, Marcel)
+Draft date: 30.02.2026
 
 # AKT 1 WO BIN iCH?
 = Einführung Teil 1.1
@@ -28,7 +28,7 @@ CUT TO:
 ## Begrüßung
 INT. LABOR - TOTALE - TAG
 
-Labor ist aufgeräumt, sauber und ordentlich. Ein Beispiel Aufbau eines Versuchs ist zu sehen. Der Versuch besteht aus Spannungsquelle, einem Funktionsgenerator, einer Widerstands-Dekade und einem Oszilloskop, einem Kondensator, einem Multimeter. Auf dem Oszilloskop ist eine Sinuskurve zu sehen. Es ist ein einfacher RC-Schaltkreis aufgebaut. Es ist zu sehen, dass die Spannung am Kondensator gemessen wird, Strom am Widerstand.
+Labor ist aufgeräumt, sauber und ordentlich. Ein Beispiel-Aufbau eines Versuchs ist zu sehen. Der Versuch besteht aus Spannungsquelle, einem Funktionsgenerator, einer Widerstands-Dekade und einem Oszilloskop, einem Kondensator, einem Multimeter. Auf dem Oszilloskop ist eine Sinuskurve zu sehen. Es ist ein einfacher RC-Schaltkreis aufgebaut. Es ist zu sehen, dass die Spannung am Kondensator gemessen wird, Strom am Widerstand.
 
 Leises labor brummen ist zu hören.
 
@@ -37,7 +37,7 @@ Thomas Müller betritt das Labor.
 
 !KAMERA FÄHRT IN DEN RAUM DURCH DIE TÜR ZUM LABOR
 
-währenddessen: Thomas Müller zu dem aufgebauten Versuch.
+währenddessen: Thomas Müller geht zu dem aufgebauten Versuch.
 
 SLOW ZOOM TO:
 
@@ -46,7 +46,7 @@ Zwei Personen arbeiten am Versuch und zeigen etwas auf dem Oszilloskop.
 ===
 
 ERZÄHLER (V.O.)
-Willkommen im Labor EG-Labor. Hier werden Sie im Praktikum Grundlegende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. In diesem Video möchten wir Ihnen einen Überblick über das Labor geben, damit Sie sich schnell zurechtfinden und gut vorbereitet in die Praktikumstermine starten können.
+Willkommen im Labor für Elektrotechnische Grundlagen. Hier werden Sie im Praktikum Grundlegende Schaltungen kennenlernen, Strom, Spannung und Widerstand messen, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. In diesem Video möchten wir Ihnen einen Überblick über das Labor geben, damit Sie sich schnell zurechtfinden und gut vorbereitet in die Praktikumstermine starten können.
 
 
 CUT TO:
@@ -84,7 +84,7 @@ Das sind die Kabel mit Bananenstecker. Es gibt mehrere Farben und Längen, damit
 POV Student, Student verbindet zwei Widerstands-Dekade mit einem Bananenstecker.
 
 ERZÄHLER (V.O.)
-Die Bananenstecker werden verwendet, um die Bauteile die über Banenbüchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
+Die Bananenstecker werden verwendet, um die Bauteile, die über Banenbüchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
 
 
 CUT TO:
@@ -98,9 +98,9 @@ Beide Geräte sind angeschaltet.
 INSERT - BNC Stecker wird in der Hand gedreht
 
 ERZÄHLER (V.O.)
-Hier sehen Sie Kabel mit BNC-Stecker. Diese werden verwendet, um das Oszilloskop mit dem Funktionsgenerator zu verbinden. Diese werden sie erst in späteren Praktika benutzen.
+Hier sehen Sie Kabel mit BNC-Stecker. Diese werden verwendet, um das Oszilloskop mit dem Funktionsgenerator zu verbinden. Diese werden Sie erst in späteren Praktika benutzen.
 
-INSERT - BNC büchse am Oszilloskop
+INSERT - BNC-Buchse am Oszilloskop
 
 ERZÄHLER (V.O.)
 So sieht die BNC-Buchse am Oszilloskop aus. Sie werden diese Buchse verwenden, um die Signale von Ihrem Funktionsgenerator zu messen.
@@ -118,7 +118,7 @@ ZOOM IN - BNC-Stecker wird an Oszilloskop angeschlossen.
 ERZÄHLER (V.O.)
 Um eine zuverlässige Verbindung zu gewährleisten, drehen Sie den Metallring bis er einrastet.
 
-Es erscheint auf dem Oszilloskop 2 Perioden einer Sinuskurve.
+Es erscheinen auf dem Oszilloskop 2 Perioden einer Sinuskurve.
 
 
 CUT TO:
@@ -130,7 +130,7 @@ CUT TO:
 
 INT. LABOR - ARBEITSTISCH - TAG
 
-Auf dem Tisch steht ein Beispiel Aufbau(Versuch 1 Abbildung 9). Das Handmultimeter ist für Spannungsmessung vorbereitet, aber noch nicht in die Schaltung eingebaut. Das Labormultimeter ist auf Strommessung eingestellt und mit der Spannungsquelle verbunden. Die Widerstands-Dekade nur mit dem Minuspol verbunden. 
+Auf dem Tisch steht ein Beispiel Aufbau (Versuch 1 Abbildung 9). Das Handmultimeter ist für Spannungsmessung vorbereitet, aber noch nicht in die Schaltung eingebaut. Das Labormultimeter ist auf Strommessung eingestellt und mit der Spannungsquelle verbunden. Die Widerstands-Dekade nur mit dem Minuspol verbunden. 
 
 Zwei Personen arbeiten am Versuch, die linke Person steckt die fehlenden Verbindungen, die rechte Person verstellt eine Spannungsquelle. 
 
@@ -148,7 +148,7 @@ währenddessen:
 ERZÄHLER (V.O.)
 In diesem Versuch, können Sie bereits die Spannungsquelle, den Widerstand und Messgeräte sehen.
   
-Bitte Achten Sie darauf, dass der Arbeitsplatz genauso hinteralssen wird, wie Sie ihn vorgefunden haben. Alle Kabel müssen ordentlich aufgeräumt und zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
+Bitte achten Sie darauf, dass der Arbeitsplatz genauso hinteralssen wird, wie Sie ihn vorgefunden haben. Alle Kabel müssen ordentlich aufgeräumt und zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
 
 CUT TO:
 
