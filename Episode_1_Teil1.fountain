@@ -39,11 +39,11 @@ Zwei weitere Widerstandsdekaden verbinden den oberen und den unteren Zweig.
 In den rechten Zweig ist zusätzlich eine Diode eingesetzt.
 In den Hauptzweig ist ein Amperemeter in Reihe eingebaut.
 Über einer Widerstandsdekade ist ein Voltmeter parallel angeschlossen.
-Die Leitungen sind sauber geführt, damit die rechteckige Form und der Diodenzweig klar zu erkennen sind.
+Die Leitungen sind sauber geführt, damit die rechteckige Form und der Zweig mit der Diode klar zu erkennen sind.
 
 Zwei Personen arbeiten am Versuch.
 
-Labor HintergrundGeräusche sind zu hören.
+Labor Hintergrund Geräusche sind zu hören.
 
 Thomas Müller betritt das Labor.
 
@@ -58,7 +58,8 @@ Zwei Personen arbeiten am Versuch und zeigen etwas auf dem Spannungsmessgerät.
 ===
 
 ERZÄHLER (V.O.)
-Willkommen im Elektrotechniklabor! Im kommenden Praktika werden Sie hier grundlegende Schaltungen aufbauen, lernen, wie man Strom, Spannung und Widerstand misst, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. Damit Sie sich schnell im Labor zurechtfinden und gut vorbereitet starten können, zeigen wir Ihnen in diesem Video einen Überblick über den Arbeitsablauf, die Geräte und die wichtigsten Sicherheitsregeln.
+Willkommen im Elektrotechniklabor! Im kommenden Praktikum
+ werden Sie hier grundlegende Schaltungen aufbauen, lernen, wie man Strom, Spannung und Widerstand misst, und die Eigenschaften von Bauteilen wie Kondensatoren und Dioden untersuchen. Damit Sie sich schnell im Labor zurechtfinden und gut vorbereitet starten können, zeigen wir Ihnen in diesem Video einen Überblick über den Arbeitsablauf, die Geräte und die wichtigsten Sicherheitsregeln.
 
 CUT TO:
 ## Leitung / Wo ist was?
@@ -74,7 +75,7 @@ Student steht vom Versuch auf und geht zu den Leitungshalterungen.
 
 PAN TO:
 
-Leitunghalterungen an der Wand, die Leitungen sind nach Farben und Längen sortiert.
+Leitungshalterungen an der Wand, die Leitungen sind nach Farben und Längen sortiert.
 
 ERZÄHLER (V.O.)
 Die Leitungen hängen an dieser Wand und sind in verschiedenen Farben verfügbar, damit Sie Ihre Schaltungen sauber und übersichtlich aufbauen können. Bitte legen Sie die Leitung nach dem Praktikum wieder ordentlich zurück, damit auch die nächsten Praktikantinnen und Praktikanten eine gute Auswahl haben.
@@ -84,17 +85,22 @@ CUT TO:
 ## Bananenstecker
 INT. LABOR - ARBEITSTISCH - TAG
 
-Top Shot, auf dem Tische liegen Bananenstecker, rot und blau schwarz und gelb in den Unterschiedlichen Längen. 2 Widerstands-Dekaden sind zu sehen.     
+Top Shot, auf dem Tische liegen Bananenstecker: rot, blau, schwarz und gelb in den unterschiedlichen Längen. 2 Widerstands-Dekaden sind zu sehen.     
 
 INSERT - Steckverbinder wird in der Hand gedreht
 
 ERZÄHLER (V.O.)
 Das sind die Leitungen mit Bananenstecker. Es gibt mehrere Farben und Längen, damit Sie Ihre Schaltungen ordentlich aufbauen können. 
 
-POV Student, Student verbindet zwei Widerstands-dekade mit einem Bananenstecker.
+POV Student, Student verbindet zwei Widerstands-Dekaden mit einem Bananenstecker.
 
 ERZÄHLER (V.O.)
-Die Bananenstecker werden verwendet, um die Bauteile, die über Banen Buchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
+Diese Leitungen werden verwendet um die Bauteile, die über Banen Buchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
+
+POV Student, Student steck ein Ende einer weiteren Leitung oben in einen bereits gesteckten Bananenstecker
+
+ERZÄHLER (V.O.)
+Um mehrere Leitungen an eine Buchse anzuschließen, können Sie die Stecker ineinanderstecken. 
 
 CUT TO:
 
@@ -105,7 +111,7 @@ CUT TO:
 
 INT. LABOR - ARBEITSTISCH - TAG
 
-Auf dem Tisch steht ein Beispiel Aufbau (Versuch 1 Abbildung 9). Das Handmultimeter ist für Spannungsmessung vorbereitet, aber noch nicht in die Schaltung eingebaut. Das Labormultimeter ist auf Strommessung eingestellt und mit der Spannungsquelle verbunden. Die Widerstands-Dekade nur mit dem Minuspol der Spannungsquelle verbunden. 
+Auf dem Tisch steht ein Beispiel Aufbau (Versuch 1 Abbildung 9). Das Handmultimeter ist für Spannungsmessung vorbereitet, aber noch nicht in die Schaltung eingebaut. Das Labormultimeter ist auf Strommessung eingestellt und mit dem Pluspol der Spannungsquelle verbunden. Die Widerstands-Dekade nur mit dem Minuspol der Spannungsquelle verbunden. 
 
 Zwei Personen arbeiten am Versuch, die linke Person steckt die fehlenden Verbindungen, die rechte Person verstellt eine Spannungsquelle. 
 
@@ -121,8 +127,7 @@ währenddessen:
 
 ERZÄHLER (V.O.)
 In diesem Versuch können Sie bereits die Spannungsquelle, den Widerstand und Messgeräte sehen.
-  
-Bitte achten Sie darauf, dass der Arbeitsplatz genauso hinterlassen wird, wie Sie ihn vorgefunden haben. Alle Leitungen müssen ordentlich aufgeräumt und zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
+Auf diese Geräte werden wir in einem späteren Vido genauer eingehen.
 
 CUT TO:
 
@@ -130,11 +135,13 @@ CUT TO:
 
 INT. LABOR - ARBEITSTISCH - TAG
 
+ERZÄHLER (V.O.)
+Bitte achten Sie darauf, dass der Arbeitsplatz genauso hinterlassen wird, wie Sie ihn vorgefunden haben. Alle Leitungen müssen ordentlich aufgeräumt und zurückgelegt werden, damit die nächsten Praktikanten auch eine gute Arbeitsumgebung haben.
+
 Die Spannungsquelle steht ordentlich in der Mitte auf dem Tisch, daneben 2 Widerstands-Dekaden, das Multimeter Peaktech und Multimeter Metramax. Keine Leitungen sind zusehen.
 
 ERZÄHLER (V.O.)
 So sollen die Arbeitsplätze nach den Versuchen aussehen. Bitte denken Sie daran, dass alle Geräte ausgeschaltet und ordentlich angeordnet sein sollen. Alle Leitungen bitte ordentlich aufräumen und an den dafür vorgesehenen Plätzen einsortieren.
-
 
 CUT TO:
 
@@ -159,7 +166,7 @@ Im ersten Versuch beschäftigen Sie sich mit den grundlegenden Größen Strom, S
 Unterpunkt: Praktikum 2, Messung an nichtlinearen Widerständen
 
 ERZÄHLER (V.O.)
-Im zweiten Versuch untersuchen Sie nichtlineare Widerstände. Dabei messen Sie Bauteile wie Dioden und PTCs und lernen, wie sie in Schaltungen eingesetzt werden.
+Im zweiten Versuch untersuchen Sie nichtlineare Widerstände. Dabei messen Sie Bauteile wie Dioden und temperaturabhängige Widerstände und lernen, wie sie in Schaltungen eingesetzt werden.
 
 Unterpunkt: Praktikum 3, Messungen zeitveränderlicher Größen
 
@@ -171,13 +178,22 @@ CUT TO:
 ## Zeitlicher Ablauf
 .Präsentationsfolien Anlauf
 
-= Veraltungs Gefahr. (OPTIONAL)
-!STUNDENPLAN WIRD EINGEBLENDET
-
 Titel: Zeitlicher Ablauf
 
+Unterpunkt: PSSO
+PSSO-Login-Seite wird auf der Folie eingeblendet
+
 ERZÄHLER (V.O.)
-Bitte melden Sie sich rechtzeitig zu den Versuchen an und halten Sie die Fristen ein. Kommen Sie pünktlich, damit genug Zeit für Aufbau, Messungen und Auswertung bleibt. Falls Sie verhindert sind, informieren Sie frühzeitig die Laborleitung oder Ihren Dozenten.
+Da es sich bei den in der TH durchgeführten Praktika um Prüfungen handelt, müssen Sie diese auch im PSSO (Prüfungs- und Studierendenservice Online) anmelden. Es handelt sich um eine unbenotete Prüfungsleistung (ULP). Sie bekommen also keine Note für das Praktikum, sondern nur ein “Bestanden“ oder “Nicht Bestanden“.
+
+Unterpunkt: ILU
+!ILU-Seite des EG-Kurses wird eingeblendet [[Veraltungs Gefahr. (OPTIONAL)]]
+
+ERZÄHLER (V.O.)
+Die Praktikumstermine können Sie im entsprechenden Kurs frei im ILU auswählen. Sie benötigen für Versuch 1, Versuch 2 und Versuch 3 jeweils einen Termin. Eine Mehrfacheintragung für einen Versuch ist nicht möglich.
+Es ist wichtig, dass Sie pünktlich zum Praktikumstermin erscheinen. Sie haben 3 Zeitstunden, um alle Aufgabenteile des Versuches zu bearbeiten. Werden Sie nicht fertig oder haben Sie falsch gemessen bekommen Sie ein „Nicht Bestanden“ und müssen im Folgejahr das Praktikum nochmals machen.
+  
+Eine kurzfristige nicht Teilnahmen ist nur mit einem wichtigen Grund wie z.B. Krankheit zu entschuldigen. 
 
 CUT TO:
 
@@ -212,7 +228,8 @@ Bitte bearbeiten Sie vorab eine kurze schriftliche Vorbereitung. Diese wird bei 
 Unterpunkt: Aufgabendokument ausdrucken, Zeichenutensilien, Testat-Blatt, Taschenrechner
 
 ERZÄHLER (V.O.)
-Bitte denken Sie daran, dass Sie zum Praktikum Ihre Aufgabendokumente ausgedruckt mitbringen, sowie Zeichenutensilien, Testat-Blatt und Taschenrechner.
+Bitte denken Sie daran, dass Sie zum Praktikum Ihre Aufgabendokumente ausgedruckt mitbringen, sowie Zeichenutensilien, das Testat-Blatt und einen Taschenrechner.
+Ihr Testat-Blatt erhalten Sie während des ersten Versuchs.
 
 CUT TO:
 
@@ -227,12 +244,12 @@ CUT TO:
 
 !WHITE SCREEN
 
-!BILD HOCHSPANNUNG WIRD EINGEBLENDET
+!WARNSYMBOL ELEKTRISCHE GEFAHR WIRD EINGEBLENDET
 
 SUPER: "Gefahren Im Labor!"
 
 ERZÄHLER (V.O.)
-Bevor die Versuche beginnen, möchten wir Sie auf einige wichtige Sicherheitsaspekte im Labor hinweisen. Ein ausführliches Sicherheitsvideo wird Ihnen vor Ort gezeigt, aber hier sind einige wichtige Punkte, die Sie beachten sollten.
+Bevor die Versuche beginnen, möchten wir Sie auf einige wichtige Sicherheitsaspekte im Labor hinweisen. Eine ausführliche Sicherheitsunterweisung erhalten Sie vor Ort, aber hier sind einige wichtige Punkte, die Sie beachten sollten. Es geht dabei in erster Linie um Ihre Sicherheit. Sie arbeiten in unseren Versuchen immer nur unter Schutzkleinspannung. Diese Spannung liegt bei der Gleichspannung (DC = Direct Current) bei 120V und bei Wechselspannung (AC = Alternating Current) bei 50V. Wenn die Spannung kleiner als die gerade genannten Grenzen ist, ist das für Menschen und Tiere ungefährlich. Bei nicht sachgemäßer Handhabung von elektrischen Betriebsmitteln, kann es trotzdem zu Gefahren durch elektrischen Strom kommen.
 
 CUT TO:
 
@@ -244,7 +261,7 @@ INT. LABOR - ARBEITSTISCH - TAG
 Eine Hand steckt einen Bananenstecker fast in die Steckdose. Währenddessen ist eine Stimme zu hören, die den Zuschauer warnt.
 
 ERZÄHLER (V.O.)
-Auch wenn die Bananenstecker perfekt in die Steckdosen passen, sollten Sie das niemals tun. Das ist sehr gefährlich und kann zu schweren Verletzungen oder sogar zum Tod führen.
+Sie benutzen in Ihren Versuchen Messleitungen mit Bananensteckern. Diese passen genau in die 220V AC-Steckdosen. Diese dort einzuführen ist Ihnen strengstens untersagt. Weder einpolig noch zweipolig.
 
 !EIN ROTES KREUZ WIRD EINGEBLENDET.
 
@@ -255,7 +272,7 @@ POV Student am Labortisch, zwei Widerstands-dekaden sind zu sehen. Die Bananenst
 währenddessen:
 
 ERZÄHLER (V.O.)
-Hier sehen Sie, wie die Bananenstecker in die Widerstands-Dekade gesteckt werden. Die Bananenstecker dürfen nur für die Bananenbuchsen verwendet.
+Verwenden Sie die Messleitungen nur mit den dafür vorgesehenen Buchsen.
 
 !EIN GRÜNER HAKEN WIRD EINGEBLENDET.
 
@@ -272,22 +289,21 @@ Kamera fährt langsam zu den vorderen Arbeitsplätzen zum Büro, die Geräte sin
 Währenddessen:
 
 ERZÄHLER (V.O.)
-In jeder Arbeitsplatzreihe gibt es einen Notaus‑Schalter. Betätigen Sie ihn im Notfall, um die Spannungsversorgung sofort abzuschalten. Machen Sie sich mit seiner Position vertraut, damit Sie im Ernstfall schnell reagieren können.
+Falls durch Falschbedienung doch ein Notfall durch elektrische Spannung auftreten sollte, haben Sie die Möglichkeit eine Spannungsunterbrechung mit Hilfe des NOT-Aus-Schalter zu erwirken.
 
 !INSERT - Notaus-Schalter
 
-Hand drückt den Notaus-Schalter.
+Hand schlägt auf den Notaus-Schalter.
+
+ERZÄHLER (V.O.)
+Bei Betätigung des rot-gelben Schalters (draufhauen) werden alle Steckdosen im Labor ausgeschaltet und die Verletzte Person kann erstversorgt werden. Den Rettungsdienst erreichen Sie mit dem Telefon unter der bekannten Telefonnummer 112.
 
 PAN TO:
 
 Notaus-Schalters an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze ausgesehen.
 
-= bin mir grad nicht mehr sicher ob da einer war
-
 ERZÄHLER (V.O.)
-Weiter Notaus-Schalter befinden sich an der Tür zu den Arbeitsplätzen. Bitte achten Sie darauf, dass diese Notaus-Schalter jederzeit zugänglich sind und nicht blockiert werden. Bitte achten Sie auch darauf, dass Sie den Notaus-Schalter nur im Notfall betätigen, da dies die Stromversorgung im gesamten Labor unterbricht.
-
-= noch was zum Thema Sicherheit im Notschalter?
+Die Not-Aus-Schalter finden Sie in jeder Arbeitsplatzreihe und an den beiden Eingangstüren. Bitte achten Sie darauf, dass die Not-Aus-Schalter zu jedem Zeitpunkt zugänglich sind.
 
 CUT TO:
 
@@ -296,39 +312,34 @@ CUT TO:
 
 Titel: Wie verhalte ich mich im Brandfall?
 
-Unterpunkt: Ruhe bewahren!
+Unterpunkt: Brand melden und bekämpfen
+!BILD VON FEUERLÖSCHER WIRD EINGEBLENDET
 
 ERZÄHLER (V.O.)
-Im Brandfall ist es wichtig, Ruhe zu bewahren und nicht in Panik zu geraten. 
+Sollte es zu einem kleinen Brand kommen, kann dieser mit denen zur Verfügung stehenden Feuerlöschern bekämpft werden. Bitte rufen Sie die Feuerwehr unter der Telefonnummer 112 an und melden den Brandort. Bitte verwenden Sie den Feuerlöscher nur, wenn Sie sich sicher bei der Bedienung fühlen. 
+Bei unserem Labor handelt es sich um den Standort Deutz Zentralgebäude 6. Ebene Südflügel Raum 8. 
 
-Unterpunkt: Alarm auslösen!
+Unterpunkt: Leitwarte informieren!
+Telefonnummer 8275 2000
 
 ERZÄHLER (V.O.)
-Sobald Sie einen Brand bemerken, alarmieren Sie sofort die Feuerwehr und informieren Sie die Pforte, damit alle Personen im Gebäude gewarnt werden.
-
-= gibt es einen Feueralarm im Labor?
+Wenn Sie den Rettungsdienst oder die Feuerwehr anrufen, sollte parallel auch die Leitwarte unter der Telefonnummer 8275 2000 über das Eintreffen informiert werden.
 
 Unterpunkt: Gebäude verlassen!
 
 !FLUCHTWEG WIRD EINGEBLENDET
 
 ERZÄHLER (V.O.)
-Nachdem Sie den Alarm ausgelöst haben, sollten Sie das Gebäude so schnell wie möglich verlassen. Folgen Sie den Fluchtwegen und verlassen Sie das Gebäude über die nächstgelegenen Ausgänge. Versuchen Sie nicht, persönliche Gegenstände mitzunehmen, da dies Ihre Flucht verzögern könnte.
+Macht ein Löschversuch keinen Sinn, informieren Sie unverzüglich die Feuerwehr und verlassen ruhig und ohne Ihre privaten Sachen das Gebäude. Hierfür stehen Ihnen auf den Fluren Schilder mit verschiedenen Rettungswegen zur Verfügung. Entfernen Sie sich von dem Gebäude und versammeln Sie sich an den ausgewiesenen Sammelpunkten.
 
-Unterpunkt: Löschversuch im Brandfall!
-
-!BILD VON FEUERLÖSCHER WIRD EINGEBLENDET
-
-ERZÄHLER (V.O.)
-Im Labor befinden sich Feuerlöscher, die im Notfall verwendet werden können. Bitte verwenden Sie diese nur, wenn Sie sich sicher fühlen und es keine Gefahr für Sie oder andere gibt. 
-
+[[Den nächsten Teil behalten?]]
 CUT TO:
 
 ## Feuerlöscher
 
 INT. LABOR – TOTALE – TAG
 
-Das Labor ist aufgeräumt und leer. Keine Versuchsaufbauten sind zu sehen.
+Das Labor ist aufgeräumt Der Versuch aus der Begrüßung ist zusehen.
 
 Die Kamera zeigt den Raum in einer Totale und fährt langsam in Richtung der Tür zu den Arbeitsplätzen.
 
@@ -349,22 +360,22 @@ damit Sie im Notfall schnell reagieren können.
 
 INT. LABOR – TOTALE – TAG
 
-Das Labor ist aufgeräumt. Die Arbeitsplätze sind leer.
-Die Kamera fährt langsam durch den Raum.
+Das Labor ist aufgeräumt. Der Versuch aus der Begrüßung ist zusehen. die Zwei Personen arbeiten am Versuch und stecken etwas. Thomas Müller steht daneben und beobachtet die beiden Personen.
 
 ERZÄHLER (V.O.)
 Sie kennen nun die wichtigsten Regeln
 und Abläufe im EG-Labor.
+Viel Spaß und Erfolg bei Ihren Versuchen!
 
 TH-OUTRO
+
+Währenddessen: Thomas Müller dreht sich um und zeigt zwei Daumen hoch.
 
 FADE TO WHITE
 
 TH-Logo erscheint.
 
-
 # ENDE Episode 1.1, Einführung ins Labor
-
 
 /*
 
@@ -401,5 +412,5 @@ Um eine zuverlässige Verbindung zu gewährleisten, drehen Sie den Metallring, b
 
 Es erscheinen auf dem Oszilloskop 2 Perioden einer Sinuskurve.
 
-
 */
+
