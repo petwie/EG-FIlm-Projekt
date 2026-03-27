@@ -9,6 +9,8 @@ Draft date: 10.03.2026
 ## INTRO
 .Intro Zur Episode 1
 
+TH-INTRO
+
 EXT. LABOR – TAG
 
 Die Kamera filmt die Tür zum Labor von außen.
@@ -18,8 +20,6 @@ SUPER:
 Episode 1.1 – Einführung ins Labor
 
 LANGSAME AUFHELLUNG (Fade to White)
-
-TH-INTRO
 
 WHITE SCREEN
 
@@ -33,12 +33,9 @@ INT. LABOR - TOTALE - TAG
 Labor ist aufgeräumt, sauber und ordentlich. Ein Beispiel-Aufbau ist zu sehen.
 
 Die Spannungsquelle steht links neben dem Aufbau.
-Von ihr führen die Leitungen zu einem rechteckigen Netzwerk aus vier Widerstandsdekaden.
-Je eine Widerstandsdekade bildet die linke und die rechte Seite.
-Zwei weitere Widerstandsdekaden verbinden den oberen und den unteren Zweig.
-In den rechten Zweig ist zusätzlich eine Diode eingesetzt.
-In den Hauptzweig ist ein Amperemeter in Reihe eingebaut.
-Über einer Widerstandsdekade ist ein Voltmeter parallel angeschlossen.
+Von ihr führen die Leitungen zu einer Wheatstonesche Messbrücke aus Widerstandsdekaden.
+In den rechten Zweig ist unten zusätzlich eine Diode eingesetzt.
+In den Hauptzweig ist ein Amperemeter in Reihe eingebaut und zwischen den Zweigen wird die Spannung gemessen.
 Die Leitungen sind sauber geführt, damit die rechteckige Form und der Zweig mit der Diode klar zu erkennen sind.
 
 Zwei Personen arbeiten am Versuch.
@@ -71,7 +68,7 @@ Alle Geräte und Bauteile für Versuch 1 liegen auf dem Tisch
 ERZÄHLER (V.O.)
 Die Geräte für Ihre Versuche stehen bereits an Ihrem Arbeitsplatz. Die Verbindungsleitungen nehmen Sie sich einfach nach Bedarf.
 
-Student steht vom Versuch auf und geht zu den Leitungshalterungen.
+Student*in steht vom Versuch auf und geht zu den Leitungshalterungen.
 
 PAN TO:
 
@@ -85,19 +82,19 @@ CUT TO:
 ## Bananenstecker
 INT. LABOR - ARBEITSTISCH - TAG
 
-Top Shot, auf dem Tische liegen Bananenstecker: rot, blau, schwarz und gelb in den unterschiedlichen Längen. 2 Widerstands-Dekaden sind zu sehen.     
+Top Shot, auf dem Tisch liegen Bananenstecker: rot, blau, schwarz und gelb in den unterschiedlichen Längen. 2 Widerstands-Dekaden sind zu sehen.     
 
 INSERT - Steckverbinder wird in der Hand gedreht
 
 ERZÄHLER (V.O.)
-Das sind die Leitungen mit Bananenstecker. Es gibt mehrere Farben und Längen, damit Sie Ihre Schaltungen ordentlich aufbauen können. 
+Das sind die Leitungen mit Bananenstecker. Es gibt verschiedene Farben, damit Sie Ihre Schaltungen ordentlich aufbauen können. 
 
-POV Student, Student verbindet zwei Widerstands-Dekaden mit einem Bananenstecker.
+POV Student*in, Student*in verbindet zwei Widerstands-Dekaden mit einer Messleitung mit Bananensteckern.
 
 ERZÄHLER (V.O.)
 Diese Leitungen werden verwendet um die Bauteile, die über Banen Buchsen verfügen, miteinander zu verbinden. Sie werden sie in allen drei Praktika benutzen, um Ihre Schaltungen aufzubauen.
 
-POV Student, Student steck ein Ende einer weiteren Leitung oben in einen bereits gesteckten Bananenstecker
+POV Student*in, Student*in steck ein Ende einer weiteren Leitung oben in einen bereits gesteckten Bananenstecker
 
 ERZÄHLER (V.O.)
 Um mehrere Leitungen an eine Buchse anzuschließen, können Sie die Stecker ineinanderstecken. 
@@ -118,7 +115,7 @@ Zwei Personen arbeiten am Versuch, die linke Person steckt die fehlenden Verbind
 währenddessen:
 
 ERZÄHLER (V.O.)
-So werden die Versuchsaufbauten bei Ihnen aussehen. Sie werden immer in Zweiergruppen arbeiten, um die Versuche durchzuführen. Es ist wichtig, dass Sie sorgfältig arbeiten und die Anweisungen genau befolgen, um genaue Ergebnisse zu erhalten und idealerweise auch zu verstehen, was Sie tun.   
+So werden die Versuchsaufbauten bei Ihnen aussehen. Sie werden immer in Zweiergruppen arbeiten, um die Versuche durchzuführen. Es ist wichtig, dass Sie sorgfältig arbeiten und die Anweisungen genau befolgen, um genaue Ergebnisse zu erhalten und idealerweise auch zu verstehen, was Sie tun.
 
 ZOOM IN - VERSUCHSAUFBAU
 
@@ -127,7 +124,7 @@ währenddessen:
 
 ERZÄHLER (V.O.)
 In diesem Versuch können Sie bereits die Spannungsquelle, den Widerstand und Messgeräte sehen.
-Auf diese Geräte werden wir in einem späteren Vido genauer eingehen.
+Auf diese Geräte werden wir in einem späteren Video genauer eingehen.
 
 CUT TO:
 
@@ -184,7 +181,7 @@ Unterpunkt: PSSO
 PSSO-Login-Seite wird auf der Folie eingeblendet
 
 ERZÄHLER (V.O.)
-Da es sich bei den in der TH durchgeführten Praktika um Prüfungen handelt, müssen Sie diese auch im PSSO (Prüfungs- und Studierendenservice Online) anmelden. Es handelt sich um eine unbenotete Prüfungsleistung (ULP). Sie bekommen also keine Note für das Praktikum, sondern nur ein “Bestanden“ oder “Nicht Bestanden“.
+Da es sich bei unseren Praktika um Prüfungen handelt, müssen Sie diese auch im PSSO (Prüfungs- und Studierendenservice Online) anmelden. Es handelt sich um eine unbenotete Prüfungsleistung (ULP). Sie bekommen also keine Note für das Praktikum, sondern nur ein “Bestanden“ oder “Nicht Bestanden“.
 
 Unterpunkt: ILU
 !ILU-Seite des EG-Kurses wird eingeblendet [[Veraltungs Gefahr. (OPTIONAL)]]
@@ -216,7 +213,7 @@ Unterpunkt: Onlinetest durchführen
 Titel: Vor Praktikum 1 & 2
 
 ERZÄHLER (V.O.)
-Sie müssen den zu den Videos gehörenden Online-Test bestehen, bevor Sie mit dem Praktikum beginnen können. Dieser Test ist nicht schwer, aber er stellt sicher, dass Sie die grundlegenden Konzepte verstehen. Sie können den Test so oft wie nötig wiederholen.
+Sie müssen den zu den Videos gehörenden Online-Test bestehen, bevor Sie mit dem Praktikum beginnen können. Dieser Test ist nicht schwer, aber er stellt sicher, dass Sie die grundlegenden elektischen Zusammenhänge verstehen. Sie können den Test so oft wie nötig wiederholen.
 
 Titel: Vor jedem Praktikum:
 
@@ -249,7 +246,7 @@ CUT TO:
 SUPER: "Gefahren Im Labor!"
 
 ERZÄHLER (V.O.)
-Bevor die Versuche beginnen, möchten wir Sie auf einige wichtige Sicherheitsaspekte im Labor hinweisen. Eine ausführliche Sicherheitsunterweisung erhalten Sie vor Ort, aber hier sind einige wichtige Punkte, die Sie beachten sollten. Es geht dabei in erster Linie um Ihre Sicherheit. Sie arbeiten in unseren Versuchen immer nur unter Schutzkleinspannung. Diese Spannung liegt bei der Gleichspannung (DC = Direct Current) bei 120V und bei Wechselspannung (AC = Alternating Current) bei 50V. Wenn die Spannung kleiner als die gerade genannten Grenzen ist, ist das für Menschen und Tiere ungefährlich. Bei nicht sachgemäßer Handhabung von elektrischen Betriebsmitteln, kann es trotzdem zu Gefahren durch elektrischen Strom kommen.
+Bevor die Versuche beginnen, möchten wir Sie auf einige wichtige Sicherheitsaspekte im Labor hinweisen. Eine ausführliche Sicherheitsunterweisung erhalten Sie vor Ort, aber hier sind einige wichtige Punkte, die Sie beachten sollten. Es geht dabei in erster Linie um Ihre Sicherheit. Sie arbeiten in unseren Versuchen immer nur unter Schutzkleinspannung. Diese Spannung liegt bei einer Gleichspannung unter 120V... und bei einer Wechselspannung unter 50V. Wenn Sie sich in diesen Spannungsbereichen befinden, ist das für Menschen und Tiere ungefährlich. Bei nicht sachgemäßer Handhabung von elektrischen Betriebsmitteln, kann es trotzdem zu Gefahren durch elektrischen Strom kommen.
 
 CUT TO:
 
@@ -267,7 +264,7 @@ Sie benutzen in Ihren Versuchen Messleitungen mit Bananensteckern. Diese passen 
 
 !ZOOM OUT - LABORTISCH
 
-POV Student am Labortisch, zwei Widerstands-dekaden sind zu sehen. Die Bananenstecker werden in die Widerstands-Dekade gesteckt.
+POV Student*in am Labortisch, zwei Widerstands-dekaden sind zu sehen. Die Bananenstecker werden in die Widerstands-Dekade gesteckt.
 
 währenddessen:
 
@@ -278,10 +275,10 @@ Verwenden Sie die Messleitungen nur mit den dafür vorgesehenen Buchsen.
 
 CUT TO:
 
-## Notaus zeigen
+## Not-Aus zeigen
 INT. LABOR - TOTALE - TAG 
 
-Labor ist aus der Perspektive vom Labor aus zu sehen, im Hintergrund ist der Notaus-Schalter.
+Labor ist aus der Perspektive vom Labor aus zu sehen, im Hintergrund ist der Not-Aus-Schalter.
 Labor ist aufgeräumt und sauber, es sind keine Leitungen zu sehen und keine Aufbauten.
 
 Kamera fährt langsam zu den vorderen Arbeitsplätzen zum Büro, die Geräte sind ausgeschaltet und ordentlich angeordnet.
@@ -291,16 +288,16 @@ Währenddessen:
 ERZÄHLER (V.O.)
 Falls durch Falschbedienung doch ein Notfall durch elektrische Spannung auftreten sollte, haben Sie die Möglichkeit eine Spannungsunterbrechung mit Hilfe des NOT-Aus-Schalter zu erwirken.
 
-!INSERT - Notaus-Schalter
+!INSERT - Not-Aus-Schalter
 
-Hand schlägt auf den Notaus-Schalter.
+Hand schlägt auf den Not-Aus-Schalter.
 
 ERZÄHLER (V.O.)
 Bei Betätigung des rot-gelben Schalters (draufhauen) werden alle Steckdosen im Labor ausgeschaltet und die Verletzte Person kann erstversorgt werden. Den Rettungsdienst erreichen Sie mit dem Telefon unter der bekannten Telefonnummer 112.
 
 PAN TO:
 
-Notaus-Schalters an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze ausgesehen.
+Not-Aus-Schalters an der Tür zu den Arbeitsplätzen, von der Perspektive der Arbeitsplätze ausgesehen.
 
 ERZÄHLER (V.O.)
 Die Not-Aus-Schalter finden Sie in jeder Arbeitsplatzreihe und an den beiden Eingangstüren. Bitte achten Sie darauf, dass die Not-Aus-Schalter zu jedem Zeitpunkt zugänglich sind.
@@ -339,9 +336,9 @@ CUT TO:
 
 INT. LABOR – TOTALE – TAG
 
-Das Labor ist aufgeräumt Der Versuch aus der Begrüßung ist zusehen.
+Das Labor ist aufgeräumt und leer. Keine Versuchsaufbauten sind zu sehen.
 
-Die Kamera zeigt den Raum in einer Totale und fährt langsam in Richtung der Tür zu den Arbeitsplätzen.
+Die Kamera zeigt den Raum in einer Totalen und fährt langsam in Richtung der Tür zu den Arbeitsplätzen.
 
 Neben der Tür hängt ein Feuerlöscher.
 
@@ -352,7 +349,7 @@ INSERT – Feuerlöscher
 Der Feuerlöscher ist deutlich zu sehen.
 
 ERZÄHLER (V.O.)
-Im Labor befinden sich mehrere Feuerlöscher.
+Auf dem Flur befinden sich mehrere Feuerlöscher.
 Bitte machen Sie sich mit deren Position vertraut,
 damit Sie im Notfall schnell reagieren können.
 
@@ -360,7 +357,7 @@ damit Sie im Notfall schnell reagieren können.
 
 INT. LABOR – TOTALE – TAG
 
-Das Labor ist aufgeräumt. Der Versuch aus der Begrüßung ist zusehen. die Zwei Personen arbeiten am Versuch und stecken etwas. Thomas Müller steht daneben und beobachtet die beiden Personen.
+Das Labor ist aufgeräumt. Der Versuch aus der Begrüßung ist zusehen. Die zwei Personen arbeiten am Versuch und stecken etwas. Thomas Müller steht daneben und beobachtet die beiden Personen.
 
 ERZÄHLER (V.O.)
 Sie kennen nun die wichtigsten Regeln
