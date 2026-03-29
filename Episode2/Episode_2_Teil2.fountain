@@ -1,0 +1,226 @@
+Title: Episode 2.2, Bedienung des Netzteils
+Credit: Serie
+Author: Team EG (Peter, Marcel)
+Draft date: 28.03.2026
+
+# AKT 1 Was ist das Netzteil?
+
+## INTRO
+.Intro zur Episode 2.2
+INT. LABOR - TAG
+
+Die Kamera zeigt einen aufgebauten Versuch (Versuch 1 Abbildung 9).
+
+ZOOM INTO NETZTEIL
+
+SUPER:
+Episode 2.2 – Netzteil
+
+CUT TO:
+
+## Überblick
+INT. LABOR - HALBTOTALE - TAG
+
+Student*in steht vor einem Labortisch auf dem ein Netzteil steht.
+im Fokus das Netzteil.
+
+ERZÄHLER (V.O.)
+In diesem Teil lernen Sie,
+wie Sie das Netzteil richtig bedienen. In den ersten beiden Versuchen werden Sie dieses Basiswissen unbedingt brauchen.
+
+ERZÄHLER (V.O.)
+Sie lernen wie Sie Spannung und Strom einstellen
+und wie das Gerät für die Versuche vorbereitet werden muss.
+
+
+SLOW ZOOM NETZTEIL
+
+ERZÄHLER (V.O.)
+So sieht das Netzteil aus das Sie im Verusch 1 und 2 verwenden werden.
+Man kann erkennen, das dass Netzteil aus zwei getrennten Spannungs/Strom Quellen besteht.
+
+währenddessen Hand zeigt auf die beiden Spannungs/Strom Quellen.
+
+ERZÄHLER (V.O.)
+Für jede Spannungs/Strom Quellen, gibt es eine Strom und eine Spannungsanzeige.
+
+währenddessen Hand zeigt auf die beiden Anzeigen.
+
+ERZÄHLER (V.O.)
+Außerdem Strom und Spannung mit den jeweiligen Drehreglern angepasst werden.
+
+währenddessen Hand zeigt auf die beiden Drehregler.
+
+ERZÄHLER (V.O.)
+jede Quelle besitzt eine rote Strombegrenzungs LED, dieses wird im Verlauf des Videos erklärt werden.
+
+währenddessen Hand zeigt auf die beiden Strombegrenzungs LEDs.
+
+CUT TO:
+
+# AKT 2 ANSCHLÜSSE UND ANZEIGEN
+
+## Anschlüsse
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine Spannungsquelle steht auf dem Labortisch
+Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekarde mit 1k Ohm steht vor dem Netzteil.
+
+ERZÄHLER (V.O.)
+Zubeginn wollen wir Ihnen erklären wie Die Quelle als Spannungsqulle zu benutzen ist. Dazu
+verbinden Sie den Pluspol mit der Schaltung
+und schließen Sie den Stromkreis über den Minuspol.
+Hier in dem Beispiel soll einfach nur eine Widerstandsdekarde, die Sie im letzten Video kennengelernt haben, an das Netzteil angeschlossen werden.
+
+POV STUDENT*IN
+
+Leitungen werden korrekt angeschlossen. Eine in den Plus, eine in den Minuspol.
+
+ERZÄHLER (V.O.)
+Hier sehen Sie einen geschlossenen Stromkreis.
+
+CUT TO:
+
+## Anzeigen verstehen
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine Spannungsquelle steht auf dem Labortisch
+Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekarde mit 1k Ohm steht vor dem Netzteil. Die Dekarde ist angeschlossen.
+Display zeigt Spannung und Strom.
+
+INSERT INTO DISPLAY
+
+ERZÄHLER (V.O.)
+Das Netzteil zeigt Ihnen jederzeit die aktuelle Spannung
+und den fließenden Strom an.
+
+ERZÄHLER (V.O.)
+Diese Werte sollten Sie während des Versuchs immer im Blick behalten.
+
+CUT TO:
+
+# AKT 3 EINSTELLEN ALS SPANNUNGSQUELLE
+= Standardbetrieb
+
+## Spannung einstellen
+INT. LABOR - ARBEITSTISCH - TAG
+
+Ein Netzteil steht auf dem Labortisch
+Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekarde mit 1k Ohm steht vor dem Netzteil. Die Dekarde ist angeschlossen.
+
+Hand zeigt auf den Spannungsregler. 
+
+ERZÄHLER (V.O.)
+Mit dem Spannungsregler können Sie die gewünste Spannung einstellen,
+
+Student*in dreht den Spannungsknopf.
+
+ERZÄHLER (V.O.)
+Der Strom ergibt sich automatisch
+aus dem Widerstand Ihrer Schaltung.
+
+INSERT INTO DISPLAY
+
+CUT TO:
+
+# AKT 4 EINSTELLEN ALS STROMQUELLE
+= Strombegrenzung
+
+## Strombegrenzung einstellen
+INT. LABOR - CLOSE-UP REGLER - TAG
+
+Ein Netzteil steht auf dem Labortisch. Roter Leiter liegt davor.
+
+ERZÄHLER (V.O.)
+Bevor Sie den Versuch starten,
+müssen Sie den maximalen Strom begrenzen.
+Dazu schließen Sie die beiden Ausgangsbuchsen kurz.
+
+Währenddessen Ausgangsbuchsen werden mit einem Kurzschluss überbrückt.
+
+ERZÄHLER (V.O.)
+Sie können sehen, das der Strom jetzt maximal fließt und die rote Strombegrenzungs LED leuchtet.
+
+
+Währenddessen Hand zeigt auf die Strombegrenzungs LED.
+
+ERZÄHLER (V.O.)
+Mit dem Stromregler können Sie jetzt den maximalen Strom einstellen,
+so können Sie den gewünschten Wert einstellen.
+
+Währenddessen Hand zeigt auf den Stromregler und dreht diesen.
+
+ERZÄHLER (V.O.)
+Die Strombegrenzung schützt Ihre Bauteile und das Netzteil vor Überlastung.
+
+ERZÄHLER (V.O.)
+Denken Sie vor jedem Betrieb eines Aufbaus daran, die Strombegrenzung einzustellen und führen Sie einmal den Ablauf mit einem Kurzschluss durch, um sicherzustellen, dass die Strombegrenzung korrekt eingestellt ist.
+
+CUT TO:
+
+# AKT 5 TECHNISCHE STROMRICHTUNG
+= Verständnis
+
+## Stromrichtung
+INT. LABOR - SCHALTUNG - TAG
+
+
+Eine Schaltung mit drei Widerstandsdekaden ist aufgebaut, alle sind in Reihe geschaltet. Eine Spannungsquelle ist angeschlossen.
+
+!Bild von der Schaltung wird eingeblendet.
+
+Overlay: Pfeil von Plus nach Minus an allen Bauteilen.
+
+ERZÄHLER (V.O.)
+Die technische Stromrichtung verläuft
+vom Pluspol zum Minuspol.
+
+ERZÄHLER (V.O.)
+Diese Richtung wird in allen Schaltungen verwendet.
+
+ERZÄHLER (V.O.)
+Achten sie auf die Richtige Polung Ihrer Bauteile, damit sie korrekt betrieben werden.
+
+
+
+CUT TO:
+
+# AKT 6 VORBEREITUNG AUF FEHLER
+= Übergang zu Teil 3
+
+## Hinweis
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine korrekt aufgebaute Schaltung aus Widerstandsdekade und Diode ist aufgebaut. Eine Spannungsquelle ist angeschlossen. 
+
+Overlay: Pfeil von Plus nach Minus an allen Bauteilen.
+
+ERZÄHLER (V.O.)
+Achten Sie bei der Bedienung besonders
+auf die richtige Polung und die Strombegrenzung.
+
+ERZÄHLER (V.O.)
+Fehler in diesen Bereichen können zu falschen Messungen
+oder beschädigten Bauteilen führen.
+
+CUT TO:
+
+# OUTRO
+
+INT. LABOR - TOTALE - TAG
+
+Der Arbeitsplatz ist sauber aufgebaut. Die Kamera zeigt einen aufgebauten Versuch (Versuch 1 Abbildung 9).
+
+
+ERZÄHLER (V.O.)
+Sie wissen nun,
+wie Sie das Netzteil korrekt bedienen.
+
+
+TH-OUTRO
+
+FADE TO WHITE
+
+TH-Logo erscheint
+
+# ENDE Episode 2.2, Bedienung des Netzteils

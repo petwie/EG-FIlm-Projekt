@@ -1,0 +1,225 @@
+Title: Episode 2.1, Widerstandsdekade (Einführung)
+Credit: Serie
+Author: Team EG (Peter, Marcel)
+Draft date: 28.03.2026
+
+## Themen Vorstellung
+
+TH-INTRO
+
+WHITE SCREEN
+
+SUPER:
+Themen Episode 2
+ 
+-Episode 2.1 - Widerstandsdekade
+ 
+-Episode 2.2 – Bedienung des Netzteils
+ 
+-Episode 2.3 – Typische Fehler und Sicherheit
+ 
+Viel Spaß!
+
+
+CUT TO:
+
+# AKT 1 Was ist eine Widerstandsdekade?
+= Einführung Teil 2.1.1
+
+## INTRO
+.Intro zur Episode 2.1
+
+INT. LABOR - TAG
+
+Die Kamera zeigt einen aufgebauten Versuch (Versuch 1 Abbildung 9).
+Im Fokus: zwei Widerstandsdekaden.
+
+SUPER:
+Episode 2.1 – Widerstandsdekade
+
+= LANGSAME AUFHELLUNG(optional)
+
+CUT TO:
+
+## Überblick
+INT. LABOR - ARBEITSTISCH - TAG
+
+Auf dem Labortisch stehen drei Widerstandsdekaden.
+
+SLOW ZOOM auf eine Dekade.
+
+ERZÄHLER (V.O.)
+In diesen Teil der Episode zwei lernen Sie die Widerstandsdekade kennen.
+Mit ihr können Sie gezielt Widerstandswerte einstellen
+und so Ihre Schaltungen flexibel anpassen. Die Widerstandsdekade werden Sie in allen Versuchen benutzten, aufpassen lohnt sich!
+
+CUT TO:
+
+# AKT 2 Funktionsweise
+= Wie arbeitet die Widerstandsdekade?
+
+## Funktionsprinzip
+INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
+
+
+Nahaufnahme der Schiebeschalter einer der Widerstandsdekaden aus dem Überblick auf dem Labortisch.
+
+Eine Hand verstellt verstellt zuerst den 100 Ohm Schiebeschalter, schiebt ihn danach wieder zurück.
+Danach den 300 Ohm Schiebeschalter und danach den 30  Ohm Schiebeschalter
+
+ERZÄHLER (V.O.)
+Die Widerstandsdekade besteht aus mehreren einstellbaren Widerständen,
+die intern kombiniert werden.
+
+ERZÄHLER (V.O.)
+Jeder Schalter steht für eine Wiederstandswert,
+der dazugeschaltet werden kann. Durch verschieben des Schalters nach oben werden die Widerstände dazu geschaltet.
+
+ERZÄHLER (V.O.)
+Zusammen ergeben sie den Gesamtwiderstand der Dekade. Also werden alle eingeschlateten Werte Summiert.
+
+CUT TO:
+
+## Beispiel Einstellung
+INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
+.linke hälfte Einbebldungen der Widerstandswerten
+
+Nahaufnahme der Schiebeschalter einer der Widerstandsdekaden aus dem Überblick auf dem Labortisch.
+Alle Schiebeschalter sind unten, also Widerstandswert von 0 Ohm.
+
+
+ERZÄHLER (V.O.)
+Wenn Sie zum Beispiel 100 Ohm, 20 Ohm und 6 Ohm einstellen,
+ergibt sich ein Gesamtwiderstand von 126 Ohm.
+
+!linke Bild Hälfte WHITE SCREEN
+
+!Rechte hälfte ist die Widerstandsdekade zusehen im Close-Up
+
+Eine Hand verschiebt denn 100 Ohm Schiebeschalter.
+
+!EINBLENDEN: 100 Ohm +
+
+ERZÄHLER (V.O.)
+ 
+Hier wurden z.B. 100 OHM wurden dazugeschaltet
+
+Eine Hand verschiebt denn 20 Ohm Schiebeschalter.
+
+!EINBLENDEN: 20 Ohm +
+
+ERZÄHLER (V.O.)
+ 
+jetzt wurden noch 20 Ohm dazugeschaltet.
+
+Eine Hand verschiebt denn 6 Ohm Schiebeschalter.
+
+!EINBLENDEN: 6 Ohm = 120 Ohm Gesamtwiderstand
+
+ERZÄHLER (V.O.)
+ 
+Nach den weiteren 6 Ohm, ist die Widerstandsdekade auf einen Gesamtwiderstand von 126 Ohm eingestellt.
+
+CUT TO:
+
+# AKT 3 ANSCHLÜSSE
+= Wie wird die Dekade verwendet?
+
+##Intro Anschlüsse
+
+WHITE SCREEN
+
+SUPER:
+ 
+Wie werden die Widerstandsdekaden angeschlossen?
+
+CUT TO:
+
+## Buchsen erklären
+INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
+
+Auf dem Labortisch steht eine Widerstandsdekade mit 126 Ohm eingestellt( aus Beispiel Einstellung)
+Hand zeigt auf die beiden linken Anschlussbuchsen.
+
+ERZÄHLER (V.O.)
+Die Widerstandsdekade besitzt diese beiden Anschlussbuchsen.
+Zwischen diesen beiden Anschlüssen wirkt der eingestellte Widerstand.
+
+ZOOM OUT POV STUDENT*IN
+
+Student*in steckt einen Bananenleitunger in die linke Anschluss und einen Bananenleitunger in den Rechten.
+
+ERZÄHLER (V.O.)
+So wird wie ein normaler Widerstand in die Schaltung eingebaut. 
+
+Stundent hält in jeder Hand einen Bananenleitunger und hält sie hoch.
+
+ERZÄHLER (V.O.)
+Zwischen diesen beiden Leitern wirkt jetzt der Eingestellte Widerstandswert von 126 Ohm
+
+INSERT ANSCHLÜSSE
+
+Hand zeigt auf den rechten Erdungsanschluss.
+
+ERZÄHLER (V.O.)
+ 
+Das ist der Erdungsanschluss, den werden Sie in den Versuchen nicht gebrauchen und sollen ihn nicht anschließen.
+
+CUT TO:
+
+## Einbau in Schaltung
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine einfache Schaltung aus drei Widerstandsdekade ist aufgebaut. zwei sind in reihe und eine dazu Parallel geschaltet.
+
+ERZÄHLER (V.O.)
+Je nach Anwendung kann die Widerstandsdekade
+in Reihe oder parallel verschaltet werden und Komplizierte Schaltungen ergeben.
+
+CUT TO:
+
+# AKT 4 INTERNE SICHT
+= Verständnis vertiefen
+
+## Vereinfachter Aufbau
+INT. LABOR - OVERLAY SCHALTPLAN - TAG
+
+Ein vereinfachter Schaltplan wird eingeblendet. Von einem Schalter, der zwischen einem Leiter und einem Widerstand schalten kann. Schalter ist mit Leiter verbunden.
+
+ERZÄHLER (V.O.)
+Im Inneren befinden sich viele einzelne Widerstände,
+die über Schalter kombiniert werden. Die dekade besteht also aus vielen solcher Schaltungen.
+In der Oberen Schaltung ist der Widerstand nicht dazugeschaltet.
+
+Schalter wird mit Widerstand verbunden.
+
+ERZÄHLER (V.O.)
+Hier wurde der Widerstand dazugeschaltet.
+
+Ein Schaltplan der ganzen Dekade Innenschaltung wird eingeblendet.
+
+ERZÄHLER (V.O.)
+Dadurch können Sie schnell und präzise verschiedene Werte einstellen,
+ohne Bauteile austauschen zu müssen.
+
+CUT TO:
+
+# OUTRO
+
+==
+
+INT. LABOR - TOTALE - TAG
+
+Eine einfache Schaltung aus drei Widerstandsdekade ist aufgebaut. zwei sind in reihe und eine dazu parallel geschaltet.
+
+ERZÄHLER (V.O.)
+Sie kennen nun die grundlegende Funktionsweise
+der Widerstandsdekade. Einer der Wichtigesten Grundbausteine die Sie immer wieder verwenden werden.
+
+TH-OUTRO
+
+FADE TO WHITE
+
+TH-Logo erscheint
+
+# ENDE Episode 2.1.1, Widerstandsdekade

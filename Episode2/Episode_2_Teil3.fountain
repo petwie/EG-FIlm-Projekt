@@ -1,0 +1,194 @@
+Title: Episode 2.3, Typische Fehler und Sicherheit beim Netzteil
+Credit: Serie
+Author: Team EG (Peter, Marcel)
+Draft date: 10.03.2026
+
+# AKT 1 WARUM PASSIEREN FEHLER?
+= Typische Fehler Teil 2.3
+
+## INTRO
+.Intro Fehler und Sicherheit
+
+TH-INTRO
+
+INT. LABOR - TAG
+
+Ein Versuchsaufbau ist zu sehen.
+Eine Person wirkt unsicher beim Bedienen des Netzteils.
+
+SUPER:
+Episode 2.3 – Typische Fehler und Sicherheit
+
+CUT TO:
+
+## Überblick
+INT. LABOR - HALBTOTALE - TAG
+
+Der Arbeitsplatz mit Netzteil und Schaltung.
+
+ERZÄHLER (V.O.)
+In diesem Teil der Episode Zwei zeigen wir Ihnen typische Fehler
+bei der Verwendung des Netzteils
+und wie Sie diese vermeiden können.
+
+CUT TO:
+
+# AKT 2 FEHLER 1: FALSCHE POLUNG
+= Plus und Minus vertauscht
+
+## Falscher Anschluss
+INT. LABOR - CLOSE-UP SCHALTUNG - TAG
+
+Leitungen sind falsch angeschlossen.
+
+ERZÄHLER (V.O.)
+Ein häufiger Fehler ist das Vertauschen von Plus und Minus.
+
+INSERT - Rotes Kreuz
+
+ERZÄHLER (V.O.)
+Dies kann dazu führen,
+dass Bauteile falsch betrieben werden
+oder Messwerte nicht stimmen.
+
+CUT TO:
+
+## Richtiger Anschluss
+INT. LABOR - CLOSE-UP SCHALTUNG - TAG
+
+Leitungen werden korrekt angeschlossen.
+
+INSERT - Grüner Haken
+
+ERZÄHLER (V.O.)
+Achten Sie daher immer auf die richtige Polung:
+Rot ist Plus, Schwarz oder Blau ist Minus.
+
+CUT TO:
+
+# AKT 3 FEHLER 2: KEINE STROMBEGRENZUNG
+= Gefahr für Bauteile
+
+## Problem zeigen
+INT. LABOR - CLOSE-UP NETZTEIL - TAG
+
+Strombegrenzung ist zu hoch eingestellt.
+
+ERZÄHLER (V.O.)
+Wird keine Strombegrenzung eingestellt,
+kann ein zu hoher Strom fließen.
+
+ERZÄHLER (V.O.)
+Dies kann Bauteile beschädigen oder zerstören.
+
+CUT TO:
+
+## Richtige Einstellung
+INT. LABOR - DETAILAUFNAHME - TAG
+
+Kurzschluss wird durchgeführt,
+Strombegrenzung wird eingestellt.
+
+INSERT - Grüner Haken
+
+ERZÄHLER (V.O.)
+Stellen Sie deshalb immer zuerst den maximalen Strom ein,
+bevor Sie Ihre Schaltung anschließen.
+
+CUT TO:
+
+# AKT 4 FEHLER 3: FALSCHES MESSGERÄT
+= Messfehler vermeiden
+
+## Problem
+INT. LABOR - ARBEITSTISCH - TAG
+
+Multimeter ist falsch angeschlossen.
+
+ERZÄHLER (V.O.)
+Ein weiterer Fehler ist der falsche Einsatz von Messgeräten.
+
+ERZÄHLER (V.O.)
+Zum Beispiel kann ein falsch angeschlossenes Amperemeter
+den Stromkreis unterbrechen.
+
+CUT TO:
+
+## Lösung
+INT. LABOR - ARBEITSTISCH - TAG
+
+Messgerät wird korrekt angeschlossen.
+
+ERZÄHLER (V.O.)
+Achten Sie darauf,
+dass Strommessgeräte immer in Reihe
+und Spannungsmessgeräte parallel angeschlossen werden.
+
+CUT TO:
+
+# AKT 5 FEHLER 4: UNORDENTLICHER AUFBAU
+= Übersicht behalten
+
+## Problem
+INT. LABOR - ARBEITSTISCH - TAG
+
+Viele gekreuzte Leitungen, unübersichtlicher Aufbau.
+
+ERZÄHLER (V.O.)
+Ein unübersichtlicher Aufbau
+führt schnell zu Fehlern.
+
+CUT TO:
+
+## Lösung
+INT. LABOR - ARBEITSTISCH - TAG
+
+Sauberer Aufbau, Leitungen geordnet.
+
+INSERT - Grüner Haken
+
+ERZÄHLER (V.O.)
+Verwenden Sie unterschiedliche Farben
+und führen Sie die Leitungen übersichtlich.
+
+CUT TO:
+
+# AKT 6 SICHERHEITSHINWEISE
+= Verhalten im Labor
+
+## Hinweis
+INT. LABOR - TOTALE - TAG
+
+Der Arbeitsplatz ist sauber aufgebaut.
+
+ERZÄHLER (V.O.)
+Arbeiten Sie stets sorgfältig
+und überprüfen Sie Ihren Aufbau,
+bevor Sie das Netzteil einschalten.
+
+ERZÄHLER (V.O.)
+Im Zweifel fragen Sie immer die betreuende Person.
+
+CUT TO:
+
+# OUTRO
+
+INT. LABOR - TOTALE - TAG
+
+Die Schaltung funktioniert korrekt.
+
+ERZÄHLER (V.O.)
+Sie kennen nun die häufigsten Fehler
+und wissen, wie Sie diese vermeiden.
+
+ERZÄHLER (V.O.)
+Damit sind Sie optimal
+für die ersten Versuche vorbereitet.
+
+TH-OUTRO
+
+FADE TO WHITE
+
+TH-Logo erscheint
+
+# ENDE Episode 2.3, Typische Fehler und Sicherheit
