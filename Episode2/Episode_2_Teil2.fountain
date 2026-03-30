@@ -21,7 +21,7 @@ CUT TO:
 ## Überblick
 INT. LABOR - HALBTOTALE - TAG
 
-Student*in steht vor einem Labortisch auf dem ein Netzteil steht.
+Student*in steht vor einem Labortisch, auf dem ein Netzteil steht.
 im Fokus das Netzteil.
 
 ERZÄHLER (V.O.)
@@ -32,29 +32,28 @@ ERZÄHLER (V.O.)
 Sie lernen wie Sie Spannung und Strom einstellen
 und wie das Gerät für die Versuche vorbereitet werden muss.
 
-
 SLOW ZOOM NETZTEIL
 
 ERZÄHLER (V.O.)
-So sieht das Netzteil aus das Sie im Verusch 1 und 2 verwenden werden.
-Man kann erkennen, das dass Netzteil aus zwei getrennten Spannungs/Strom Quellen besteht.
+So sieht das Netzteil aus das Sie im Versuch 1 und 2 verwenden werden.
+Man kann erkennen, das dass Netzteil aus zwei getrennten Spannungs-/Strom Quellen besteht.
 
-währenddessen Hand zeigt auf die beiden Spannungs/Strom Quellen.
+währenddessen Hand zeigt auf die beiden Spannungs-/Strom Quellen.
 
 ERZÄHLER (V.O.)
-Für jede Spannungs/Strom Quellen, gibt es eine Strom und eine Spannungsanzeige.
+Für jede Spannungs-/Strom Quellen, gibt es eine Strom- und eine Spannungsanzeige.
 
-währenddessen Hand zeigt auf die beiden Anzeigen.
+währenddessen Hand zeigt auf die jeweiligen Anzeigen.
 
 ERZÄHLER (V.O.)
 Außerdem Strom und Spannung mit den jeweiligen Drehreglern angepasst werden.
 
-währenddessen Hand zeigt auf die beiden Drehregler.
+währenddessen Hand zeigt auf die jeweiligen Drehregler.
 
 ERZÄHLER (V.O.)
-jede Quelle besitzt eine rote Strombegrenzungs LED, dieses wird im Verlauf des Videos erklärt werden.
+jede Quelle besitzt eine rote Strombegrenzungs-LED, dieses wird im Verlauf des Videos erklärt werden.
 
-währenddessen Hand zeigt auf die beiden Strombegrenzungs LEDs.
+währenddessen Hand zeigt auf die beiden Strombegrenzungs-LEDs.
 
 CUT TO:
 
@@ -64,13 +63,13 @@ CUT TO:
 INT. LABOR - ARBEITSTISCH - TAG
 
 Eine Spannungsquelle steht auf dem Labortisch
-Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekarde mit 1k Ohm steht vor dem Netzteil.
+Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil.
 
 ERZÄHLER (V.O.)
-Zubeginn wollen wir Ihnen erklären wie Die Quelle als Spannungsqulle zu benutzen ist. Dazu
-verbinden Sie den Pluspol mit der Schaltung
-und schließen Sie den Stromkreis über den Minuspol.
-Hier in dem Beispiel soll einfach nur eine Widerstandsdekarde, die Sie im letzten Video kennengelernt haben, an das Netzteil angeschlossen werden.
+Zubeginn wollen wir Ihnen erklären wie das Netzteil als Spannungsquelle zu benutzen ist. Dazu
+verbinden Sie den roten Pluspol mit der Schaltung
+und schließen Sie den Stromkreis über den blauen Minuspol.
+Hier in dem Beispiel soll nur eine Widerstandsdekade, die Sie im letzten Video kennengelernt haben, an das Netzteil angeschlossen werden.
 
 POV STUDENT*IN
 
@@ -85,17 +84,17 @@ CUT TO:
 INT. LABOR - ARBEITSTISCH - TAG
 
 Eine Spannungsquelle steht auf dem Labortisch
-Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekarde mit 1k Ohm steht vor dem Netzteil. Die Dekarde ist angeschlossen.
+Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
 Display zeigt Spannung und Strom.
 
 INSERT INTO DISPLAY
 
 ERZÄHLER (V.O.)
-Das Netzteil zeigt Ihnen jederzeit die aktuelle Spannung
-und den fließenden Strom an.
+Das Netzteil zeigt Ihnen jederzeit grob die aktuelle Spannung
+und den fließenden Strom an. Da diese Anzeigen nicht sehr präzise Arbeiten, sollten Sie für Feineinstellungen ein externes Messgerät verwenden. Diese lernen Sie im nächsten Video kennen.
 
 ERZÄHLER (V.O.)
-Diese Werte sollten Sie während des Versuchs immer im Blick behalten.
+Trotzdem sollten Sie die Werte während des Versuchs regelmäßig überprüfen. Vor allem nach Änderungen in der Schaltung können sie sich etwas verschieben. 
 
 CUT TO:
 
@@ -106,12 +105,12 @@ CUT TO:
 INT. LABOR - ARBEITSTISCH - TAG
 
 Ein Netzteil steht auf dem Labortisch
-Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekarde mit 1k Ohm steht vor dem Netzteil. Die Dekarde ist angeschlossen.
+Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
 
 Hand zeigt auf den Spannungsregler. 
 
 ERZÄHLER (V.O.)
-Mit dem Spannungsregler können Sie die gewünste Spannung einstellen,
+Mit dem Spannungsregler können Sie die gewünschte Spannung einstellen,
 
 Student*in dreht den Spannungsknopf.
 
@@ -134,15 +133,14 @@ Ein Netzteil steht auf dem Labortisch. Roter Leiter liegt davor.
 ERZÄHLER (V.O.)
 Bevor Sie den Versuch starten,
 müssen Sie den maximalen Strom begrenzen.
-Dazu schließen Sie die beiden Ausgangsbuchsen kurz.
+Dazu drehen Sie zuerst den Drehknopf bis zum Anschlag gegen den Uhrzeigersinn. Dann schließen Sie die beiden Ausgangsbuchsen kurz.
 
-Währenddessen Ausgangsbuchsen werden mit einem Kurzschluss überbrückt.
+Währenddessen Eine Hand versucht den Stromregler weiter nach links zu drehen, der Drehknopf ist aber bereits am Anschlag. Dann werden die Ausgangsbuchsen mit einer Messleitung kurzgeschlossen.
 
 ERZÄHLER (V.O.)
-Sie können sehen, das der Strom jetzt maximal fließt und die rote Strombegrenzungs LED leuchtet.
+Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombegrenzungsmodus arbeitet. In diesem Modus reduziert das Netzteil die ausgegebene Spannung, um den eingestellten Maximalstrom nicht zu überschreiten. 
 
-
-Währenddessen Hand zeigt auf die Strombegrenzungs LED.
+Währenddessen Hand zeigt auf die Strombegrenzungs-LED.
 
 ERZÄHLER (V.O.)
 Mit dem Stromregler können Sie jetzt den maximalen Strom einstellen,
@@ -164,7 +162,6 @@ CUT TO:
 ## Stromrichtung
 INT. LABOR - SCHALTUNG - TAG
 
-
 Eine Schaltung mit drei Widerstandsdekaden ist aufgebaut, alle sind in Reihe geschaltet. Eine Spannungsquelle ist angeschlossen.
 
 !Bild von der Schaltung wird eingeblendet.
@@ -182,7 +179,6 @@ ERZÄHLER (V.O.)
 Achten sie auf die Richtige Polung Ihrer Bauteile, damit sie korrekt betrieben werden.
 
 
-
 CUT TO:
 
 # AKT 6 VORBEREITUNG AUF FEHLER
@@ -191,7 +187,7 @@ CUT TO:
 ## Hinweis
 INT. LABOR - ARBEITSTISCH - TAG
 
-Eine korrekt aufgebaute Schaltung aus Widerstandsdekade und Diode ist aufgebaut. Eine Spannungsquelle ist angeschlossen. 
+Eine korrekt aufgebaute Reihenschaltung aus Widerstandsdekade und Diode ist aufgebaut. Eine Spannungsquelle ist angeschlossen. 
 
 Overlay: Pfeil von Plus nach Minus an allen Bauteilen.
 
@@ -211,11 +207,9 @@ INT. LABOR - TOTALE - TAG
 
 Der Arbeitsplatz ist sauber aufgebaut. Die Kamera zeigt einen aufgebauten Versuch (Versuch 1 Abbildung 9).
 
-
 ERZÄHLER (V.O.)
 Sie wissen nun,
 wie Sie das Netzteil korrekt bedienen.
-
 
 TH-OUTRO
 

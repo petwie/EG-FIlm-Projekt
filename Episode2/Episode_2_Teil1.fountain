@@ -20,7 +20,6 @@ Themen Episode 2
  
 Viel Spaß!
 
-
 CUT TO:
 
 # AKT 1 Was ist eine Widerstandsdekade?
@@ -37,7 +36,7 @@ Im Fokus: zwei Widerstandsdekaden.
 SUPER:
 Episode 2.1 – Widerstandsdekade
 
-= LANGSAME AUFHELLUNG(optional)
+= LANGSAME AUFHELLUNG (optional)
 
 CUT TO:
 
@@ -61,60 +60,58 @@ CUT TO:
 ## Funktionsprinzip
 INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
 
-
 Nahaufnahme der Schiebeschalter einer der Widerstandsdekaden aus dem Überblick auf dem Labortisch.
 
-Eine Hand verstellt verstellt zuerst den 100 Ohm Schiebeschalter, schiebt ihn danach wieder zurück.
-Danach den 300 Ohm Schiebeschalter und danach den 30  Ohm Schiebeschalter
+Eine Hand verstellt zuerst den 100 Ohm Schiebeschalter, schiebt ihn danach wieder zurück.
+Danach den 300 Ohm Schiebeschalter und danach den 30 Ohm Schiebeschalter
 
 ERZÄHLER (V.O.)
 Die Widerstandsdekade besteht aus mehreren einstellbaren Widerständen,
 die intern kombiniert werden.
 
 ERZÄHLER (V.O.)
-Jeder Schalter steht für eine Wiederstandswert,
-der dazugeschaltet werden kann. Durch verschieben des Schalters nach oben werden die Widerstände dazu geschaltet.
+Jeder Schalter steht für eine Widerstandswert,
+der dazugeschaltet werden kann. Durch Verschieben des Schalters nach oben werden die Widerstände dazu geschaltet.
 
 ERZÄHLER (V.O.)
-Zusammen ergeben sie den Gesamtwiderstand der Dekade. Also werden alle eingeschlateten Werte Summiert.
+Zusammen ergeben sie den Gesamtwiderstand der Dekade. Also werden alle eingeschalteten Werte summiert.
 
 CUT TO:
 
 ## Beispiel Einstellung
 INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
-.linke hälfte Einbebldungen der Widerstandswerten
+.linke hälfte Einblendungen der Widerstandswerten
 
 Nahaufnahme der Schiebeschalter einer der Widerstandsdekaden aus dem Überblick auf dem Labortisch.
 Alle Schiebeschalter sind unten, also Widerstandswert von 0 Ohm.
-
 
 ERZÄHLER (V.O.)
 Wenn Sie zum Beispiel 100 Ohm, 20 Ohm und 6 Ohm einstellen,
 ergibt sich ein Gesamtwiderstand von 126 Ohm.
 
-!linke Bild Hälfte WHITE SCREEN
+Linke Bild Hälfte WHITE SCREEN
 
-!Rechte hälfte ist die Widerstandsdekade zusehen im Close-Up
+Rechte hälfte ist die Widerstandsdekade zusehen im Close-Up
 
-Eine Hand verschiebt denn 100 Ohm Schiebeschalter.
+Eine Hand verschiebt den 100 Ohm Schiebeschalter.
 
-!EINBLENDEN: 100 Ohm +
+EINBLENDEN: 100 Ohm +
 
 ERZÄHLER (V.O.)
  
 Hier wurden z.B. 100 OHM wurden dazugeschaltet
 
-Eine Hand verschiebt denn 20 Ohm Schiebeschalter.
+Eine Hand verschiebt den 20 Ohm Schiebeschalter.
 
-!EINBLENDEN: 20 Ohm +
+EINBLENDEN: 20 Ohm +
 
 ERZÄHLER (V.O.)
  
 jetzt wurden noch 20 Ohm dazugeschaltet.
 
-Eine Hand verschiebt denn 6 Ohm Schiebeschalter.
+Eine Hand verschiebt den 6 Ohm Schiebeschalter.
 
-!EINBLENDEN: 6 Ohm = 120 Ohm Gesamtwiderstand
+EINBLENDEN6 Ohm = 126 Ohm Gesamtwiderstand
 
 ERZÄHLER (V.O.)
  
@@ -138,21 +135,23 @@ CUT TO:
 ## Buchsen erklären
 INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
 
-Auf dem Labortisch steht eine Widerstandsdekade mit 126 Ohm eingestellt( aus Beispiel Einstellung)
+[[Alle Messleitungen sind Leitungen mit Bananensteckern]]
+
+Auf dem Labortisch steht eine Widerstandsdekade mit 126 Ohm eingestellt (aus Beispiel Einstellung)
 Hand zeigt auf die beiden linken Anschlussbuchsen.
 
 ERZÄHLER (V.O.)
-Die Widerstandsdekade besitzt diese beiden Anschlussbuchsen.
+Die Widerstandsdekade besitzt drei Anschlussbuchsen, wovon Sie aber nur diese beiden benötigen.
 Zwischen diesen beiden Anschlüssen wirkt der eingestellte Widerstand.
 
 ZOOM OUT POV STUDENT*IN
 
-Student*in steckt einen Bananenleitunger in die linke Anschluss und einen Bananenleitunger in den Rechten.
+Student*in steckt eine Messleitung in den linken Anschluss und eine Messleitung in den Rechten.
 
 ERZÄHLER (V.O.)
 So wird wie ein normaler Widerstand in die Schaltung eingebaut. 
 
-Stundent hält in jeder Hand einen Bananenleitunger und hält sie hoch.
+Student*in hält in jeder Hand je eine Messleitung und hält sie hoch.
 
 ERZÄHLER (V.O.)
 Zwischen diesen beiden Leitern wirkt jetzt der Eingestellte Widerstandswert von 126 Ohm
@@ -170,11 +169,11 @@ CUT TO:
 ## Einbau in Schaltung
 INT. LABOR - ARBEITSTISCH - TAG
 
-Eine einfache Schaltung aus drei Widerstandsdekade ist aufgebaut. zwei sind in reihe und eine dazu Parallel geschaltet.
+Eine einfache Schaltung aus drei Widerstandsdekaden ist aufgebaut. Zwei sind in Reihe und eine dazu Parallel geschaltet.
 
 ERZÄHLER (V.O.)
 Je nach Anwendung kann die Widerstandsdekade
-in Reihe oder parallel verschaltet werden und Komplizierte Schaltungen ergeben.
+in Reihe oder parallel verschaltet werden und komplexe Schaltungen ergeben.
 
 CUT TO:
 
@@ -184,19 +183,19 @@ CUT TO:
 ## Vereinfachter Aufbau
 INT. LABOR - OVERLAY SCHALTPLAN - TAG
 
-Ein vereinfachter Schaltplan wird eingeblendet. Von einem Schalter, der zwischen einem Leiter und einem Widerstand schalten kann. Schalter ist mit Leiter verbunden.
+Ein vereinfachter Schaltplan wird eingeblendet. Ein offener Schalter liegt parallel zu einem Widerstand.
 
 ERZÄHLER (V.O.)
 Im Inneren befinden sich viele einzelne Widerstände,
-die über Schalter kombiniert werden. Die dekade besteht also aus vielen solcher Schaltungen.
-In der Oberen Schaltung ist der Widerstand nicht dazugeschaltet.
+die über Schalter überbrückt werden können. Die Dekade besteht also aus vielen solcher Schaltungen.
+In der oberen Schaltung ist der Widerstand dazugeschaltet.
 
-Schalter wird mit Widerstand verbunden.
+Schalter wird geschlossen.
 
 ERZÄHLER (V.O.)
-Hier wurde der Widerstand dazugeschaltet.
+Hier wurde der Widerstand überbrückt. Der Strom nimmt den leichteren Weg am Widerstand vorbei
 
-Ein Schaltplan der ganzen Dekade Innenschaltung wird eingeblendet.
+Ein Schaltplan der ganzen Dekaden Innenschaltung wird eingeblendet.
 
 ERZÄHLER (V.O.)
 Dadurch können Sie schnell und präzise verschiedene Werte einstellen,
@@ -210,11 +209,11 @@ CUT TO:
 
 INT. LABOR - TOTALE - TAG
 
-Eine einfache Schaltung aus drei Widerstandsdekade ist aufgebaut. zwei sind in reihe und eine dazu parallel geschaltet.
+Eine einfache Schaltung aus drei Widerstandsdekade ist aufgebaut. Zwei sind in reihe und eine dazu parallelgeschaltet.
 
 ERZÄHLER (V.O.)
 Sie kennen nun die grundlegende Funktionsweise
-der Widerstandsdekade. Einer der Wichtigesten Grundbausteine die Sie immer wieder verwenden werden.
+der Widerstandsdekade. Einer der Wichtigsten Grundbausteine die Sie immer wieder verwenden werden.
 
 TH-OUTRO
 
