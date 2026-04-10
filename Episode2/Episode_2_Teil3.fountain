@@ -92,8 +92,7 @@ Strombegrenzung wird eingestellt.
 INSERT - Grüner Haken
 
 ERZÄHLER (V.O.)
-Stellen Sie deshalb immer zuerst den maximalen Strom ein,
-bevor Sie Ihre Schaltung anschließen.
+Stellen Sie deshalb immer zuerst den für die aktuelle Schaltung angegebenen maximal Strom ein. Gibt es keine Angabe sind die Bauteile so dimensioniert, das Bauteile nicht beschädigt werden können.
 
 CUT TO:
 
@@ -235,12 +234,10 @@ INT. LABOR - TOTALE - TAG
 Die Schaltung funktioniert korrekt.
 
 ERZÄHLER (V.O.)
-Sie kennen nun die häufigsten Fehler
-und wissen, wie Sie diese vermeiden.
+Sie kennen nun die häufigsten Fehler bei der Verwendung von Widerstandsdekaden und den Labornetzteilen und wissen, wie Sie diese vermeiden.
 
 ERZÄHLER (V.O.)
-Damit sind Sie optimal
-für die ersten Versuche vorbereitet.
+Im nächsten Kapitel lernen Sie, wie Sie Schaltungen aufbauen und in ihnen Messen können.
 
 TH-OUTRO
 
