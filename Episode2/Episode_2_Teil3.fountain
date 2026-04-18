@@ -1,7 +1,7 @@
 Title: Episode 2.3, Typische Fehler und Sicherheit beim Netzteil
 Credit: Serie
 Author: Team EG (Peter, Marcel)
-Draft date: 10.03.2026
+Draft date: 28.03.2026
 
 # AKT 1 WARUM PASSIEREN FEHLER?
 = Typische Fehler Teil 2.3
@@ -13,7 +13,7 @@ TH-INTRO
 
 INT. LABOR - TAG
 
-Ein Versuchsaufbau ist zu sehen.
+Ein Versuchsaufbau ist zu sehen. [[Spannungsteiler?]]
 Eine Person wirkt unsicher beim Bedienen des Netzteils.
 
 SUPER:
@@ -28,7 +28,7 @@ Der Arbeitsplatz mit Netzteil und Schaltung.
 
 ERZÄHLER (V.O.)
 In diesem Teil der Episode Zwei zeigen wir Ihnen typische Fehler
-bei der Verwendung des Netzteils
+bei der Verwendung des Netzteils und der Widerstandsdekade
 und wie Sie diese vermeiden können.
 
 CUT TO:
@@ -92,11 +92,67 @@ Strombegrenzung wird eingestellt.
 INSERT - Grüner Haken
 
 ERZÄHLER (V.O.)
-Stellen Sie deshalb immer zuerst den maximalen Strom ein,
-bevor Sie Ihre Schaltung anschließen.
+Stellen Sie deshalb immer zuerst den für die aktuelle Schaltung angegebenen maximal Strom ein. Gibt es keine Angabe sind die Bauteile so dimensioniert, das Bauteile nicht beschädigt werden können.
 
 CUT TO:
 
+# Akt 4 FEHLER 3: FALSCHE BUCHSEN
+= Falsch angeschlossene Widerstandsdekade
+
+## Problem
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine Widerstandsdekade ist mit zwei Messleitungen verbunden, eine davon steckt in der Erdungsbuchse.
+
+ERZÄHLER (V.O.)
+Auch bei der Widerstandsdekade gibt es häufige Fehler. 
+
+Eine Hand zeigt auf die falsch angeschlossene Steckverbindung.
+
+ERZÄHLER (V.O.)
+Die Erdungsbuchse ist nicht elektrisch mit den anderen Buchsen verbunden. In so einem Fall kann durch das Bauteil kein Strom fließen.
+
+INSERT - Rotes Kreuz
+
+## Lösung zeigen
+
+Eine Hand steckt die Leitung aus der Erdungsbuchse in die freie Buchse
+
+ERZÄHLER (V.O.)
+Achten Sie darauf, die richtigen Anschlüsse zu verwenden.
+
+INSERT - Grüner Haken
+
+# Akt 5 FEHLER 4: KURZSCHLUSS IN DEKADE
+= Nicht über 0 Ohm schalten
+
+## Problem
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine Widerstandsdekade ist an einem Labornetzteil angeschlossen. Die Dekade ist auf 1k Ohm eingestellt, das Netzteil auf eine geringe Spannung und ebenfalls geringe Strombegrenzung.
+
+ERZÄHLER (V.O.)
+In den Versuchen werden Sie häufig die Widerstandsdekaden neu einstellen müssen. Dabei sollten Sie darauf achten, niemals alle Schalter gleichzeitig abzuschalten.
+
+Eine Hand schaltet den 1k Ohm Schalter aus, die Strombegrenzungsleuchte geht an. 
+
+ERZÄHLER (V.O.)
+In diesem Fall hat die Widerstandsdekade 0 Ohm und wird zum Kurzschluss. Dies kann andere Bauteile beschädigen.
+
+INSERT - Rotes Kreuz
+
+## Lösung zeigen
+INT. LABOR - ARBEITSTISCH - TAG
+
+Die Schaltung ist wieder zurückgesetzt.
+
+ERZÄHLER (V.O.)
+Um dies zu vermeiden, schalten Sie einfach den höchstmöglichen Widerstand dazu, während Sie die anderen Schalter neu einstellen.
+
+Eine Hand schaltet den höchsten Schalter[[10M Ohm?]] dazu, dann den 1k Ohm Schalter aus und den 2k Ohm Schalter an.
+
+INSERT - Grüner Haken
+/* Erst in Video 3/4:
 # AKT 4 FEHLER 3: FALSCHES MESSGERÄT
 = Messfehler vermeiden
 
@@ -152,7 +208,7 @@ Verwenden Sie unterschiedliche Farben
 und führen Sie die Leitungen übersichtlich.
 
 CUT TO:
-
+*/
 # AKT 6 SICHERHEITSHINWEISE
 = Verhalten im Labor
 
@@ -167,7 +223,7 @@ und überprüfen Sie Ihren Aufbau,
 bevor Sie das Netzteil einschalten.
 
 ERZÄHLER (V.O.)
-Im Zweifel fragen Sie immer die betreuende Person.
+Im Zweifel fragen Sie immer eine betreuende Person.
 
 CUT TO:
 
@@ -178,12 +234,10 @@ INT. LABOR - TOTALE - TAG
 Die Schaltung funktioniert korrekt.
 
 ERZÄHLER (V.O.)
-Sie kennen nun die häufigsten Fehler
-und wissen, wie Sie diese vermeiden.
+Sie kennen nun die häufigsten Fehler bei der Verwendung von Widerstandsdekaden und den Labornetzteilen und wissen, wie Sie diese vermeiden.
 
 ERZÄHLER (V.O.)
-Damit sind Sie optimal
-für die ersten Versuche vorbereitet.
+Im nächsten Kapitel lernen Sie, wie Sie Schaltungen aufbauen und in ihnen Messen können.
 
 TH-OUTRO
 
