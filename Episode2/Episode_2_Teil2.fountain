@@ -9,7 +9,7 @@ Draft date: 28.03.2026
 .Intro zur Episode 2.2
 INT. LABOR - TAG
 
-Die Kamera zeigt einen aufgebauten Versuch (Versuch 1 Abbildung 9).
+Die Kamera zeigt einen aufgebauten Versuchsaufbau (Versuch 1 Abbildung 9).
 
 ZOOM INTO NETZTEIL
 
@@ -159,13 +159,13 @@ CUT TO:
 ##Netzteil als Stromquelle
 INT. LABOR - ARBEITSTISCH - TAG
 
-Ein Netzteil steht auf dem Labortisch. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
+Ein Netzteil steht auf dem Labortisch. Eine Dekade mit 100 Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
 Kurzschluss stromm von 100mA eingestellt.
 
 ERZÄHLER (V.O.)
 Wenn Sie die Strombegrenzung eingestellt haben, können Sie das Netzteil auch als Stromquelle verwenden. In diesem Fall stellt das Netzteil die eingestellte Stromstärke bereit, und dieSpannung passt sich automatisch an den Widerstand Ihrer Schaltung an. Wird also der Widerstand erhöht, erhöht sich auch die Spannung, um den eingestellten Strom aufrechtzuerhalten. 
 
-Die Widerstandsdekade wird auf 500 Ohm eingestellt.
+Die Widerstandsdekade wird auf 50 Ohm eingestellt.
 Der Strom bleibt konstant, die Spannung erhöht sich.
 
 INSERT INTO DISPLAY
