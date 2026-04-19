@@ -36,39 +36,31 @@ SLOW ZOOM NETZTEIL
 
 ERZÄHLER (V.O.)
 So sieht das Netzteil aus das Sie im Versuch 1 und 2 verwenden werden.
-Man kann erkennen, das dass Netzteil aus zwei getrennten Spannungs-/Strom Quellen besteht.
+Man kann erkennen, das dass Netzteil aus zwei getrennten Spannungsquellen besteht.
 
-währenddessen Hand zeigt auf die beiden Spannungs-/Strom Quellen.
+währenddessen Hand zeigt auf die beiden Spannungsquellen.
 
 ERZÄHLER (V.O.)
-Für jede Spannungs-/Strom Quellen, gibt es eine Strom- und eine Spannungsanzeige.
+Für jede Spannungsquellen, gibt es eine Spannungsanzeige.
 
 währenddessen Hand zeigt auf die jeweiligen Anzeigen.
 
 ERZÄHLER (V.O.)
-Außerdem Strom und Spannung mit den jeweiligen Drehreglern angepasst werden.
+Außerdem kann die Spannung mit den jeweiligen Drehreglern angepasst werden.
 
 währenddessen Hand zeigt auf die jeweiligen Drehregler.
-
-ERZÄHLER (V.O.)
-jede Quelle besitzt eine rote Strombegrenzungs-LED, dieses wird im Verlauf des Videos erklärt werden.
-
-währenddessen Hand zeigt auf die beiden Strombegrenzungs-LEDs.
-
-CUT TO:
 
 # AKT 2 ANSCHLÜSSE UND ANZEIGEN
 
 ## Anschlüsse
 INT. LABOR - ARBEITSTISCH - TAG
 
-Eine Spannungsquelle steht auf dem Labortisch
+Ein Netzteil steht auf dem Labortisch
 Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil.
 
 ERZÄHLER (V.O.)
 Zubeginn wollen wir Ihnen erklären wie das Netzteil als Spannungsquelle zu benutzen ist. Dazu
-verbinden Sie den roten Pluspol mit der Schaltung
-und schließen Sie den Stromkreis über den blauen Minuspol.
+verbinden Sie den roten Pluspol mit der Schaltung, als nächstes verbinden Sie den blauen Minuspol, mit dem Miuspol der Schaltung.
 Hier in dem Beispiel soll nur eine Widerstandsdekade, die Sie im letzten Video kennengelernt haben, an das Netzteil angeschlossen werden.
 
 POV STUDENT*IN
@@ -83,15 +75,20 @@ CUT TO:
 ## Anzeigen verstehen
 INT. LABOR - ARBEITSTISCH - TAG
 
-Eine Spannungsquelle steht auf dem Labortisch
-Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
-Display zeigt Spannung und Strom.
+Eine Spannungsquelle steht auf dem Labortisch.
+Eine Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
+Display zeigt Spannung.
 
 INSERT INTO DISPLAY
 
 ERZÄHLER (V.O.)
-Das Netzteil zeigt Ihnen jederzeit grob die aktuelle Spannung
-und den fließenden Strom an. Da diese Anzeigen nicht sehr präzise Arbeiten, sollten Sie für Feineinstellungen ein externes Messgerät verwenden. Diese lernen Sie im nächsten Video kennen.
+Das Netzteil zeigt Ihnen jederzeit grob die aktuelle Spannung an. Da diese Anzeigen nicht sehr präzise Arbeiten, sollten Sie für Feineinstellungen ein externes Messgerät verwenden. Diese lernen Sie im nächsten Video kennen.
+
+Eine Hand stellt die Anzege des Netzteils auf stom um, in dem der Schalter auf A geschoben wird. Display zeigt Strom.
+
+ERZÄHLER (V.O.)
+Das Netzteil zeigt Ihnen auch den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigenlassen, indem Sie den Schalter auf A stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
+
 
 ERZÄHLER (V.O.)
 Trotzdem sollten Sie die Werte während des Versuchs regelmäßig überprüfen. Vor allem nach Änderungen in der Schaltung können sie sich etwas verschieben. 
@@ -104,8 +101,8 @@ CUT TO:
 ## Spannung einstellen
 INT. LABOR - ARBEITSTISCH - TAG
 
-Ein Netzteil steht auf dem Labortisch
-Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
+Ein Netzteil steht auf dem Labortisch.
+Eine Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
 
 Hand zeigt auf den Spannungsregler. 
 
@@ -131,22 +128,25 @@ INT. LABOR - CLOSE-UP REGLER - TAG
 Ein Netzteil steht auf dem Labortisch. Roter Leiter liegt davor.
 
 ERZÄHLER (V.O.)
-Bevor Sie den Versuch starten,
-müssen Sie den maximalen Strom begrenzen.
+Um Bauteile zuschützen, kann es sinnvoll sein, den maximalen Strom zu begrenzen, der durch die Schaltung fließt. Das Netzteil verfügt über eine eingebaute Strombegrenzungsfunktion, die genau das ermöglicht.
+
+ERZÄHLER (V.O.) 
+Bevor Sie einen Aufbau in Betrieb nehmen, sollten Sie den maximalen Strom begrenzen.
 Dazu drehen Sie zuerst den Drehknopf bis zum Anschlag gegen den Uhrzeigersinn. Dann schließen Sie die beiden Ausgangsbuchsen kurz.
 
 Währenddessen Eine Hand versucht den Stromregler weiter nach links zu drehen, der Drehknopf ist aber bereits am Anschlag. Dann werden die Ausgangsbuchsen mit einer Messleitung kurzgeschlossen.
 
 ERZÄHLER (V.O.)
-Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombegrenzungsmodus arbeitet. In diesem Modus reduziert das Netzteil die ausgegebene Spannung, um den eingestellten Maximalstrom nicht zu überschreiten. 
-
-Währenddessen Hand zeigt auf die Strombegrenzungs-LED.
-
-ERZÄHLER (V.O.)
-Mit dem Stromregler können Sie jetzt den maximalen Strom einstellen,
+Stellen Sie jetzt den Wahlschalter auf A und 
+mit dem Stromregler können Sie jetzt den maximalen Strom einstellen,
 so können Sie den gewünschten Wert einstellen.
 
 Währenddessen Hand zeigt auf den Stromregler und dreht diesen.
+
+ERZÄHLER (V.O.)
+Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombegrenzungsmodus arbeitet. In diesem Modus reduziert das Netzteil die ausgegebene Spannung, um den eingestellten Maximalstrom nicht zu überschreiten. 
+
+Währenddessen Hand zeigt auf die Strombegrenzungs-LED.
 
 ERZÄHLER (V.O.)
 Die Strombegrenzung schützt Ihre Bauteile und das Netzteil vor Überlastung.
@@ -155,6 +155,23 @@ ERZÄHLER (V.O.)
 Denken Sie vor jedem Betrieb eines Aufbaus daran, die Strombegrenzung einzustellen und führen Sie einmal den Ablauf mit einem Kurzschluss durch, um sicherzustellen, dass die Strombegrenzung korrekt eingestellt ist.
 
 CUT TO:
+
+##Netzteil als Stromquelle
+INT. LABOR - ARBEITSTISCH - TAG
+
+Ein Netzteil steht auf dem Labortisch. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
+Kurzschluss stromm von 100mA eingestellt.
+
+ERZÄHLER (V.O.)
+Wenn Sie die Strombegrenzung eingestellt haben, können Sie das Netzteil auch als Stromquelle verwenden. In diesem Fall stellt das Netzteil die eingestellte Stromstärke bereit, und dieSpannung passt sich automatisch an den Widerstand Ihrer Schaltung an. Wird also der Widerstand erhöht, erhöht sich auch die Spannung, um den eingestellten Strom aufrechtzuerhalten. 
+
+Die Widerstandsdekade wird auf 500 Ohm eingestellt.
+Der Strom bleibt konstant, die Spannung erhöht sich.
+
+INSERT INTO DISPLAY
+
+ERZÄHLER (V.O.)
+Die Spannung passt sich automatisch an, in diesem Fall erhöht sie sich, um den eingestellten Strom aufrechtzuerhalten. So können Sie auch mit einem konstanten Strom arbeiten, wenn Sie die Spannung nicht genau kennen oder kontrollieren möchten.
 
 # AKT 5 TECHNISCHE STROMRICHTUNG
 = Verständnis
@@ -184,21 +201,6 @@ CUT TO:
 # AKT 6 VORBEREITUNG AUF FEHLER
 = Übergang zu Teil 3
 
-## Hinweis
-INT. LABOR - ARBEITSTISCH - TAG
-
-Eine korrekt aufgebaute Reihenschaltung aus Widerstandsdekade und Diode ist aufgebaut. Eine Spannungsquelle ist angeschlossen. 
-
-Overlay: Pfeil von Plus nach Minus an allen Bauteilen.
-
-ERZÄHLER (V.O.)
-Achten Sie bei der Bedienung besonders
-auf die richtige Polung und die Strombegrenzung.
-
-ERZÄHLER (V.O.)
-Fehler in diesen Bereichen können zu falschen Messungen
-oder beschädigten Bauteilen führen.
-
 CUT TO:
 
 # OUTRO
@@ -218,3 +220,21 @@ FADE TO WHITE
 TH-Logo erscheint
 
 # ENDE Episode 2.2, Bedienung des Netzteils
+
+/*
+## Hinweis
+INT. LABOR - ARBEITSTISCH - TAG
+
+Eine korrekt aufgebaute Reihenschaltung aus Widerstandsdekade und Diode ist aufgebaut. Eine Spannungsquelle ist angeschlossen. 
+
+Overlay: Pfeil von Plus nach Minus an allen Bauteilen.
+
+ERZÄHLER (V.O.)
+Achten Sie bei der Bedienung besonders
+auf die richtige Polung und die Strombegrenzung.
+
+ERZÄHLER (V.O.)
+Fehler in diesen Bereichen können zu falschen Messungen
+oder beschädigten Bauteilen führen.
+
+*/
