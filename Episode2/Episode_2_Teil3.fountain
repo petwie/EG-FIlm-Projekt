@@ -19,12 +19,6 @@ Eine Person wirkt unsicher beim Bedienen des Netzteils.
 SUPER:
 Episode 2.3 – Typische Fehler und Sicherheit
 
-CUT TO:
-
-## Überblick
-INT. LABOR - HALBTOTALE - TAG
-
-Der Arbeitsplatz mit Netzteil und Schaltung.
 
 ERZÄHLER (V.O.)
 In diesem Teil der Episode Zwei zeigen wir Ihnen typische Fehler
@@ -39,7 +33,8 @@ CUT TO:
 ## Falscher Anschluss
 INT. LABOR - CLOSE-UP SCHALTUNG - TAG
 
-Leitungen sind falsch angeschlossen.
+Gleicher Versuchsaufbau wie vorher, 
+Leitungen sind verpolt am Labornetzeil angeschlossen.
 
 ERZÄHLER (V.O.)
 Ein häufiger Fehler ist das Vertauschen von Plus und Minus.
@@ -48,7 +43,7 @@ INSERT - Rotes Kreuz
 
 ERZÄHLER (V.O.)
 Dies kann dazu führen,
-dass Bauteile falsch betrieben werden
+dass Bauteile sich unerwartet verhalten
 oder Messwerte nicht stimmen.
 
 CUT TO:
@@ -56,7 +51,7 @@ CUT TO:
 ## Richtiger Anschluss
 INT. LABOR - CLOSE-UP SCHALTUNG - TAG
 
-Leitungen werden korrekt angeschlossen.
+Die verpolten Leitungen werden miteinander getauscht.
 
 INSERT - Grüner Haken
 
@@ -72,7 +67,8 @@ CUT TO:
 ## Problem zeigen
 INT. LABOR - CLOSE-UP NETZTEIL - TAG
 
-Strombegrenzung ist zu hoch eingestellt.
+Strombegrenzung ist zu hoch eingestellt, die Stromanzeige des Labornetzteils zeigt einen sehr hohen Strom.
+Das Netzteil ist off-Screen kurzgeschlossen.[[Eine rote Leitung in eine blaue Stecken, damit die Buchsen gut aussehen]]
 
 ERZÄHLER (V.O.)
 Wird keine Strombegrenzung eingestellt,
@@ -80,6 +76,8 @@ kann ein zu hoher Strom fließen.
 
 ERZÄHLER (V.O.)
 Dies kann Bauteile beschädigen oder zerstören.
+
+[[Schaltung mit Diode zeigen, Post: Raucheffekt aus der Diode. Alternativ: Auschnitt von einem ElectoBoom Vido]]
 
 CUT TO:
 
@@ -92,7 +90,7 @@ Strombegrenzung wird eingestellt.
 INSERT - Grüner Haken
 
 ERZÄHLER (V.O.)
-Stellen Sie deshalb immer zuerst den für die aktuelle Schaltung angegebenen maximal Strom ein. Gibt es keine Angabe sind die Bauteile so dimensioniert, das Bauteile nicht beschädigt werden können.
+Stellen Sie deshalb immer zuerst den für die aktuelle Schaltung angegebenen maximal Strom ein. Gibt es keine Angabe in der Versuchsbeschreibung sind die Bauteile so dimensioniert, das Bauteile nicht beschädigt werden können.
 
 CUT TO:
 
@@ -110,7 +108,7 @@ Auch bei der Widerstandsdekade gibt es häufige Fehler.
 Eine Hand zeigt auf die falsch angeschlossene Steckverbindung.
 
 ERZÄHLER (V.O.)
-Die Erdungsbuchse ist nicht elektrisch mit den anderen Buchsen verbunden. In so einem Fall kann durch das Bauteil kein Strom fließen.
+Die Erdungsbuchse ist nicht elektrisch mit den anderen Buchsen verbunden, nur mit dem Metallgehäuse. In so einem Fall kann durch das Bauteil kein Strom fließen.
 
 INSERT - Rotes Kreuz
 
@@ -137,7 +135,7 @@ In den Versuchen werden Sie häufig die Widerstandsdekaden neu einstellen müsse
 Eine Hand schaltet den 1k Ohm Schalter aus, die Strombegrenzungsleuchte geht an. 
 
 ERZÄHLER (V.O.)
-In diesem Fall hat die Widerstandsdekade 0 Ohm und wird zum Kurzschluss. Dies kann andere Bauteile beschädigen.
+In diesem Fall hat die Widerstandsdekade 0 Ohm und wird zum Kurzschluss. Dadurch kann ein sehr hoher Strom fließen, der andere Bauteile beschädigen kann.
 
 INSERT - Rotes Kreuz
 
@@ -149,7 +147,7 @@ Die Schaltung ist wieder zurückgesetzt.
 ERZÄHLER (V.O.)
 Um dies zu vermeiden, schalten Sie einfach den höchstmöglichen Widerstand dazu, während Sie die anderen Schalter neu einstellen.
 
-Eine Hand schaltet den höchsten Schalter[[10M Ohm?]] dazu, dann den 1k Ohm Schalter aus und den 2k Ohm Schalter an.
+Eine Hand schaltet den höchsten Schalter[[10M Ohm?]] dazu, dann den 1k Ohm Schalter aus und den 2k Ohm Schalter an. Zuletzt wird der höchste Schalter wieder abgeschaltet.
 
 INSERT - Grüner Haken
 /* Erst in Video 3/4:
@@ -220,7 +218,7 @@ Der Arbeitsplatz ist sauber aufgebaut.
 ERZÄHLER (V.O.)
 Arbeiten Sie stets sorgfältig
 und überprüfen Sie Ihren Aufbau,
-bevor Sie das Netzteil einschalten.
+bevor Sie das Netzteil an die Schaltung anschließen.
 
 ERZÄHLER (V.O.)
 Im Zweifel fragen Sie immer eine betreuende Person.
