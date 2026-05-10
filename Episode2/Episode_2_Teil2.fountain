@@ -84,10 +84,10 @@ INSERT INTO DISPLAY
 ERZÄHLER (V.O.)
 Das Netzteil zeigt Ihnen jederzeit grob die aktuelle Spannung an. Da diese Anzeigen nicht sehr präzise Arbeiten, sollten Sie für Feineinstellungen ein externes Messgerät verwenden. Diese lernen Sie im nächsten Video kennen.
 
-Eine Hand stellt die Anzege des Netzteils auf stom um, in dem der Schalter auf A geschoben wird. Display zeigt Strom.
+Eine Hand stellt die Anzege des Netzteils auf Strom um, in dem der Schalter auf A geschoben wird. Display zeigt Strom.
 
 ERZÄHLER (V.O.)
-Das Netzteil zeigt Ihnen auch den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigenlassen, indem Sie den Schalter auf A stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
+Das Netzteil zeigt Ihnen auch den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigenlassen, indem Sie den Schalter auf A für Ampere stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
 
 
 ERZÄHLER (V.O.)
@@ -147,9 +147,6 @@ ERZÄHLER (V.O.)
 Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombegrenzungsmodus arbeitet. In diesem Modus reduziert das Netzteil die ausgegebene Spannung, um den eingestellten Maximalstrom nicht zu überschreiten. 
 
 Währenddessen Hand zeigt auf die Strombegrenzungs-LED.
-
-ERZÄHLER (V.O.)
-Die Strombegrenzung schützt Ihre Bauteile und das Netzteil vor Überlastung.
 
 ERZÄHLER (V.O.)
 Denken Sie vor jedem Betrieb eines Aufbaus daran, die Strombegrenzung einzustellen und führen Sie einmal den Ablauf mit einem Kurzschluss durch, um sicherzustellen, dass die Strombegrenzung korrekt eingestellt ist.
