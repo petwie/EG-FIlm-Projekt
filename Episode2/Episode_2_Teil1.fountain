@@ -43,14 +43,14 @@ CUT TO:
 ## Überblick
 INT. LABOR - ARBEITSTISCH - TAG
 
-Auf dem Labortisch stehen drei Widerstandsdekaden.
+Auf dem Labortisch stehen zwei Widerstandsdekaden.
 
 SLOW ZOOM auf eine Dekade.
 
 ERZÄHLER (V.O.)
 In diesen Teil der Episode zwei lernen Sie die Widerstandsdekade kennen.
-Mit ihr können Sie gezielt Widerstandswerte einstellen
-und so Ihre Schaltungen flexibel anpassen. Die Widerstandsdekade werden Sie in allen Versuchen benutzten, aufpassen lohnt sich!
+Mit ihr können Sie unterschiedliche Widerstandswerte einstellen
+und so Ihre Schaltungen flexibel anpassen. Die Widerstandsdekade werden Sie oft in den Versuchen benutzten, aufpassen lohnt sich!
 
 CUT TO:
 
@@ -63,7 +63,7 @@ INT. LABOR - CLOSE-UP WIDERSTANDSDEKADE - TAG
 Nahaufnahme der Schiebeschalter einer der Widerstandsdekaden aus dem Überblick auf dem Labortisch.
 
 Eine Hand verstellt zuerst den 100 Ohm Schiebeschalter, schiebt ihn danach wieder zurück.
-Danach den 300 Ohm Schiebeschalter und danach den 30 Ohm Schiebeschalter
+Danach wird der 300 Ohm Schiebeschalter und danach den 30 Ohm Schiebeschalter verschoben, ohne zurück geschoben zu werden.
 
 ERZÄHLER (V.O.)
 Die Widerstandsdekade besteht aus mehreren Widerständen,
@@ -74,7 +74,7 @@ Jeder Schalter steht für eine Widerstandswert,
 der dazugeschaltet werden kann. Durch Verschieben des Schalters nach oben werden die Widerstände dazu geschaltet.
 
 ERZÄHLER (V.O.)
-Zusammen ergeben sie den Gesamtwiderstand der Dekade. Also werden alle eingeschalteten Werte summiert.
+Zusammen ergeben sie den Gesamtwiderstand der Dekade, also werden alle  Werte der nach oben verschobenen Schalter summiert.
 
 CUT TO:
 
@@ -95,7 +95,7 @@ Rechte hälfte ist die Widerstandsdekade zusehen im Close-Up
 
 Eine Hand verschiebt den 100 Ohm Schiebeschalter.
 
-EINBLENDEN: 100 Ohm +
+EINBLENDEN: R = 100 Ohm 
 
 ERZÄHLER (V.O.)
  
@@ -103,7 +103,7 @@ Hier wurden z.B. 100 OHM wurden dazugeschaltet
 
 Eine Hand verschiebt den 20 Ohm Schiebeschalter.
 
-EINBLENDEN: 20 Ohm +
+EINBLENDEN: R =  100 Ohm + 20 Ohm = 120 Ohm
 
 ERZÄHLER (V.O.)
  
@@ -111,7 +111,7 @@ jetzt wurden noch 20 Ohm dazugeschaltet.
 
 Eine Hand verschiebt den 6 Ohm Schiebeschalter.
 
-EINBLENDEN6 Ohm = 126 Ohm Gesamtwiderstand
+EINBLENDEN6 R = 100 Ohm + 20 Ohm + 6 Ohm = 126 Ohm
 
 ERZÄHLER (V.O.)
  
@@ -149,7 +149,7 @@ ZOOM OUT POV STUDENT*IN
 Student*in steckt eine Messleitung in die mittlere Anschlussbuchse und eine Messleitung in die rechte.
 
 ERZÄHLER (V.O.)
-So wird wie ein normaler Widerstand in die Schaltung eingebaut. 
+So wird die Widerstandsdekade in die Schaltung eingebunden. Und kann so als ein normaler Widerstand betrachtet werden.
 
 Student*in hält in jeder Hand je eine Messleitung und hält sie hoch.
 
@@ -163,7 +163,7 @@ Hand zeigt auf den linken Erdungsanschluss.
 ERZÄHLER (V.O.)
  
 Das ist der Erdungsanschluss, den Sie in den
-Versuchen nicht benötigen, da Sie im Praktikum ausschließlich mit Schutzkleinspannung arbeiten. Bitte nutzen Sie diesen also nie
+Versuchen nicht benötigen, da Sie im Praktikum ausschließlich mit Schutzkleinspannung arbeiten. 
 
 CUT TO:
 

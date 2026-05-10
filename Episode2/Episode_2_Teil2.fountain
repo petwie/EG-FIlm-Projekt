@@ -1,4 +1,4 @@
-Title: Episode 2.2, Bedienung des Netzteils
+Title: Episode 2.2, Bedienung des Labornetzteils
 Credit: Serie
 Author: Team EG (Peter, Marcel)
 Draft date: 28.03.2026
@@ -21,8 +21,9 @@ CUT TO:
 ## Überblick
 INT. LABOR - HALBTOTALE - TAG
 
-Student*in steht vor einem Labortisch, auf dem ein Netzteil steht.
+Student*in sitzt an einem Labortisch, auf dem ein Netzteil steht, eine Aufbau aus zwei Widerstandsdekaden. Nur die Leitungen zum Nezteil in rot und blau sind noch nicht angescholossen.
 Im Fokus das Netzteil.
+
 
 ERZÄHLER (V.O.)
 In diesem Teil lernen Sie,
@@ -38,17 +39,23 @@ ERZÄHLER (V.O.)
 So sieht das Netzteil aus das Sie im Versuch 1 und 2 verwenden werden.
 Man kann erkennen, das dass Netzteil aus zwei getrennten Spannungsquellen besteht.
 
-währenddessen Hand zeigt auf die beiden Spannungsquellen.
+währenddessen: Student*in steckt die Leitungen von den Widerstandsdekaden in die Spannungsquelle.
+
+!PFEILE AUF DIE BEIDEN SPANNUNGSQUELLEN WIRD EINGEBLENDET
 
 ERZÄHLER (V.O.)
 Für jede Spannungsquellen, gibt es eine Spannungsanzeige.
 
-währenddessen Hand zeigt auf die jeweiligen Anzeigen.
+währenddessen: Student*in verstellt Schieberegler an den Widerstandsdekaden, die Spannung ändert sich auf den Anzeigen.
+
+!PFEILE AUF DIE ANZEIGEN WIRD EINGEBLENDET
 
 ERZÄHLER (V.O.)
 Außerdem kann die Spannung mit den jeweiligen Drehreglern angepasst werden.
 
-währenddessen Hand zeigt auf die jeweiligen Drehregler.
+währenddessen: Student*in verstellt die Drehregler, die Spannung ändert sich auf den Anzeigen.
+
+!PFEILE AUF DIE DREHREGLER WIRD EINGEBLENDET
 
 # AKT 2 ANSCHLÜSSE UND ANZEIGEN
 
@@ -84,14 +91,14 @@ INSERT INTO DISPLAY
 ERZÄHLER (V.O.)
 Das Netzteil zeigt Ihnen jederzeit grob die aktuelle Spannung an. Da diese Anzeigen nicht sehr präzise Arbeiten, sollten Sie für Feineinstellungen ein externes Messgerät verwenden. Diese lernen Sie im nächsten Video kennen.
 
-Eine Hand stellt die Anzege des Netzteils auf Strom um, in dem der Schalter auf A geschoben wird. Display zeigt Strom.
+Eine Hand stellt die Anzeige des Netzteils auf Strom um, in dem der Schalter auf A geschoben wird. Display zeigt Strom.
 
 ERZÄHLER (V.O.)
-Das Netzteil zeigt Ihnen auch den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigenlassen, indem Sie den Schalter auf A für Ampere stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
+Das Netzteil zeigt Ihnen auch den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigen lassen, indem Sie den Schalter auf A für Ampere stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
 
 
 ERZÄHLER (V.O.)
-Trotzdem sollten Sie die Werte während des Versuchs regelmäßig überprüfen. Vor allem nach Änderungen in der Schaltung können sie sich etwas verschieben. 
+Auch wenn die Anzeige ungenau ist, sollten Sie die Werte während des Versuchs regelmäßig überprüfen. Vor allem nach Änderungen in der Schaltung können sie sich etwas verschieben. 
 
 CUT TO:
 
@@ -104,12 +111,12 @@ INT. LABOR - ARBEITSTISCH - TAG
 Ein Netzteil steht auf dem Labortisch.
 Eine Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
 
-Hand zeigt auf den Spannungsregler. 
+Hand zeigt auf den Spannungsdrehknopf. 
 
 ERZÄHLER (V.O.)
-Mit dem Spannungsregler können Sie die gewünschte Spannung einstellen,
+Mit dem Spannungsdrehknopf können Sie die gewünschte Spannung einstellen.
 
-Student*in dreht den Spannungsknopf.
+Student*in dreht den Spannungsdrehknopf.
 
 ERZÄHLER (V.O.)
 Der Strom ergibt sich automatisch
@@ -125,23 +132,23 @@ CUT TO:
 ## Strombegrenzung einstellen
 INT. LABOR - CLOSE-UP REGLER - TAG
 
-Ein Netzteil steht auf dem Labortisch. Roter Leiter liegt davor.
+Ein Netzteil steht auf dem Labortisch. Eine rote Leitung liegt davor.
 
 ERZÄHLER (V.O.)
-Um Bauteile zuschützen, kann es sinnvoll sein, den maximalen Strom zu begrenzen, der durch die Schaltung fließt. Das Netzteil verfügt über eine eingebaute Strombegrenzungsfunktion, die genau das ermöglicht.
+Um Bauteile zu schützen, kann es sinnvoll sein, den maximalen Strom zu begrenzen, der durch die Schaltung fließt. Das Netzteil verfügt über eine eingebaute Strombegrenzungsfunktion, die genau das ermöglicht.
 
 ERZÄHLER (V.O.) 
 Bevor Sie einen Aufbau in Betrieb nehmen, sollten Sie den maximalen Strom begrenzen.
-Dazu drehen Sie zuerst den Drehknopf bis zum Anschlag gegen den Uhrzeigersinn. Dann schließen Sie die beiden Ausgangsbuchsen kurz.
+Dazu drehen Sie zuerst den Spannungsdrehknopf bis zum Anschlag gegen den Uhrzeigersinn. Dann schließen Sie die beiden Ausgangsbuchsen kurz, indem Sie eine Messleitung von der Plus- zur Minusbuchse verbinden.
 
 Währenddessen Eine Hand versucht den Stromregler weiter nach links zu drehen, der Drehknopf ist aber bereits am Anschlag. Dann werden die Ausgangsbuchsen mit einer Messleitung kurzgeschlossen.
 
 ERZÄHLER (V.O.)
 Stellen Sie jetzt den Wahlschalter auf A und 
-mit dem Stromregler können Sie jetzt den maximalen Strom einstellen,
-so können Sie den gewünschten Wert einstellen.
+mit dem Stromdrehknopfomregler können Sie jetzt den maximalen Strom einstellen,
+so können Sie den gewünschten max. Strom einstellen.
 
-Währenddessen Hand zeigt auf den Stromregler und dreht diesen.
+Währenddessen Hand zeigt auf den Stromdrehknopf und dreht diesen.
 
 ERZÄHLER (V.O.)
 Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombegrenzungsmodus arbeitet. In diesem Modus reduziert das Netzteil die ausgegebene Spannung, um den eingestellten Maximalstrom nicht zu überschreiten. 
@@ -149,7 +156,11 @@ Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombe
 Währenddessen Hand zeigt auf die Strombegrenzungs-LED.
 
 ERZÄHLER (V.O.)
-Denken Sie vor jedem Betrieb eines Aufbaus daran, die Strombegrenzung einzustellen und führen Sie einmal den Ablauf mit einem Kurzschluss durch, um sicherzustellen, dass die Strombegrenzung korrekt eingestellt ist.
+Denken Sie vor jedem Betrieb eines Aufbaus daran, die Strombegrenzung einzustellen und führen Sie einmal den Ablauf mit einem Kurzschluss durch, um sicherzustellen, dass die Strombegrenzung korrekt eingestellt ist.Im Rahmen des Praktikums ist bei robusteren
+Bauteilen teilweise kein
+Maximalstrom vorgegeben, dort können
+Sie diesen Schritt überspringen.
+
 
 CUT TO:
 
@@ -157,10 +168,10 @@ CUT TO:
 INT. LABOR - ARBEITSTISCH - TAG
 
 Ein Netzteil steht auf dem Labortisch. Eine Dekade mit 100 Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
-Kurzschluss stromm von 100mA eingestellt.
+Kurzschlus Strom von 100mA eingestellt.
 
 ERZÄHLER (V.O.)
-Wenn Sie die Strombegrenzung eingestellt haben, können Sie das Netzteil auch als Stromquelle verwenden. In diesem Fall stellt das Netzteil die eingestellte Stromstärke bereit, und dieSpannung passt sich automatisch an den Widerstand Ihrer Schaltung an. Wird also der Widerstand erhöht, erhöht sich auch die Spannung, um den eingestellten Strom aufrechtzuerhalten. 
+Wenn Sie die Strombegrenzung eingestellt haben, können Sie das Netzteil auch als Stromquelle verwenden. In diesem Fall stellt das Netzteil die eingestellte Stromstärke bereit, und die Spannung passt sich automatisch an den Widerstand Ihrer Schaltung an. Wird also der Widerstand erhöht, erhöht sich auch die Spannung, um den eingestellten Strom aufrechtzuerhalten. 
 
 Die Widerstandsdekade wird auf 50 Ohm eingestellt.
 Der Strom bleibt konstant, die Spannung erhöht sich.
@@ -168,7 +179,7 @@ Der Strom bleibt konstant, die Spannung erhöht sich.
 INSERT INTO DISPLAY
 
 ERZÄHLER (V.O.)
-Die Spannung passt sich automatisch an, in diesem Fall erhöht sie sich, um den eingestellten Strom aufrechtzuerhalten. So können Sie auch mit einem konstanten Strom arbeiten, wenn Sie die Spannung nicht genau kennen oder kontrollieren möchten.
+Die Spannung passt sich automatisch an, in diesem Fall erhöht sie sich, um den eingestellten Strom aufrechtzuerhalten. 
 
 # AKT 5 TECHNISCHE STROMRICHTUNG
 = Verständnis
@@ -180,7 +191,7 @@ Eine Schaltung mit drei Widerstandsdekaden ist aufgebaut, alle sind in Reihe ges
 
 !Bild von der Schaltung wird eingeblendet.
 
-Overlay: Pfeil von Plus nach Minus an allen Bauteilen.
+Overlay: Ein roter Pfeil mit kegelförmiger Spitze von Plus nach Minus an allen Bauteilen.
 
 ERZÄHLER (V.O.)
 Die technische Stromrichtung verläuft
@@ -190,7 +201,7 @@ ERZÄHLER (V.O.)
 Diese Richtung wird in allen Schaltungen verwendet.
 
 ERZÄHLER (V.O.)
-Achten sie auf die Richtige Polung Ihrer Bauteile, damit sie korrekt betrieben werden.
+Achten sie auf die richtige Polung Ihrer Bauteile, damit Sie korrekt betrieben werden.
 
 
 CUT TO:
