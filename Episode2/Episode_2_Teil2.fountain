@@ -94,7 +94,7 @@ Das Netzteil zeigt Ihnen jederzeit grob die aktuelle Spannung an. Da diese Anzei
 Eine Hand stellt die Anzeige des Netzteils auf Strom um, in dem der Schalter auf A geschoben wird. Display zeigt Strom.
 
 ERZÄHLER (V.O.)
-Das Netzteil zeigt Ihnen auch den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigen lassen, indem Sie den Schalter auf A für Ampere stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
+Mithilfe dieses Schalters können Sie die Anzeige von Spannung auf Strom umstllen. So zeigt Ihnen das Netzteil den Strom an, der durch die Schaltung fließt. Diesen können Sie sich anzeigen lassen, indem Sie den Schalter auf A für Ampere stellen. Auch hier gilt, für genaue Messungen sollten Sie ein externes Messgerät verwenden.
 
 
 ERZÄHLER (V.O.)
@@ -111,12 +111,12 @@ INT. LABOR - ARBEITSTISCH - TAG
 Ein Netzteil steht auf dem Labortisch.
 Eine Hand zeigt auf Plus- und Minuspol, der linken Quelle. Eine Dekade mit 1k Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
 
-Hand zeigt auf den Spannungsdrehknopf. 
+Hand zeigt auf den Spannungsregler. 
 
 ERZÄHLER (V.O.)
-Mit dem Spannungsdrehknopf können Sie die gewünschte Spannung einstellen.
+Mit dem Spannungsregler können Sie die gewünschte Spannung einstellen.
 
-Student*in dreht den Spannungsdrehknopf.
+Student*in dreht den Spannungsregler.
 
 ERZÄHLER (V.O.)
 Der Strom ergibt sich automatisch
@@ -139,16 +139,16 @@ Um Bauteile zu schützen, kann es sinnvoll sein, den maximalen Strom zu begrenze
 
 ERZÄHLER (V.O.) 
 Bevor Sie einen Aufbau in Betrieb nehmen, sollten Sie den maximalen Strom begrenzen.
-Dazu drehen Sie zuerst den Spannungsdrehknopf bis zum Anschlag gegen den Uhrzeigersinn. Dann schließen Sie die beiden Ausgangsbuchsen kurz, indem Sie eine Messleitung von der Plus- zur Minusbuchse verbinden.
+Dazu drehen Sie zuerst den Stromregler bis zum Anschlag gegen den Uhrzeigersinn. Dann schließen Sie die beiden Ausgangsbuchsen kurz, indem Sie eine Messleitung von der Plus- zur Minusbuchse verbinden.
 
 Währenddessen Eine Hand versucht den Stromregler weiter nach links zu drehen, der Drehknopf ist aber bereits am Anschlag. Dann werden die Ausgangsbuchsen mit einer Messleitung kurzgeschlossen.
 
 ERZÄHLER (V.O.)
 Stellen Sie jetzt den Wahlschalter auf A und 
-mit dem Stromdrehknopfomregler können Sie jetzt den maximalen Strom einstellen,
+mit dem Stromregler können Sie jetzt den maximalen Strom einstellen,
 so können Sie den gewünschten max. Strom einstellen.
 
-Währenddessen Hand zeigt auf den Stromdrehknopf und dreht diesen.
+Währenddessen Hand zeigt auf den Stromregler und dreht diesen.
 
 ERZÄHLER (V.O.)
 Anhand der leuchtenden roten LED können Sie sehen, dass das Netzteil im Strombegrenzungsmodus arbeitet. In diesem Modus reduziert das Netzteil die ausgegebene Spannung, um den eingestellten Maximalstrom nicht zu überschreiten. 
@@ -168,7 +168,7 @@ CUT TO:
 INT. LABOR - ARBEITSTISCH - TAG
 
 Ein Netzteil steht auf dem Labortisch. Eine Dekade mit 100 Ohm steht vor dem Netzteil. Die Dekade ist angeschlossen.
-Kurzschlus Strom von 100mA eingestellt.
+Kurzschlusstrom von 100mA eingestellt.
 
 ERZÄHLER (V.O.)
 Wenn Sie die Strombegrenzung eingestellt haben, können Sie das Netzteil auch als Stromquelle verwenden. In diesem Fall stellt das Netzteil die eingestellte Stromstärke bereit, und die Spannung passt sich automatisch an den Widerstand Ihrer Schaltung an. Wird also der Widerstand erhöht, erhöht sich auch die Spannung, um den eingestellten Strom aufrechtzuerhalten. 
@@ -201,7 +201,7 @@ ERZÄHLER (V.O.)
 Diese Richtung wird in allen Schaltungen verwendet.
 
 ERZÄHLER (V.O.)
-Achten sie auf die richtige Polung Ihrer Bauteile, damit Sie korrekt betrieben werden.
+Achten sie auf die richtige Polung Ihrer Bauteile, damit die Schaltung korrekt betrieben werden.
 
 
 CUT TO:
