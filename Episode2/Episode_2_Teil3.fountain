@@ -67,16 +67,24 @@ CUT TO:
 ## Problem zeigen
 INT. LABOR - CLOSE-UP NETZTEIL - TAG
 
+Ein Labornetzteil ist zu sehen, die Strombegrenzung ist 600mA eingestellt, eine Spannung von 12V ist eingestellt.
+Eine Schaltung aus einer Glühbirne ist zusehen dier Glühbirne ist nur mit dem Minuspol verbunden, die Plusleitung hängt in der Luft.
 Strombegrenzung ist zu hoch eingestellt, die Stromanzeige des Labornetzteils zeigt einen sehr hohen Strom.
 Das Netzteil ist off-Screen kurzgeschlossen.[[Eine rote Leitung in eine blaue Stecken, damit die Buchsen gut aussehen]]
 
 ERZÄHLER (V.O.)
 Wird keine Strombegrenzung eingestellt,
-kann ein zu hoher Strom fließen.
+kann ein sehr großer Strom fließen.
+
+Schaltkreis wird geschlossnen, die Glühbirne leuchtet auf und brennt durch
+
+Die Stromanzeige des Labornetzteils zeigt einen Strom von 600mA an.
+
+
+Glühbirne wird abgeschlossen und das Labornetzteil wird kurzgeschlossen um die Strombegrenzung sehen zukönnen.
 
 ERZÄHLER (V.O.)
-Dies kann Bauteile wie die Widerstandsdekaden beschädigen oder zerstören.
-
+Die Glübirne verträgt keine so große Leitsung, und deshalb ist sie durchgebrannt. Deshalb ist es wichtig, auf die Strombegrenzung zu achten!
 [[Schaltung mit Diode zeigen, Post: Raucheffekt aus der Diode. Alternativ: Auschnitt von einem ElectoBoom Vido]]
 
 CUT TO:
@@ -85,12 +93,13 @@ CUT TO:
 INT. LABOR - DETAILAUFNAHME - TAG
 
 Kurzschluss wird durchgeführt,
-Strombegrenzung wird eingestellt.
+Strombegrenzung wird diesmal auf 100mA eingestellt, die Stromanzeige zeigt 100mA an.
 
 INSERT - Grüner Haken
 
 ERZÄHLER (V.O.)
 Stellen Sie deshalb immer zuerst den für die aktuelle Schaltung angegebenen maximal Strom ein. Gibt es keine Angabe in der Versuchsbeschreibung sind die Bauteile so dimensioniert, das Bauteile nicht beschädigt werden können.
+So kann auch nichts zerstört werden.
 
 CUT TO:
 
