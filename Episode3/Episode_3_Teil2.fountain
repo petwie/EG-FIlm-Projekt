@@ -1,0 +1,293 @@
+Title: Episode 3.2, Knoten stecken
+Credit: Serie
+Author: Team EG (Peter, Marcel)
+Draft date: 28.07.2026
+
+## INTRO
+.Intro zur Episode 3.2
+
+TH-INTRO
+
+INT. LABOR - TAG
+
+Der in Teil 1 übersichtlich umgezeichnete Schaltplan mit einer Spannungsquelle und drei Widerständen liegt auf dem Labortisch.
+Daneben stehen das ausgeschaltete Labornetzteil, drei Widerstandsdekaden, drei Glühbirnen und Leitungen mit Bananensteckern.
+
+SUPER:
+Episode 3.2 – Knoten stecken
+
+ERZÄHLER (V.O.)
+Im ersten Teil haben Sie diesen Schaltplan gelesen und übersichtlich umgezeichnet.
+Nun übertragen wir ihn Schritt für Schritt in einen realen Versuchsaufbau.
+
+CUT TO:
+
+# AKT 1 AUFBAU VORBEREITEN
+= Geräte und Bauteile anordnen
+
+## Anordnung auf dem Labortisch
+INT. LABOR - ARBEITSTISCH - TAG
+
+Der umgezeichnete Schaltplan aus Teil 1 bleibt gut sichtbar auf dem Labortisch liegen.
+Student*in ordnet das Labornetzteil und die drei Widerstandsdekaden entsprechend dieser Vorlage an.
+Hinter jeder Widerstandsdekade wird eine Glühbirne angeordnet.
+
+ERZÄHLER (V.O.)
+Ordnen Sie zuerst alle Geräte und Bauteile übersichtlich auf dem Arbeitsplatz an.
+Orientieren Sie sich dabei an dem Schaltplan aus Teil 1.
+
+Im Schaltplan wird hinter jedem Widerstand zusätzlich das Symbol einer Glühbirne eingeblendet.
+
+ERZÄHLER (V.O.)
+Damit die einzelnen Strompfade im Versuchsaufbau sichtbar werden, ergänzen wir drei Glühbirnen.
+In diesem Teil wird hinter jede Widerstandsdekade immer eine Glühbirne in Reihe geschaltet.
+
+Das Labornetzteil ist mit dem Aufbau verbunden, bleibt aber ausgeschaltet.
+
+ERZÄHLER (V.O.)
+Lassen Sie das Labornetzteil während des gesamten Aufbaus ausgeschaltet.
+Schalten Sie es erst ein, nachdem die Schaltung vollständig aufgebaut und geprüft wurde.
+
+CUT TO:
+
+# AKT 2 KNOTEN STECKEN
+= Verbindungen systematisch aufbauen
+
+## Knoten am Pluspol
+INT. LABOR - SCHALTPLAN UND AUFBAU - TAG
+
+Der erweiterte Schaltplan wird links und der reale Versuchsaufbau rechts gezeigt.
+Der Pluspol und der zugehörige Knoten werden im Schaltplan rot hervorgehoben.
+
+ERZÄHLER (V.O.)
+Beginnen Sie am Pluspol der Spannungsquelle und stellen Sie alle Verbindungen dieses Knotens her.
+
+Student*in steckt eine rote Leitung in die rote Bananenbuchse des Labornetzteils und verbindet sie mit der ersten Widerstandsdekade.
+Der Ausgang der Widerstandsdekade wird mit der dahinter angeordneten Glühbirne verbunden.
+
+ERZÄHLER (V.O.)
+Für den Knoten am Pluspol verwenden Sie eine rote Leitung.
+Die erste Widerstandsdekade und die nachgeschaltete Glühbirne bilden eine Reihenschaltung.
+
+## Mittlere Knoten
+INT. LABOR - ARBEITSTISCH - TAG
+
+Der erste mittlere Knoten vor der Parallelschaltung wird schwarz hervorgehoben.
+Student*in verbindet diesen Knoten mit den Anfängen der beiden parallelen Widerstandsdekaden.
+
+Um mehrere Leitungen an derselben Bananenbuchse anzuschließen, wird ein Bananenstecker in die rückseitige Buchse eines bereits eingesteckten Bananensteckers gesteckt.
+Eine Nahaufnahme zeigt die stapelbaren Bananenstecker.
+
+ERZÄHLER (V.O.)
+Mit stapelbaren Bananensteckern können mehrere Leitungen an einem Anschluss verbunden werden.
+Alle auf diese Weise verbundenen Leitungen gehören zum selben Knoten.
+
+Hinter jede der beiden parallelen Widerstandsdekaden wird eine Glühbirne in Reihe geschaltet.
+Die Ausgänge beider Glühbirnen werden am zweiten mittleren Knoten zusammengeführt.
+Auch dieser Knoten wird schwarz markiert.
+
+ERZÄHLER (V.O.)
+Beide mittleren Knoten werden in diesem Aufbau schwarz markiert.
+Es handelt sich trotzdem um zwei unterschiedliche Knoten: einen vor und einen hinter der Parallelschaltung.
+
+## Knoten am Minuspol
+
+Der zweite mittlere Knoten wird mit dem Minuspol des Labornetzteils verbunden.
+Die Leitung am Minuspol ist blau.
+
+ERZÄHLER (V.O.)
+Für die Verbindung zum Minuspol verwenden Sie eine blaue Leitung.
+Bleiben Sie beim Aufbau konsequent bei diesem Farbschema.
+
+CUT TO:
+
+# AKT 3 REIHEN- UND PARALLELSCHALTUNG VERSTEHEN
+= Strompfade im fertigen Aufbau
+
+## Reihenschaltungen
+INT. LABOR - SCHALTPLAN UND AUFBAU - TAG
+
+Im erweiterten Schaltplan werden nacheinander die drei Paare aus Widerstandsdekade und Glühbirne hervorgehoben.
+Im Versuchsaufbau werden gleichzeitig die entsprechenden Bauteile markiert.
+
+ERZÄHLER (V.O.)
+Bei einer Reihenschaltung sind Bauteile hintereinander verbunden.
+Zwischen ihnen gibt es keine Abzweigung.
+
+Ein Pfeil verläuft durch eine Widerstandsdekade und anschließend durch die zugehörige Glühbirne.
+
+ERZÄHLER (V.O.)
+Jede Widerstandsdekade ist mit der dahinterliegenden Glühbirne in Reihe geschaltet.
+Durch beide Bauteile fließt derselbe Strom.
+
+## Parallelschaltung
+
+Die beiden parallelen Zweige werden vollständig hervorgehoben.
+Jeder Zweig besteht aus einer Widerstandsdekade und einer nachgeschalteten Glühbirne.
+
+ERZÄHLER (V.O.)
+Die beiden rechten Reihenschaltungen liegen parallel zueinander.
+Beide Zweige beginnen am ersten schwarzen Knoten und enden am zweiten schwarzen Knoten.
+
+Die Strompfade teilen sich am ersten schwarzen Knoten und werden am zweiten schwarzen Knoten wieder zusammengeführt.
+
+ERZÄHLER (V.O.)
+Bei einer Parallelschaltung gibt es mehrere Strompfade.
+Die Bauteile liegen parallel, wenn ihre Zweige jeweils mit denselben zwei Knoten verbunden sind.
+
+SUPER:
+Reihe – ein gemeinsamer Strompfad
+
+SUPER:
+Parallel – mehrere Strompfade zwischen denselben Knoten
+
+CUT TO:
+
+# AKT 4 AUFBAU KONTROLLIEREN
+= Prüfung vor dem Einschalten
+
+## Schaltplan und Aufbau vergleichen
+INT. LABOR - ARBEITSTISCH - TAG
+
+Das Labornetzteil bleibt ausgeschaltet.
+Der erweiterte Schaltplan und der Versuchsaufbau werden nebeneinander gezeigt.
+
+ERZÄHLER (V.O.)
+Kontrollieren Sie den vollständigen Versuchsaufbau, bevor Sie das Labornetzteil einschalten.
+Arbeiten Sie dabei immer in derselben Reihenfolge.
+
+## Schritt 1: Bauteile und Werte
+
+Student*in zeigt nacheinander auf die drei Widerstandsdekaden und die drei nachgeschalteten Glühbirnen.
+Danach werden die Schalterstellungen der Widerstandsdekaden mit den Vorgaben verglichen.
+
+ERZÄHLER (V.O.)
+Prüfen Sie zuerst, ob alle Bauteile vorhanden und die Widerstandsdekaden richtig eingestellt sind.
+Hinter jeder Widerstandsdekade muss eine Glühbirne in Reihe geschaltet sein.
+
+## Schritt 2: Reihen- und Parallelzweige
+
+Student*in verfolgt zuerst die drei Reihenschaltungen und anschließend die beiden parallelen Zweige.
+
+ERZÄHLER (V.O.)
+Kontrollieren Sie danach die Reihenschaltungen und die beiden parallelen Strompfade.
+Achten Sie darauf, dass kein Bauteil ausgelassen oder unbeabsichtigt überbrückt wird.
+
+## Schritt 3: Knoten und Leitungen
+
+Der rote Knoten, die beiden schwarzen Knoten und der blaue Knoten werden nacheinander im Schaltplan und im Aufbau hervorgehoben.
+Student*in prüft alle Bananenstecker und Bananenbuchsen.
+
+ERZÄHLER (V.O.)
+Vergleichen Sie abschließend jeden Knoten einzeln mit dem Schaltplan.
+Prüfen Sie auch gestapelte Bananenstecker und achten Sie darauf, dass keine Leitung zwei unterschiedliche Knoten verbindet.
+
+SUPER:
+1. Bauteile und Widerstandswerte
+2. Reihen- und Parallelzweige
+3. Knoten und Leitungen
+
+## Erstes Einschalten
+
+Das Labornetzteil ist auf 15 Volt eingestellt.
+Nach der vollständigen Kontrolle wird es eingeschaltet.
+Alle drei Glühbirnen leuchten.
+
+INSERT - U = 15 V
+
+ERZÄHLER (V.O.)
+Für dieses Beispiel ist die Spannungsquelle auf 15 Volt eingestellt.
+Erst nach der vollständigen Kontrolle wird sie eingeschaltet.
+
+CUT TO:
+
+# AKT 5 ÜBERBRÜCKUNG VERSTEHEN
+= Wenn Strom an Bauteilen vorbeifließt
+
+## Korrekte Schaltung
+INT. LABOR - SCHALTPLAN UND AUFBAU - TAG
+
+Alle drei Glühbirnen leuchten.
+Im Schaltplan werden die beiden Strompfade durch die parallelen Zweige angezeigt.
+
+ERZÄHLER (V.O.)
+Im korrekten Aufbau fließt Strom durch beide parallelen Zweige.
+Deshalb leuchten die beiden Glühbirnen hinter den parallelen Widerstandsdekaden.
+
+## Parallele Zweige überbrücken
+
+Das Labornetzteil wird ausgeschaltet.
+Eine zusätzliche schwarze Leitung wird vom ersten schwarzen Knoten zum zweiten schwarzen Knoten gesteckt.
+Die entsprechende Verbindung wird gleichzeitig im Schaltplan eingeblendet.
+
+ERZÄHLER (V.O.)
+Diese zusätzliche Leitung verbindet die beiden mittleren Knoten direkt miteinander.
+Dadurch werden beide parallelen Zweige überbrückt.
+
+Im Schaltplan wird der neue Strompfad durch die zusätzliche Leitung hervorgehoben.
+Die Strompfeile durch die beiden parallelen Zweige verschwinden.
+
+ERZÄHLER (V.O.)
+Der Strom fließt nun nahezu vollständig durch die zusätzliche Leitung.
+An den beiden parallelen Reihenschaltungen liegt dadurch nahezu keine Spannung mehr an.
+
+Nach einer erneuten Kontrolle wird das Labornetzteil eingeschaltet.
+Die beiden Glühbirnen hinter den parallelen Widerstandsdekaden leuchten nicht mehr.
+Die Glühbirne im Reihenzweig leuchtet weiterhin.
+
+INSERT - Rotes Kreuz
+
+ERZÄHLER (V.O.)
+Eine Leitung, die Bauteile unbeabsichtigt überbrückt, verändert die Schaltung und kann einen Kurzschluss verursachen.
+Stecken oder entfernen Sie Leitungen deshalb nur bei ausgeschaltetem Labornetzteil.
+
+Das Labornetzteil wird wieder ausgeschaltet.
+Die überbrückende Leitung wird entfernt.
+Nach einer erneuten Kontrolle wird das Labornetzteil eingeschaltet.
+Alle drei Glühbirnen leuchten wieder.
+
+INSERT - Grüner Haken
+
+CUT TO:
+
+# AKT 6 KABELFARBEN
+= Übersicht behalten
+
+## Farbschema
+INT. LABOR - TOTALE ARBEITSPLATZ - TAG
+
+Der fertige Versuchsaufbau ist übersichtlich verkabelt.
+
+SUPER:
+Rot – Knoten am Pluspol
+
+SUPER:
+Schwarz – beide mittleren Knoten
+
+SUPER:
+Blau – Knoten am Minuspol
+
+ERZÄHLER (V.O.)
+Ein einheitliches Farbschema erleichtert die Kontrolle des Aufbaus und die spätere Fehlersuche.
+Beachten Sie, dass die beiden schwarz markierten mittleren Knoten nicht direkt miteinander verbunden werden dürfen.
+
+CUT TO:
+
+# OUTRO
+
+INT. LABOR - ARBEITSTISCH - TAG
+
+Der erweiterte Schaltplan und der funktionierende Versuchsaufbau werden nebeneinander gezeigt.
+Alle drei Glühbirnen leuchten.
+
+ERZÄHLER (V.O.)
+Sie können nun die Reihen- und Parallelschaltung erkennen, die zugehörigen Knoten stecken und den Versuchsaufbau vor dem Einschalten systematisch kontrollieren.
+Im nächsten Teil verwenden wir dieses Wissen, um Fehler gezielt einzugrenzen und zu beheben.
+
+TH-OUTRO
+
+FADE TO WHITE
+
+TH-Logo erscheint
+
+# ENDE Episode 3.2, Knoten stecken

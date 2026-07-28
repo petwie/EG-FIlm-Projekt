@@ -1,0 +1,192 @@
+Title: Episode 3.1, Vom Schaltplan zur Schaltung
+Credit: Serie
+Author: Team EG (Peter, Marcel)
+Draft date: 27.07.2026
+
+## INTRO
+.Intro zur Episode 3.1
+
+TH-INTRO
+
+INT. LABOR - TAG
+
+Es wird ein Schaltplan mit einer Spannungsquelle und drei Widerständen gezeigt, der im Verlauf der Episode Schritt für Schritt näher betrachtet wird.
+Die Schaltung besteht aus einer Spannungsquelle und drei Widerständen, die in Reihen- und Parallelzweigen angeordnet sind, er besteht aus einem Widerstand in Reihe zu zwei die Parallel verschaltet sind.
+Daneben stehen das Labornetzteil und drei Widerstandsdekaden für den späteren Versuchsaufbau.
+
+SUPER:
+Episode 3.1 – Schaltpläne lesen
+
+ERZÄHLER (V.O.)
+In dieser Episode betrachten wir einen Schaltplan mit einer Spannungsquelle und drei Widerständen.
+An diesem Beispiel zeigen wir Ihnen Schritt für Schritt, wie Sie einen Schaltplan lesen und für den Versuchsaufbau vorbereiten.
+
+CUT TO:
+
+# AKT 1 VOM PLAN ZUM AUFBAU
+= Schaltplan und Versuchsaufbau
+
+## Überblick
+INT. LABOR - ARBEITSTISCH - TAG
+
+Der Schaltplan und die noch nicht verbundenen Geräte aus dem Intro liegen nebeneinander.
+Daneben liegen Leitungen mit gut sichtbaren Bananensteckern in den benötigten Farben: Rot für den Pluspol, Blau für den Minuspol sowie Schwarz für die Verbindungen zwischen den Bauteilen.
+
+ERZÄHLER (V.O.)
+Ein Schaltplan zeigt, wie die Bauteile eines Versuchsaufbaus elektrisch miteinander verbunden werden.
+Dabei ist nicht ihre Position auf dem Labortisch entscheidend, sondern die Verbindung zwischen den einzelnen Anschlüssen.
+
+ERZÄHLER (V.O.)
+Bevor Sie mit dem Aufbau beginnen, verschaffen Sie sich einen Überblick:
+Welche Geräte und Bauteile werden benötigt und wie sind sie miteinander verbunden?
+
+CUT TO:
+
+# AKT 2 BAUTEILE ERKENNEN
+= Symbole zuordnen Punkt eins aus Notion
+
+## Geräte zuordnen
+INT. LABOR - SCHALTPLAN - TAG
+
+Der Schaltplan mit einer Spannungsquelle und drei Widerständen aus dem Intro wird erneut eingeblendet.
+Die Kamera fährt näher an den Schaltplan heran, sodass die einzelnen Schaltsymbole deutlich zu erkennen sind.
+Neben dem Schaltplan werden das Labornetzteil, die drei Widerstandsdekaden und die farblich passenden Leitungen mit Bananensteckern gezeigt: Rot, Blau sowie Schwarz.
+
+Die Schaltsymbole werden nacheinander hervorgehoben. Neben jedem Symbol erscheint ein Bild des zugehörigen Geräts.
+
+ERZÄHLER (V.O.)
+Im Schaltplan werden Geräte und Bauteile durch vereinfachte Symbole dargestellt.
+Die Spannungsquelle wird im Labor durch das Labornetzteil bereitgestellt.
+
+Das Symbol der Spannungsquelle wird durch ein Bild des Labornetzteils ersetzt.
+
+ERZÄHLER (V.O.)
+Die Widerstände werden in den ersten Versuchen mit Widerstandsdekaden eingestellt.
+
+Die Widerstandssymbole werden durch Bilder der Widerstandsdekaden ersetzt.
+
+ERZÄHLER (V.O.)
+Die Linien zwischen den Symbolen entsprechen den elektrischen Verbindungen.
+Im Versuchsaufbau werden diese Verbindungen mit Leitungen und Bananensteckern hergestellt.
+
+Die Bananenstecker werden durch Bilder der bananenstecker ersetzt.
+
+CUT TO:
+
+# AKT 3 VERBINDUNGEN LESEN
+= Knoten und Abzweigungen
+
+## Knoten erkennen
+INT. LABOR - OVERLAY SCHALTPLAN - TAG
+
+Im Schaltplan aus dem Intro, wird der Kontoen vor der Parallelschaltung wird farbig hervorgehoben.
+
+ERZÄHLER (V.O.)
+Alle Leitungen, die ohne ein Bauteil dazwischen miteinander verbunden sind, gehören zu demselben Knoten.
+An einem Knoten können sich mehrere Leitungen treffen.
+
+Der zweite Knoten hinter der Parallelschaltung wird ebenfalls schwarz hervorgehoben.
+
+ERZÄHLER (V.O.)
+Jeder Knoten besitzt überall das gleiche elektrische Potenzial.
+Unterschiedliche Knoten dürfen deshalb beim Aufbau nicht versehentlich miteinander verbunden werden.
+
+CUT TO:
+
+# AKT 4 SCHALTPLAN UMZEICHNEN
+= Übersicht schaffen
+
+## Gleiche Schaltung, andere Darstellung
+INT. LABOR - WHITEBOARD - TAG
+
+Der Schaltplan mit der Spannungsquelle und den drei Widerständen aus dem Intro ist auf der linken Seite des Whiteboards absichtlich unübersichtlich dargestellt.
+Die Bauteile sind ungünstig verteilt, die Leitungen haben mehrere Knicke und die Reihen- und Parallelschaltung ist nicht auf den ersten Blick zu erkennen.
+Alle elektrischen Verbindungen sind trotzdem korrekt.
+Auf der rechten Seite ist zunächst eine freie Fläche.
+
+ERZÄHLER (V.O.)
+Schaltpläne können unterschiedlich aussehen und trotzdem dieselbe Schaltung darstellen.
+Beim Umzeichnen dürfen Bauteile verschoben und Leitungen anders gezeichnet werden.
+Entscheidend ist, dass jedes Bauteil weiterhin mit denselben Knoten verbunden bleibt.
+
+## Schritt 1: Spannungsquelle anordnen
+
+Auf der rechten Seite des Whiteboards wird zuerst die Spannungsquelle eingezeichnet.
+Der Pluspol wird oben und der Minuspol unten angeordnet.
+Die Anschlüsse werden passend zu den Leitungsfarben rot und blau markiert.
+
+ERZÄHLER (V.O.)
+Beginnen Sie mit der Spannungsquelle.
+Kennzeichnen Sie Plus- und Minuspol eindeutig, damit die technische Stromrichtung später gut nachvollziehbar ist.
+
+## Schritt 2: Widerstand in Reihe einzeichnen
+
+Der Widerstand, der vor der Verzweigung liegt, wird rechts neben dem Pluspol eingezeichnet.
+Seine Verbindung zum Pluspol wird rot hervorgehoben.
+
+ERZÄHLER (V.O.)
+Als Nächstes zeichnen Sie den Widerstand ein, der in Reihe vor der Verzweigung liegt.
+Er bleibt direkt mit dem Knoten am Pluspol verbunden.
+
+## Schritt 3: Parallelschaltung einzeichnen
+
+Hinter dem ersten Widerstand wird der bereits in Akt 3 gezeigte Knoten eingezeichnet und farbig hervorgehoben.
+Von diesem Knoten aus werden zwei getrennte Zweige gezeichnet.
+In jeden Zweig wird einer der beiden übrigen Widerstände eingesetzt.
+
+ERZÄHLER (V.O.)
+Hinter dem ersten Widerstand teilt sich die Schaltung in zwei Zweige.
+Die beiden übrigen Widerstände liegen parallel, da ihre Anschlüsse jeweils mit denselben zwei Knoten verbunden sind.
+
+Hinter den beiden parallelen Widerständen werden die Zweige wieder zu einem gemeinsamen Knoten zusammengeführt.
+Dieser Knoten wird wie der Knoten vor der Parallelschaltung schwarz markiert und anschließend mit dem Minuspol verbunden.
+
+ERZÄHLER (V.O.)
+Nach den beiden Widerständen werden die Zweige wieder zusammengeführt.
+Von diesem gemeinsamen Knoten führt die Verbindung zurück zum Minuspol der Spannungsquelle.
+
+## Schritt 4: Verbindungen kontrollieren
+
+Die Knoten im ursprünglichen und im umgezeichneten Schaltplan werden nacheinander hervorgehoben.
+Der Knoten am Pluspol wird rot, die beiden mittleren Knoten werden schwarz und der Knoten am Minuspol wird blau markiert.
+Anschließend werden die drei Widerstände in beiden Darstellungen jeweils paarweise markiert.
+
+ERZÄHLER (V.O.)
+Vergleichen Sie nach dem Umzeichnen jeden Knoten und jedes Bauteil mit dem ursprünglichen Schaltplan.
+Sind alle Anschlüsse weiterhin gleich verbunden, wurde die Schaltung nicht verändert.
+
+Beide Schaltpläne erscheinen nebeneinander.
+
+INSERT - Gleichheitszeichen zwischen den Schaltplänen
+
+ERZÄHLER (V.O.)
+Die Anordnung und die Form der Leitungen sind unterschiedlich.
+Die Verbindungen zwischen Spannungsquelle und Widerständen sind jedoch gleich.
+Beide Darstellungen beschreiben deshalb dieselbe Schaltung.
+
+Der neu gezeichnete Schaltplan wird vergrößert eingeblendet.
+Die drei Widerstände sowie die Reihen- und Parallelzweige sind deutlich zu erkennen.
+
+ERZÄHLER (V.O.)
+Durch die übersichtliche Darstellung lassen sich die Knoten sowie die Reihen- und Parallelschaltung leichter erkennen.
+Dieser Schaltplan dient im nächsten Teil als Vorlage für den Versuchsaufbau.
+
+CUT TO:
+
+# OUTRO
+
+INT. LABOR - ARBEITSTISCH - TAG
+
+Der übersichtliche Schaltplan liegt neben den passenden Geräten.
+
+ERZÄHLER (V.O.)
+Sie können nun die Geräte und Verbindungen in einem Schaltplan erkennen.
+Im nächsten Teil übertragen Sie den Schaltplan in einen Versuchsaufbau.
+
+TH-OUTRO
+
+FADE TO WHITE
+
+TH-Logo erscheint
+
+# ENDE Episode 3.1, Schaltpläne lesen

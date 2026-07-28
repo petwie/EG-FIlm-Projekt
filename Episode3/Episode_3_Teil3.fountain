@@ -1,0 +1,242 @@
+Title: Episode 3.3, Fehlersuche in Schaltnetzen
+Credit: Serie
+Author: Team EG (Peter, Marcel)
+Draft date: 28.07.2026
+
+## INTRO
+.Intro zur Episode 3.3
+
+TH-INTRO
+
+INT. LABOR - TAG
+
+Der Versuchsaufbau aus Teil 2 steht eingeschaltet auf dem Labortisch.
+Das Labornetzteil ist auf 15 Volt eingestellt.
+Eine der drei Glühbirnen bleibt dunkel.
+
+SUPER:
+Episode 3.3 – Fehlersuche in Schaltnetzen
+
+ERZÄHLER (V.O.)
+Der Versuchsaufbau wurde kontrolliert, aber eine Glühbirne bleibt dunkel.
+Wie lässt sich die Ursache jetzt systematisch finden?
+
+Das Labornetzteil wird ausgeschaltet.
+
+ERZÄHLER (V.O.)
+Schalten Sie die Spannungsquelle aus, bevor Sie Leitungen oder Bauteile überprüfen und verändern.
+
+CUT TO:
+
+# AKT 1 FEHLERBILD EINGRENZEN
+= Erst beobachten, dann suchen
+
+## Einen oder mehrere Zweige prüfen
+INT. LABOR - SCHALTPLAN UND AUFBAU - TAG
+
+Ein Standbild des eingeschalteten Aufbaus zeigt eine dunkle Glühbirne in einem parallelen Zweig.
+Daneben wird der erweiterte Schaltplan aus Teil 2 eingeblendet.
+
+ERZÄHLER (V.O.)
+Beginnen Sie nicht damit, wahllos Leitungen umzustecken.
+Beobachten Sie zuerst, welche Teile der Schaltung funktionieren und welche nicht.
+
+Die dunkle Glühbirne und ihr zugehöriger Zweig werden im Schaltplan markiert.
+
+ERZÄHLER (V.O.)
+Bleibt nur eine Glühbirne dunkel, liegt der Fehler wahrscheinlich in ihrer Reihenschaltung oder in den Anschlüssen dieses Zweigs.
+
+Eine zweite Darstellung zeigt beide dunklen Glühbirnen der parallelen Zweige.
+Der erste und der zweite schwarze Knoten werden hervorgehoben.
+
+ERZÄHLER (V.O.)
+Bleiben beide parallelen Glühbirnen dunkel, suchen Sie zuerst nach einer gemeinsamen Ursache.
+Prüfen Sie dann die beiden schwarzen Knoten und die gemeinsamen Verbindungen der parallelen Zweige.
+
+SUPER:
+Ein Zweig betroffen – Fehler im einzelnen Zweig suchen
+
+SUPER:
+Mehrere Zweige betroffen – gemeinsame Knoten und Verbindungen prüfen
+
+CUT TO:
+
+# AKT 2 FEHLER 1: UNTERBROCHENER ZWEIG
+= Fehlende Verbindung finden
+
+## Fehler systematisch verfolgen
+INT. LABOR - ARBEITSTISCH - TAG
+
+Das Labornetzteil bleibt ausgeschaltet.
+Student*in beginnt am ersten schwarzen Knoten und verfolgt nur den betroffenen parallelen Zweig.
+
+ERZÄHLER (V.O.)
+Verfolgen Sie den betroffenen Zweig in Stromrichtung.
+Prüfen Sie eine Verbindung nach der anderen.
+
+Student*in kontrolliert:
+
+1. die Leitung vom ersten schwarzen Knoten zur Widerstandsdekade,
+2. die Schalterstellung der Widerstandsdekade,
+3. die Verbindung von der Widerstandsdekade zur Glühbirne,
+4. die Rückleitung der Glühbirne zum zweiten schwarzen Knoten.
+
+Bei der Rückleitung wird ein nicht vollständig eingesteckter Bananenstecker gefunden.
+
+INSERT - Rotes Kreuz
+
+ERZÄHLER (V.O.)
+Dieser Bananenstecker sitzt nicht vollständig in der Bananenbuchse.
+Der Zweig ist dadurch unterbrochen und es kann kein Strom durch die Glühbirne fließen.
+
+Student*in steckt den Bananenstecker bei ausgeschaltetem Labornetzteil vollständig ein.
+Danach wird der korrigierte Zweig erneut mit dem Schaltplan verglichen.
+
+INSERT - Grüner Haken
+
+Das Labornetzteil wird eingeschaltet.
+Die Glühbirne leuchtet wieder.
+
+ERZÄHLER (V.O.)
+Ändern Sie immer nur einen gefundenen Fehler und prüfen Sie anschließend erneut den Aufbau.
+So bleibt nachvollziehbar, welche Korrektur den Fehler behoben hat.
+
+CUT TO:
+
+# AKT 3 FEHLER 2: FALSCHER WIDERSTANDSWERT
+= Dunkel bedeutet nicht immer unterbrochen
+
+## Unterschiedliche Helligkeit
+INT. LABOR - ARBEITSTISCH - TAG
+
+Alle drei Glühbirnen leuchten, aber eine Glühbirne ist deutlich dunkler als erwartet.
+
+ERZÄHLER (V.O.)
+Eine dunklere Glühbirne bedeutet nicht automatisch, dass eine Leitung fehlt.
+Auch ein falsch eingestellter Widerstandswert verändert den Strom im betroffenen Zweig.
+
+Das Labornetzteil wird ausgeschaltet.
+Die betreffende Widerstandsdekade wird mit der Vorgabe im Schaltplan beziehungsweise in der Versuchsanleitung verglichen.
+
+Eine Nahaufnahme zeigt einen Schalter der Widerstandsdekade in der falschen Stellung.
+
+INSERT - Rotes Kreuz
+
+ERZÄHLER (V.O.)
+Hier ist ein zusätzlicher Widerstand zugeschaltet.
+Dadurch fließt weniger Strom und die Glühbirne leuchtet schwächer.
+
+Student*in korrigiert die Schalterstellung.
+Der eingestellte Gesamtwiderstand wird noch einmal kontrolliert.
+
+INSERT - Grüner Haken
+
+Nach der Kontrolle wird das Labornetzteil eingeschaltet.
+Die Glühbirne leuchtet mit der erwarteten Helligkeit.
+
+CUT TO:
+
+# AKT 4 KURZSCHLÜSSE VERMEIDEN
+= Verdächtige Verbindung nicht einschalten
+
+## Kurzschluss vor dem Einschalten erkennen
+INT. LABOR - CLOSE-UP VERSUCHSAUFBAU - TAG
+
+Das Labornetzteil ist ausgeschaltet.
+Eine zusätzliche rote Leitung liegt mit einem Ende am Pluspol.
+Das andere Ende wird in Richtung der blauen Bananenbuchse geführt, aber nicht eingesteckt.
+
+Im Schaltplan zeigt eine rote grafische Linie die direkte Verbindung zwischen Plus- und Minuspol.
+
+INSERT - Rotes Kreuz
+
+ERZÄHLER (V.O.)
+Ein Kurzschluss entsteht, wenn zwei unterschiedliche Knoten nahezu ohne Widerstand miteinander verbunden werden.
+Eine direkte Leitung zwischen Plus- und Minuspol würde die gesamte Schaltung umgehen.
+
+Die falsche Leitung wird vom Aufbau entfernt.
+
+ERZÄHLER (V.O.)
+Wenn Sie eine verdächtige Verbindung entdecken, lassen Sie das Labornetzteil ausgeschaltet.
+Vergleichen Sie die beiden Enden der Leitung mit dem Schaltplan und entfernen Sie die Verbindung, bevor Sie den Aufbau erneut prüfen.
+
+## Überbrückte Bauteile erkennen
+
+Im Schaltplan werden mehrere Beispiele für unbeabsichtigt überbrückte Bauteile kurz eingeblendet.
+Der bereits in Teil 2 ausführlich erklärte Überbrückungsversuch wird nur als Standbild gezeigt.
+
+ERZÄHLER (V.O.)
+Suchen Sie außerdem nach Leitungen, die einzelne Bauteile oder ganze Zweige umgehen.
+Wie Sie eine solche Überbrückung erkennen, haben Sie im vorherigen Teil gesehen.
+
+CUT TO:
+
+# AKT 5 FEHLERSUCHABLAUF
+= Immer in derselben Reihenfolge arbeiten
+
+## Checkliste
+INT. LABOR - SCHALTPLAN UND AUFBAU - TAG
+
+Der korrigierte Versuchsaufbau und der erweiterte Schaltplan aus Teil 2 werden nebeneinander gezeigt.
+Das Labornetzteil ist ausgeschaltet.
+
+SUPER:
+1. Fehlerbild beobachten
+
+ERZÄHLER (V.O.)
+Beobachten Sie, welche Glühbirnen nicht oder anders als erwartet leuchten.
+
+SUPER:
+2. Spannungsquelle ausschalten
+
+ERZÄHLER (V.O.)
+Schalten Sie die Spannungsquelle aus, bevor Sie den Aufbau verändern.
+
+SUPER:
+3. Betroffenen Bereich eingrenzen
+
+ERZÄHLER (V.O.)
+Entscheiden Sie, ob nur ein Zweig oder mehrere Zweige betroffen sind.
+
+SUPER:
+4. Mit dem Schaltplan vergleichen
+
+ERZÄHLER (V.O.)
+Verfolgen Sie den betroffenen Bereich Verbindung für Verbindung und prüfen Sie auch die eingestellten Widerstandswerte.
+
+SUPER:
+5. Einen Fehler korrigieren
+
+ERZÄHLER (V.O.)
+Korrigieren Sie immer nur einen Fehler und kontrollieren Sie danach erneut den vollständigen Aufbau.
+
+SUPER:
+6. Erst danach wieder einschalten
+
+Die Spannungsquelle ist auf 15 Volt eingestellt.
+Nach der vollständigen Kontrolle wird sie eingeschaltet.
+Alle drei Glühbirnen leuchten wie erwartet.
+
+INSERT - Grüner Haken
+
+ERZÄHLER (V.O.)
+Bleibt der Fehler bestehen oder sind Sie sich bei einem Anschluss unsicher, fragen Sie eine betreuende Person.
+
+CUT TO:
+
+# OUTRO
+
+INT. LABOR - TOTALE - TAG
+
+Der funktionierende Versuchsaufbau und der erweiterte Schaltplan werden gezeigt.
+
+ERZÄHLER (V.O.)
+Sie können nun ein Fehlerbild eingrenzen, einen betroffenen Zweig systematisch prüfen und Kurzschlüsse vor dem Einschalten erkennen.
+
+TH-OUTRO
+
+FADE TO WHITE
+
+TH-Logo erscheint
+
+# ENDE Episode 3.3, Fehlersuche in Schaltnetzen
