@@ -24,7 +24,7 @@ Wie lässt sich die Ursache jetzt systematisch finden?
 Das Labornetzteil wird ausgeschaltet.
 
 ERZÄHLER (V.O.)
-Schalten Sie die Spannungsquelle aus, bevor Sie Leitungen oder Bauteile überprüfen und verändern.
+Schalten Sie die Spannungsquelle aus oder stecken Sie sie ab, bevor Sie Leitungen oder Bauteile überprüfen und verändern.
 
 CUT TO:
 
@@ -109,10 +109,10 @@ CUT TO:
 ## Unterschiedliche Helligkeit
 INT. LABOR - ARBEITSTISCH - TAG
 
-Alle drei Glühbirnen leuchten, aber eine Glühbirne ist deutlich dunkler als erwartet.
+Alle drei Glühbirnen leuchten, aber eine Glühbirne ist deutlich schwächer als erwartet.
 
 ERZÄHLER (V.O.)
-Eine dunklere Glühbirne bedeutet nicht automatisch, dass eine Leitung fehlt.
+Eine schwächere Glühbirne bedeutet nicht automatisch, dass eine Leitung fehlt.
 Auch ein falsch eingestellter Widerstandswert verändert den Strom im betroffenen Zweig.
 
 Das Labornetzteil wird ausgeschaltet.

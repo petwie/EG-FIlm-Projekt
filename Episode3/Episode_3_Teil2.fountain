@@ -10,8 +10,12 @@ TH-INTRO
 
 INT. LABOR - TAG
 
-Der in Teil 1 übersichtlich umgezeichnete Schaltplan mit einer Spannungsquelle und drei Widerständen liegt auf dem Labortisch.
-Daneben stehen das ausgeschaltete Labornetzteil, drei Widerstandsdekaden, drei Glühbirnen und Leitungen mit Bananensteckern.
+SPLIT-SCREEN
+
+Links:
+Der in Teil 1 übersichtlich umgezeichnete Schaltplan mit einer Spannungsquelle und drei Widerständen.
+Rechts:
+Auf dem Labortisch stehen ein Labornetzteil, drei Widerstandsdekaden, drei Glühbirnen und Leitungen mit Bananensteckern.
 
 SUPER:
 Episode 3.2 – Knoten stecken
@@ -28,7 +32,7 @@ CUT TO:
 ## Anordnung auf dem Labortisch
 INT. LABOR - ARBEITSTISCH - TAG
 
-Der umgezeichnete Schaltplan aus Teil 1 bleibt gut sichtbar auf dem Labortisch liegen.
+Der umgezeichnete Schaltplan aus Teil 1 wird weiterhin links eingeblendet.
 Student*in ordnet das Labornetzteil und die drei Widerstandsdekaden entsprechend dieser Vorlage an.
 Hinter jeder Widerstandsdekade wird eine Glühbirne angeordnet.
 
@@ -36,11 +40,11 @@ ERZÄHLER (V.O.)
 Ordnen Sie zuerst alle Geräte und Bauteile übersichtlich auf dem Arbeitsplatz an.
 Orientieren Sie sich dabei an dem Schaltplan aus Teil 1.
 
-Im Schaltplan wird hinter jedem Widerstand zusätzlich das Symbol einer Glühbirne eingeblendet.
+Im Schaltplan wird hinter jedem Widerstand zusätzlich das Symbol einer Glühbirne hinzugefügt.
 
 ERZÄHLER (V.O.)
 Damit die einzelnen Strompfade im Versuchsaufbau sichtbar werden, ergänzen wir drei Glühbirnen.
-In diesem Teil wird hinter jede Widerstandsdekade immer eine Glühbirne in Reihe geschaltet.
+In diesem Teil wird hinter jede Widerstandsdekade eine Glühbirne in Reihe geschaltet.
 
 Das Labornetzteil ist mit dem Aufbau verbunden, bleibt aber ausgeschaltet.
 
@@ -66,8 +70,8 @@ Student*in steckt eine rote Leitung in die rote Bananenbuchse des Labornetzteils
 Der Ausgang der Widerstandsdekade wird mit der dahinter angeordneten Glühbirne verbunden.
 
 ERZÄHLER (V.O.)
-Für den Knoten am Pluspol verwenden Sie eine rote Leitung.
-Die erste Widerstandsdekade und die nachgeschaltete Glühbirne bilden eine Reihenschaltung.
+Verwenden Sie für den Knoten am Pluspol eine rote Leitung.
+Die erste Widerstandsdekade und die dazugehörige Glühbirne bilden eine Reihenschaltung.
 
 ## Mittlere Knoten
 INT. LABOR - ARBEITSTISCH - TAG
@@ -75,7 +79,7 @@ INT. LABOR - ARBEITSTISCH - TAG
 Der erste mittlere Knoten vor der Parallelschaltung wird schwarz hervorgehoben.
 Student*in verbindet diesen Knoten mit den Anfängen der beiden parallelen Widerstandsdekaden.
 
-Um mehrere Leitungen an derselben Bananenbuchse anzuschließen, wird ein Bananenstecker in die rückseitige Buchse eines bereits eingesteckten Bananensteckers gesteckt.
+Um mehrere Leitungen an derselben Bananenbuchse anzuschließen, stecken Sie einen Bananenstecker in die rückseitige Buchse eines bereits eingesteckten Bananensteckers.
 Eine Nahaufnahme zeigt die stapelbaren Bananenstecker.
 
 ERZÄHLER (V.O.)
@@ -84,16 +88,9 @@ Alle auf diese Weise verbundenen Leitungen gehören zum selben Knoten.
 
 Hinter jede der beiden parallelen Widerstandsdekaden wird eine Glühbirne in Reihe geschaltet.
 Die Ausgänge beider Glühbirnen werden am zweiten mittleren Knoten zusammengeführt.
-Auch dieser Knoten wird schwarz markiert.
-
-ERZÄHLER (V.O.)
-Beide mittleren Knoten werden in diesem Aufbau schwarz markiert.
-Es handelt sich trotzdem um zwei unterschiedliche Knoten: einen vor und einen hinter der Parallelschaltung.
-
-## Knoten am Minuspol
-
+Dieser Knoten wird Blau markiert.
 Der zweite mittlere Knoten wird mit dem Minuspol des Labornetzteils verbunden.
-Die Leitung am Minuspol ist blau.
+
 
 ERZÄHLER (V.O.)
 Für die Verbindung zum Minuspol verwenden Sie eine blaue Leitung.
@@ -212,7 +209,7 @@ Im Schaltplan werden die beiden Strompfade durch die parallelen Zweige angezeigt
 
 ERZÄHLER (V.O.)
 Im korrekten Aufbau fließt Strom durch beide parallelen Zweige.
-Deshalb leuchten die beiden Glühbirnen hinter den parallelen Widerstandsdekaden.
+Daher leuchten die beiden Glühbirnen hinter den parallelen Widerstandsdekaden.
 
 ## Parallele Zweige überbrücken
 
@@ -241,7 +238,7 @@ ERZÄHLER (V.O.)
 Eine Leitung, die Bauteile unbeabsichtigt überbrückt, verändert die Schaltung und kann einen Kurzschluss verursachen.
 Stecken oder entfernen Sie Leitungen deshalb nur bei ausgeschaltetem Labornetzteil.
 
-Das Labornetzteil wird wieder ausgeschaltet.
+Das Labornetzteil wird erneut ausgeschaltet.
 Die überbrückende Leitung wird entfernt.
 Nach einer erneuten Kontrolle wird das Labornetzteil eingeschaltet.
 Alle drei Glühbirnen leuchten wieder.
